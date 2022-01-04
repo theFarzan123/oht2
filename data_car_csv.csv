@@ -1,0 +1,2535 @@
+Age,Gender,City,Make,Model,SumInsured,Label
+45 Years,Male,Rawalpindi,S.Alto,2016,1057515,Accidental Claim
+38 Years,Male,Rawalpindi,H.City,2016,1225000,No Claim
+49 Years,Male,Rawalpindi,H.Civic,2013,2000000,Fraud Claim
+40 Years,Male,Rawalpindi,S.Swift,2017,1225000,Fraud Claim
+70 Years,Male,Rawalpindi,H.City,2015,1700000,Accidental Claim
+30 Years,Female ,Islamabad,S.Wagon-R,2018,1029600,No Claim
+65 Years,Female ,Islamabad,T.Altis,2014,1500000,Fraud Claim
+49 Years,Male,Taxila,S.Cultus,2018,1251909,Fraud Claim
+73 Years,Male,Rawalpindi,T.GLI,2015,1772000,Accidental Claim
+55 Years,Male,,T.GLI,2018,2200000,No Claim
+35 Years,Female ,Rawalpindi,H.City,2019,2267500,Fraud Claim
+36 Years ,Female ,Islamabad,S.Wagon-R,2017,935370,Fraud Claim
+49 Years,Female ,Islamabad,S.Wagon-R,2018,1047600,Accidental Claim
+35 Years,Male,Islamabad,H.City,2018,1500000,No Claim
+49 Years,Male,Islamabad,H.City,2018,1600000,Fraud Claim
+34 Years,Male,Islamabad,S.Hustler,2019,725300,Fraud Claim
+55 Years,Male,Jhelum,T.Aqua,2019,3265000,Accidental Claim
+43 Years,Male,Mardan,T.GLI,2018,2064606,No Claim
+35 Years,Male,Rawalpindi,S.Hustler,2014,1012500,Fraud Claim
+22 Years,Male,Islamabad,H.Civic,2017,1835000,Fraud Claim
+39 Years,Male,Islamabad,S.Hustler,2019,750000,Accidental Claim
+27 Years,Male,Rawalpindi,S.Mehran,2016,725000,No Claim
+55 Years,Male,Rawalpindi,S.Alto,2020,1395000,Fraud Claim
+45 Years,Male,Islamabad,S.Wagon-R,2017,886140,Fraud Claim
+36 Years ,Male,Peshawar,T.Aqua,2017,2600000,Accidental Claim
+24 Years,Female ,Islamabad,S.Wagon-R,2018,1110600,No Claim
+48 Years,Female ,Islamabad,T.Altis,2018,2541150,Fraud Claim
+30 Years,Male,Islamabad,H.Civic,2017,2500000,Fraud Claim
+46 Years,Male,Peshawar,T.Aqua,2016,2000000,Accidental Claim
+63 Years,Male,Peshawar,H.Civic,2018,2427244,No Claim
+39 Yerars,Male,Mardan,S.Alto,2019,1433000,Fraud Claim
+46 Years,Female ,Rawalpindi,H.Civic,2019,3179500,Fraud Claim
+39 Yerars,Male,Jhelum,H.Civic,2019,3765000,Accidental Claim
+49 Years,Male,Islamabad,H.Civic,2019,3550000,No Claim
+40 Years,Female ,Islamabad,T.Aqua,2019,2607500,Fraud Claim
+29 Years,Female ,Rawalpindi,S.Swift,2017,1074836,Fraud Claim
+40 Years,Male,Rawalpindi,S.Mehran,2017,550000,Accidental Claim
+25 Years,Male,Rawalpindi,H.Civic,2019,3907000,No Claim
+39 Years,Male,Rawalpindi,S.Wagon-R,2014,988200,Fraud Claim
+25 Years,Female ,Islamabad,H.Civic,2016,2600000,Fraud Claim
+36 years ,Female ,Islamabad,T.GLI,2015,1772000,Accidental Claim
+24 Years,Male,Islamabad,S.Wagon-R,2017,908650,No Claim
+46 years,Female ,Rawalpindi,S.Alto,2019,1295000,Fraud Claim
+60 years,Male,Jhelum,H.Civic,2020,3907000,Fraud Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2018,601003,Accidental Claim
+42 Years,Male,chakwal,S.Alto,2020,1518000,No Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2016,516132,Fraud Claim
+27 Years,Male,chakwal,S.Mehran,2015,502239,Fraud Claim
+25 Years,Male,Rawalpindi,S.Mehran,2017,601800,Accidental Claim
+60 Years,Male,Rawalpindi,S.Mehran,2018,607500,No Claim
+30 Years,Male,Rawalpindi,Honda  City,2018,1304910,Fraud Claim
+37 Years ,Male,Rawalpindi,Suzuki  Bolan,2018,607500,Fraud Claim
+40 Years,Male,Mir Pur AJK,Honda  CIVIC VTI ORIEL P/T,2018,2134755,Accidental Claim
+21 Years ,Male,Rawalpindi,Suzuki  Bolan,2016,528525,No Claim
+40 Years ,Male,Rawalpindi,Honda  Civic Oriel,2018,2635500,Fraud Claim
+25 Years,Male,Chakwal,Suzuki  Mehran,2017,625860,Fraud Claim
+35 Years,Male,Rawalpindi,Kia  Sportage AWD,2019,5399000,Accidental Claim
+60 Years,Male,Rawalpindi,Suzuki  Wagon R,2017,886146,No Claim
+45 Years,Male,Rawalpindi,Suzuki Wagon R,2016,1057515,Fraud Claim
+40 years,Male,Rawalpindi,Toyata Vitz,2016,1225000,Fraud Claim
+49 Years,Male,Rawalpindi,H.Civic,2013,2000000,Fraud Claim
+40 Years,Male,Islamabad,Honda city,2017,1225000,Fraud Claim
+70 Years,Male,Peshawar,H.City,2015,1700000,Fraud Claim
+30 Years,Male,Islamabad,S.Wagon-R,2018,1029600,Fraud Claim
+45 Years,Female ,Islamabad,T.Altis,2014,1500000,Fraud Claim
+49 Years,Male,Taxila,S.Cultus,2018,1251909,Fraud Claim
+73 Years,Male,Jhelum,T.GLI,2015,1772000,Fraud Claim
+55 Years,Male,Taxila,T.GLI,2018,2200000,Fraud Claim
+35 Years,Male,Rawalpindi,Suzuki Clutus,2019,2267500,Fraud Claim
+36 Years ,Female ,Islamabad,S.Wagon-R,2015,935370,Fraud Claim
+49 Years,Male,Rawalpindi,S.Wagon-R,2016,1047600,Fraud Claim
+35 Years,Female ,Islamabad,H.City,2018,1500000,Fraud Claim
+49 Years,Male,Taxila,H.City,2018,1600000,Fraud Claim
+34 Years,Female ,Islamabad,S.Hustler,2019,725300,Accidental Claim
+55 Years,Male,Jhelum,T.Aqua,2018,3265000,No Claim
+43 Years,Female ,Mardan,T.GLI,2018,2064606,Fraud Claim
+35 Years,Male,Rawalpindi,S.Hustler,2016,1012500,Fraud Claim
+22 Years,Male,Taxila,H.Civic,2017,1835000,Accidental Claim
+39 Years,Female ,Islamabad,S.Hustler,2019,750000,No Claim
+27 Years,Male,Rawalpindi,Prince Pearl,2016,725000,Fraud Claim
+55 Years,Male,Rawalpindi,S.Alto,2019,1395000,Fraud Claim
+45 Years,Female ,Islamabad,S.Wagon-R,2017,886140,Accidental Claim
+36 Years ,Male,Mardan,T.Aqua,2017,2600000,No Claim
+24 Years,Female ,Islamabad,S.Alto,2017,1110600,Fraud Claim
+48 Years,Male,Islamabad,T.Altis,2018,2541150,Fraud Claim
+30 Years,Female ,Islamabad,H.Civic,2017,2500000,Accidental Claim
+46 Years,Female ,Peshawar,T.Aqua,2015,2000000,No Claim
+63 Years,Male,Peshawar,H.Civic,2018,2427244,Fraud Claim
+39 Yerars,Female ,Mardan,S.Alto,2018,1433000,Fraud Claim
+46 Years,Female ,Rawalpindi,H.Civic,2018,3179500,Accidental Claim
+39 Yerars,Male,Islamabad,H.Civic,2019,3765000,No Claim
+49 Years,Male,Rawalpindi,H.Civic,2019,3550000,Fraud Claim
+40 Years,Female ,Taxila,T.Aqua,2019,2607500,Fraud Claim
+29 Years,Female ,Mardan,S.Swift,2017,1074836,Accidental Claim
+40 Years,Male,Jhelum,S.Mehran,2017,550000,No Claim
+25 Years,Female ,Rawalpindi,H.Civic,2019,3907000,Fraud Claim
+39 Years,Male,Rawalpindi,cultus,2014,988200,Fraud Claim
+25 Years,Female ,Islamabad,H.Civic,2018,2600000,Accidental Claim
+36 years ,Female ,Islamabad,T.GLI,2014,1772000,No Claim
+24 Years,Male,Islamabad,S.Wagon-R,214,908650,Fraud Claim
+46 years,Female ,Rawalpindi,S.Alto,2018,1295000,Fraud Claim
+60 years,Male,Jhelum,H.Civic,2019,3907000,Accidental Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2017,601003,No Claim
+42 Years,Male,chakwal,S.Alto,2018,1518000,Fraud Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2015,516132,Fraud Claim
+27 Years,Male,chakwal,S.Mehran,2014,502239,Accidental Claim
+45 Years,Male,Rawalpindi,S.Alto,2017,1057515,No Claim
+38 Years,Male,Rawalpindi,H.City,2016,1225000,Fraud Claim
+49 Years,Male,Rawalpindi,H.Civic,2014,2000000,Fraud Claim
+40 Years,Male,Rawalpindi,S.Swift,2018,1225000,Accidental Claim
+70 Years,Male,Rawalpindi,H.City,2016,1700000,No Claim
+30 Years,Female ,Islamabad,S.Wagon-R,2019,1029600,Fraud Claim
+65 Years,Female ,Islamabad,T.Altis,2015,1500000,Fraud Claim
+49 Years,Male,Taxila,S.Cultus,2019,1251909,Accidental Claim
+73 Years,Male,Rawalpindi,T.GLI,2016,1772000,No Claim
+55 Years,Male,Rawalpindi,T.GLI,2017,2200000,Fraud Claim
+35 Years,Female ,Rawalpindi,H.City,2020,2267500,Fraud Claim
+36 Years ,Female ,Islamabad,S.Wagon-R,2018,935370,Accidental Claim
+49 Years,Female ,Islamabad,S.Wagon-R,2017,1047600,No Claim
+35 Years,Female ,Islamabad,H.City,2018,1500000,Fraud Claim
+49 Years,Female ,Islamabad,H.City,2018,1600000,Fraud Claim
+34 Years,Female ,Islamabad,S.Hustler,2019,725300,Accidental Claim
+55 Years,Female ,Jhelum,T.Aqua,2019,3265000,No Claim
+43 Years,Female ,Mardan,T.GLI,2018,2064606,Fraud Claim
+35 Years,Female ,Rawalpindi,S.Hustler,2014,1012500,Fraud Claim
+22 Years,Male,Islamabad,H.Civic,2017,1835000,Accidental Claim
+39 Years,Female ,Islamabad,S.Hustler,2019,750000,No Claim
+27 Years,Male,Rawalpindi,S.Mehran,2016,725000,Fraud Claim
+55 Years,Female ,Rawalpindi,S.Alto,2020,1395000,Fraud Claim
+45 Years,Male,Islamabad,S.Wagon-R,2017,886140,Accidental Claim
+36 Years ,Male,Peshawar,T.Aqua,2017,2600000,No Claim
+24 Years,Female ,Islamabad,S.Wagon-R,2018,1110600,Fraud Claim
+48 Years,Female ,Islamabad,T.Altis,2018,2541150,Fraud Claim
+30 Years,Male,Islamabad,H.Civic,2017,2500000,Fraud Claim
+46 Years,Male,Peshawar,T.Aqua,2016,2000000,Fraud Claim
+63 Years,Male,Peshawar,H.Civic,2017,2427244,Fraud Claim
+39 Yerars,Male,Mardan,S.Alto,2020,1433000,Fraud Claim
+46 Years,Female ,Rawalpindi,H.Civic,2018,3179500,Fraud Claim
+39 Yerars,Male,Jhelum,H.Civic,2018,3765000,Fraud Claim
+49 Years,Male,Islamabad,H.Civic,2018,3550000,Fraud Claim
+40 Years,Female ,Islamabad,T.Aqua,2018,2607500,Fraud Claim
+29 Years,Female ,Rawalpindi,S.Swift,2018,1074836,Fraud Claim
+40 Years,Male,Rawalpindi,S.Mehran,2018,550000,Fraud Claim
+25 Years,Male,Rawalpindi,H.Civic,2018,3907000,Fraud Claim
+39 Years,Male,Rawalpindi,S.Wagon-R,2015,988200,Fraud Claim
+25 Years,Female ,Islamabad,H.Civic,2015,2600000,Fraud Claim
+36 years ,Female ,Islamabad,T.GLI,2016,1772000,Accidental Claim
+24 Years,Male,Islamabad,S.Wagon-R,2018,908650,No Claim
+46 years,Female ,Rawalpindi,S.Alto,2020,1295000,Fraud Claim
+60 years,Male,Jhelum,H.Civic,2019,3907000,Fraud Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2020,601003,Accidental Claim
+42 Years,Male,Jhelum,S.Alto,2020,1518000,No Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2016,516132,Fraud Claim
+27 Years,Male,Jhelum,S.Mehran,2015,502239,Fraud Claim
+45 Years,Male,Rawalpindi,S.Alto,2016,1057515,Accidental Claim
+38 Years,Male,Jhelum,H.City,2016,1225000,No Claim
+49 Years,Male,Mardan,H.Civic,2013,2000000,Fraud Claim
+40 Years,Female ,Rawalpindi,S.Swift,2017,1225000,Fraud Claim
+70 Years,Female ,Rawalpindi,H.City,2015,1700000,Accidental Claim
+30 Years,Female ,Jhelum,S.Wagon-R,2018,1029600,No Claim
+65 Years,Female ,Rawalpindi,T.Altis,2014,1500000,Fraud Claim
+49 Years,Male,Mardan,S.Cultus,2018,1251909,Fraud Claim
+73 Years,Male,Islamabad,T.GLI,2015,1772000,Accidental Claim
+55 Years,Male,Islamabad,T.GLI,2018,2200000,No Claim
+35 Years,Female ,Islamabad,H.City,2019,2267500,Fraud Claim
+36 Years ,Female ,Jhelum,S.Wagon-R,2017,935370,Fraud Claim
+49 Years,Female ,Rawalpindi,S.Wagon-R,2018,1047600,Accidental Claim
+35 Years,Male,Rawalpindi,H.City,2018,1500000,No Claim
+49 Years,Male,Rawalpindi,H.City,2018,1600000,Fraud Claim
+34 Years,Male,Rawalpindi,S.Hustler,2019,725300,Fraud Claim
+55 Years,Male,chakwal,T.Aqua,2019,3265000,Accidental Claim
+43 Years,Male,chakwal,T.GLI,2018,2064606,No Claim
+35 Years,Male,Islamabad,S.Hustler,2014,1012500,Fraud Claim
+22 Years,Male,Rawalpindi,H.Civic,2017,1835000,Fraud Claim
+39 Years,Male,Rawalpindi,S.Hustler,2019,750000,Accidental Claim
+27 Years,Male,Islamabad,S.Mehran,2016,725000,No Claim
+55 Years,Male,Islamabad,S.Alto,2020,1395000,Fraud Claim
+45 Years,Male,chakwal,S.Wagon-R,2017,886140,Fraud Claim
+36 Years ,Male,chakwal,T.Aqua,2017,2600000,Accidental Claim
+24 Years,Female ,Peshawar,S.Wagon-R,2018,1110600,No Claim
+48 Years,Female ,chakwal,T.Altis,2018,2541150,Fraud Claim
+30 Years,Male,Peshawar,H.Civic,2017,2500000,Fraud Claim
+46 Years,Female ,Peshawar,T.Aqua,2016,2000000,Accidental Claim
+63 Years,Male,Islamabad,H.Civic,2018,2427244,No Claim
+39 Yerars,Female ,Mardan,S.Alto,2019,1433000,Fraud Claim
+46 Years,Male,Rawalpindi,H.Civic,2019,3179500,Fraud Claim
+39 Yerars,Male,chakwal,H.Civic,2019,3765000,Accidental Claim
+49 Years,Male,chakwal,H.Civic,2019,3550000,No Claim
+40 Years,Female ,Rawalpindi,T.Aqua,2019,2607500,Fraud Claim
+29 Years,Female ,Islamabad,S.Swift,2017,1074836,Fraud Claim
+40 Years,Male,Islamabad,S.Mehran,2017,550000,Accidental Claim
+25 Years,Male,Jhelum,H.Civic,2019,3907000,No Claim
+39 Years,Male,Jhelum,S.Wagon-R,2014,988200,Fraud Claim
+25 Years,Male,Islamabad,H.Civic,2016,2600000,Fraud Claim
+36 years ,Female ,Rawalpindi,T.GLI,2015,1772000,Accidental Claim
+24 Years,Male,chakwal,S.Wagon-R,2017,908650,No Claim
+46 years,Female ,Jhelum,S.Alto,2019,1295000,Fraud Claim
+60 years,Male,chakwal,H.Civic,2020,3907000,Fraud Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2019,601003,Accidental Claim
+42 Years,Female ,chakwal,S.Alto,2020,1518000,No Claim
+36 Years,Female ,Muzaffarabad,S.Mehran,2016,516132,Fraud Claim
+27 Years,Male,Islamabad,S.Mehran,2015,502239,Fraud Claim
+45 Years,Male,Jhelum,S.Alto,2016,1057515,Accidental Claim
+38 Years,Male,Jhelum,H.City,2016,1225000,No Claim
+49 Years,Male,Islamabad,H.Civic,2013,2000000,Fraud Claim
+40 Years,Male,Islamabad,S.Swift,2017,1225000,Fraud Claim
+70 Years,Male,Islamabad,H.City,2015,1700000,Fraud Claim
+30 Years,Male,Islamabad,S.Wagon-R,2018,1029600,Fraud Claim
+65 Years,Female ,Islamabad,T.Altis,2015,1500000,Fraud Claim
+49 Years,Male,Taxila,S.Cultus,2019,1251909,Fraud Claim
+73 Years,Male,Rawalpindi,T.GLI,2016,1772000,Fraud Claim
+55 Years,Male,Rawalpindi,T.GLI,2020,2200000,Fraud Claim
+35 Years,Female ,Rawalpindi,H.City,2018,2267500,Fraud Claim
+36 Years ,Female ,Islamabad,S.Wagon-R,2016,935370,Fraud Claim
+49 Years,Female ,Islamabad,S.Wagon-R,2019,1047600,Fraud Claim
+35 Years,Male,Islamabad,H.City,2014,1500000,Fraud Claim
+49 Years,Male,Islamabad,H.City,2017,1600000,Fraud Claim
+34 Years,Male,Islamabad,S.Hustler,2019,725300,Fraud Claim
+55 Years,Male,Jhelum,T.Aqua,2020,3265000,Fraud Claim
+43 Years,Male,Mardan,T.GLI,2017,2064606,Accidental Claim
+35 Years,Male,Rawalpindi,S.Hustler,2015,1012500,No Claim
+22 Years,Male,Islamabad,H.Civic,2018,1835000,Accidental Claim
+39 Years,Male,Islamabad,S.Hustler,2020,750000,No Claim
+27 Years,Male,Rawalpindi,S.Mehran,2017,725000,Accidental Claim
+55 Years,Male,Rawalpindi,S.Alto,2019,1395000,No Claim
+45 Years,Male,Islamabad,S.Wagon-R,2018,886140,Accidental Claim
+36 Years ,Male,Peshawar,T.Aqua,2018,2600000,No Claim
+24 Years,Female ,Islamabad,S.Wagon-R,2019,1110600,Accidental Claim
+48 Years,Female ,Islamabad,T.Altis,2020,2541150,No Claim
+30 Years,Male,Islamabad,H.Civic,2018,2500000,Accidental Claim
+46 Years,Male,Peshawar,T.Aqua,2017,2000000,No Claim
+63 Years,Male,Peshawar,H.Civic,2019,2427244,Accidental Claim
+39 Yerars,Male,Mardan,S.Alto,2020,1433000,No Claim
+46 Years,Female ,Rawalpindi,H.Civic,2020,3179500,Accidental Claim
+39 Yerars,Male,Jhelum,H.Civic,2020,3765000,No Claim
+49 Years,Male,Islamabad,H.Civic,2020,3550000,Accidental Claim
+40 Years,Female ,Islamabad,T.Aqua,2020,2607500,No Claim
+29 Years,Female ,Rawalpindi,S.Swift,2018,1074836,Accidental Claim
+40 Years,Male,Rawalpindi,S.Mehran,2018,550000,No Claim
+25 Years,Male,Rawalpindi,H.Civic,2018,3907000,Accidental Claim
+39 Years,Male,Rawalpindi,S.Wagon-R,2015,988200,Theft Claim
+25 Years,Female ,Islamabad,H.Civic,2017,2600000,Accidental Claim
+36 years ,Female ,Islamabad,T.GLI,2016,1772000,Theft Claim
+24 Years,Male,Islamabad,S.Wagon-R,2018,908650,Accidental Claim
+46 years,Female ,Rawalpindi,S.Alto,2020,1295000,Theft Claim
+60 years,Male,Jhelum,H.Civic,2019,3907000,Accidental Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2019,601003,Theft Claim
+42 Years,Male,chakwal,S.Alto,2019,1518000,Accidental Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2017,516132,Theft Claim
+27 Years,Female ,chakwal,S.Mehran,2015,502239,Accidental Claim
+45 Years,Female ,Rawalpindi,S.Alto,2016,1057515,Theft Claim
+38 Years,Female ,Rawalpindi,H.City,2016,1225000,Accidental Claim
+49 Years,Male,Islamabad,H.Civic,2013,2000000,Theft Claim
+40 Years,Male,Islamabad,S.Swift,2017,1225000,Accidental Claim
+70 Years,Male,Jhelum,H.City,2015,1700000,Theft Claim
+30 Years,Female ,Peshawar,S.Wagon-R,2018,1029600,Accidental Claim
+65 Years,Female ,Peshawar,T.Altis,2014,1500000,Theft Claim
+49 Years,Female ,Taxila,S.Cultus,2018,1251909,Accidental Claim
+73 Years,Male,Jhelum,T.GLI,2015,1772000,Theft Claim
+55 Years,Male,Jhelum,T.GLI,2018,2200000,Accidental Claim
+35 Years,Female ,Jhelum,H.City,2019,2267500,Theft Claim
+36 Years ,Female ,Peshawar,S.Wagon-R,2017,935370,Accidental Claim
+49 Years,Female ,Jhelum,S.Wagon-R,2018,1047600,Theft Claim
+35 Years,Male,Taxila,H.City,2018,1500000,Accidental Claim
+49 Years,Male,Taxila,H.City,2018,1600000,Theft Claim
+34 Years,Male,Rawalpindi,S.Hustler,2019,725300,Accidental Claim
+55 Years,Male,Taxila,T.Aqua,2019,3265000,Theft Claim
+43 Years,Male,Peshawar,T.GLI,2018,2064606,Accidental Claim
+35 Years,Male,Peshawar,S.Hustler,2014,1012500,Theft Claim
+22 Years,Female ,Islamabad,H.Civic,2017,1835000,Fraud Claim
+39 Years,Female ,Islamabad,S.Hustler,2019,750000,Fraud Claim
+27 Years,Female ,Rawalpindi,S.Mehran,2016,725000,Fraud Claim
+55 Years,Male,Islamabad,S.Alto,2020,1395000,Fraud Claim
+45 Years,Male,Jhelum,S.Wagon-R,2017,886140,Fraud Claim
+36 Years ,Male,Jhelum,T.Aqua,2017,2600000,Fraud Claim
+24 Years,Female ,Islamabad,S.Wagon-R,2018,1110600,Fraud Claim
+48 Years,Male,Islamabad,T.Altis,2018,2541150,Fraud Claim
+30 Years,Female ,Islamabad,H.Civic,2017,2500000,Fraud Claim
+46 Years,Male,Islamabad,T.Aqua,2016,2000000,Fraud Claim
+63 Years,Male,Peshawar,H.Civic,2019,2427244,Fraud Claim
+39 Yerars,Male,Peshawar,S.Alto,2019,1433000,Fraud Claim
+46 Years,Female ,Islamabad,H.Civic,2019,3179500,Fraud Claim
+39 Yerars,Male,chakwal,H.Civic,2019,3765000,Fraud Claim
+49 Years,Male,chakwal,H.Civic,2019,3550000,Fraud Claim
+40 Years,Female ,Rawalpindi,T.Aqua,2019,2607500,Fraud Claim
+29 Years,Female ,Islamabad,S.Swift,2017,1074836,Fraud Claim
+40 Years,Male,Islamabad,S.Mehran,2017,550000,Fraud Claim
+25 Years,Male,Jhelum,H.Civic,2019,3907000,Fraud Claim
+39 Years,Male,Mardan,S.Wagon-R,2014,988200,Fraud Claim
+25 Years,Female ,Islamabad,H.Civic,2017,2600000,Fraud Claim
+36 years ,Female ,Islamabad,T.GLI,2018,1772000,Fraud Claim
+24 Years,Male,Islamabad,S.Wagon-R,2018,908650,Fraud Claim
+46 years,Female ,Rawalpindi,S.Alto,2019,1295000,Fraud Claim
+60 years,Male,Jhelum,H.Civic,2019,3907000,Fraud Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2019,601003,Fraud Claim
+42 Years,Male,chakwal,S.Alto,2019,1518000,Fraud Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2017,516132,Fraud Claim
+27 Years,Male,chakwal,S.Mehran,2016,502239,Fraud Claim
+45 Years,Male,Jhelum,S.Alto,2016,1057515,Fraud Claim
+38 Years,Male,Jhelum,H.City,2016,1225000,Fraud Claim
+49 Years,Male,Islamabad,H.Civic,2013,2000000,Fraud Claim
+40 Years,Male,Islamabad,S.Swift,2017,1225000,Fraud Claim
+70 Years,Male,Islamabad,H.City,2015,1700000,Fraud Claim
+30 Years,Male,Islamabad,S.Wagon-R,2018,1029600,Fraud Claim
+65 Years,Female ,Islamabad,T.Altis,2015,1500000,Fraud Claim
+49 Years,Male,Taxila,S.Cultus,2019,1251909,Fraud Claim
+73 Years,Male,Rawalpindi,T.GLI,2016,1772000,Fraud Claim
+55 Years,Male,Rawalpindi,T.GLI,2020,2200000,Fraud Claim
+35 Years,Female ,Rawalpindi,H.City,2018,2267500,Fraud Claim
+36 Years ,Female ,Islamabad,S.Wagon-R,2016,935370,Fraud Claim
+49 Years,Female ,Islamabad,S.Wagon-R,2019,1047600,Fraud Claim
+35 Years,Male,Islamabad,H.City,2014,1500000,Fraud Claim
+49 Years,Male,Islamabad,H.City,2017,1600000,Fraud Claim
+34 Years,Male,Islamabad,S.Hustler,2019,725300,Fraud Claim
+55 Years,Male,Jhelum,T.Aqua,2020,3265000,Fraud Claim
+43 Years,Male,Mardan,T.GLI,2017,2064606,Fraud Claim
+35 Years,Male,Rawalpindi,S.Hustler,2015,1012500,Fraud Claim
+22 Years,Male,Islamabad,H.Civic,2018,1835000,Fraud Claim
+39 Years,Male,Islamabad,S.Hustler,2020,750000,Fraud Claim
+27 Years,Male,Rawalpindi,S.Mehran,2017,725000,Fraud Claim
+55 Years,Male,Rawalpindi,S.Alto,2019,1395000,Fraud Claim
+45 Years,Male,Islamabad,S.Wagon-R,2018,886140,Accidental Claim
+36 Years ,Male,Peshawar,T.Aqua,2018,2600000,Theft Claim
+24 Years,Female ,Islamabad,S.Wagon-R,2019,1110600,Fraud Claim
+48 Years,Female ,Islamabad,T.Altis,2020,2541150,Fraud Claim
+30 Years,Male,Islamabad,H.Civic,2018,2500000,Accidental Claim
+46 Years,Male,Peshawar,T.Aqua,2017,2000000,Theft Claim
+63 Years,Male,Peshawar,H.Civic,2019,2427244,Fraud Claim
+39 Yerars,Male,Mardan,S.Alto,2020,1433000,Fraud Claim
+46 Years,Female ,Rawalpindi,H.Civic,2020,3179500,Accidental Claim
+39 Yerars,Male,Jhelum,H.Civic,2020,3765000,Theft Claim
+49 Years,Male,Islamabad,H.Civic,2020,3550000,Fraud Claim
+40 Years,Female ,Islamabad,T.Aqua,2020,2607500,Fraud Claim
+29 Years,Female ,Rawalpindi,S.Swift,2018,1074836,Accidental Claim
+40 Years,Male,Rawalpindi,S.Mehran,2018,550000,Theft Claim
+25 Years,Male,Rawalpindi,H.Civic,2018,3907000,Fraud Claim
+39 Years,Male,Rawalpindi,S.Wagon-R,2015,988200,Fraud Claim
+25 Years,Female ,Islamabad,H.Civic,2017,2600000,Accidental Claim
+36 years ,Female ,Islamabad,T.GLI,2016,1772000,Theft Claim
+24 Years,Male,Islamabad,S.Wagon-R,2018,908650,Fraud Claim
+46 years,Female ,Rawalpindi,S.Alto,2020,1295000,Fraud Claim
+60 years,Male,Jhelum,H.Civic,2019,3907000,Accidental Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2019,601003,Theft Claim
+42 Years,Male,chakwal,S.Alto,2019,1518000,Fraud Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2017,516132,Fraud Claim
+27 Years,Female ,chakwal,S.Mehran,2015,502239,Accidental Claim
+45 Years,Female ,Rawalpindi,S.Alto,2016,1057515,Theft Claim
+38 Years,Female ,Rawalpindi,H.City,2016,1225000,Fraud Claim
+49 Years,Male,Islamabad,H.Civic,2013,2000000,Fraud Claim
+40 Years,Male,Islamabad,S.Swift,2017,1225000,Accidental Claim
+70 Years,Male,Jhelum,H.City,2015,1700000,Theft Claim
+30 Years,Female ,Peshawar,S.Wagon-R,2018,1029600,Fraud Claim
+65 Years,Female ,Peshawar,T.Altis,2014,1500000,Fraud Claim
+49 Years,Female ,Taxila,S.Cultus,2018,1251909,Accidental Claim
+73 Years,Male,Jhelum,T.GLI,2015,1772000,Theft Claim
+55 Years,Male,Jhelum,T.GLI,2018,2200000,Fraud Claim
+35 Years,Female ,Jhelum,H.City,2019,2267500,Fraud Claim
+36 Years ,Female ,Peshawar,S.Wagon-R,2017,935370,Accidental Claim
+49 Years,Female ,Jhelum,S.Wagon-R,2018,1047600,Theft Claim
+35 Years,Male,Taxila,H.City,2018,1500000,Fraud Claim
+49 Years,Male,Taxila,H.City,2018,1600000,Fraud Claim
+34 Years,Male,Rawalpindi,S.Hustler,2019,725300,Accidental Claim
+55 Years,Male,Taxila,T.Aqua,2019,3265000,Theft Claim
+43 Years,Male,Peshawar,T.GLI,2018,2064606,Fraud Claim
+35 Years,Male,Peshawar,S.Hustler,2014,1012500,Fraud Claim
+22 Years,Female ,Islamabad,H.Civic,2017,1835000,Accidental Claim
+39 Years,Female ,Islamabad,S.Hustler,2019,750000,Theft Claim
+27 Years,Female ,Rawalpindi,S.Mehran,2016,725000,Fraud Claim
+55 Years,Male,Islamabad,S.Alto,2020,1395000,Fraud Claim
+45 Years,Male,Jhelum,S.Wagon-R,2017,886140,Accidental Claim
+36 Years ,Male,Jhelum,T.Aqua,2017,2600000,Theft Claim
+24 Years,Female ,Islamabad,S.Wagon-R,2018,1110600,Fraud Claim
+48 Years,Male,Islamabad,T.Altis,2018,2541150,Fraud Claim
+30 Years,Female ,Islamabad,H.Civic,2017,2500000,Accidental Claim
+46 Years,Male,Islamabad,T.Aqua,2016,2000000,Theft Claim
+63 Years,Male,Peshawar,H.Civic,2019,2427244,Fraud Claim
+39 Yerars,Male,Peshawar,S.Alto,2019,1433000,Fraud Claim
+46 Years,Female ,Islamabad,H.Civic,2019,3179500,Accidental Claim
+39 Yerars,Male,chakwal,H.Civic,2019,3765000,Theft Claim
+49 Years,Male,chakwal,H.Civic,2019,3550000,Fraud Claim
+40 Years,Female ,Rawalpindi,T.Aqua,2019,2607500,Fraud Claim
+29 Years,Female ,Islamabad,S.Swift,2017,1074836,Fraud Claim
+40 Years,Male,Islamabad,S.Mehran,2017,550000,Fraud Claim
+25 Years,Male,Jhelum,H.Civic,2019,3907000,Fraud Claim
+39 Years,Male,Mardan,S.Wagon-R,2014,988200,Fraud Claim
+25 Years,Female ,Islamabad,H.Civic,2017,2600000,Fraud Claim
+36 years ,Female ,Islamabad,T.GLI,2018,1772000,Fraud Claim
+24 Years,Male,Islamabad,S.Wagon-R,2018,908650,Fraud Claim
+46 years,Female ,Rawalpindi,S.Alto,2019,1295000,Fraud Claim
+60 years,Male,Jhelum,H.Civic,2019,3907000,Fraud Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2019,601003,Fraud Claim
+42 Years,Male,chakwal,S.Alto,2019,1518000,Fraud Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2017,516132,Fraud Claim
+27 Years,Male,chakwal,S.Mehran,2016,502239,Fraud Claim
+70 Years,Male,Peshawar,H.City,2015,1700000,Accidental Claim
+30 Years,Male,Islamabad,S.Wagon-R,2018,1029600,Theft Claim
+45 Years,Female ,Islamabad,T.Altis,2014,1500000,Fraud Claim
+49 Years,Male,Taxila,S.Cultus,2018,1251909,Fraud Claim
+73 Years,Male,Jhelum,T.GLI,2015,1772000,Accidental Claim
+55 Years,Male,Taxila,T.GLI,2018,2200000,Theft Claim
+35 Years,Male,Rawalpindi,Suzuki Clutus,2019,2267500,Fraud Claim
+36 Years ,Female ,Islamabad,S.Wagon-R,2015,935370,Fraud Claim
+49 Years,Male,Rawalpindi,S.Wagon-R,2016,1047600,Accidental Claim
+35 Years,Female ,Islamabad,H.City,2018,1500000,Theft Claim
+49 Years,Male,Taxila,H.City,2018,1600000,Fraud Claim
+34 Years,Female ,Islamabad,S.Hustler,2019,725300,Fraud Claim
+55 Years,Male,Jhelum,T.Aqua,2018,3265000,Accidental Claim
+43 Years,Female ,Mardan,T.GLI,2018,2064606,Theft Claim
+35 Years,Male,Rawalpindi,S.Hustler,2016,1012500,Fraud Claim
+22 Years,Male,Taxila,H.Civic,2017,1835000,Fraud Claim
+39 Years,Female ,Islamabad,S.Hustler,2019,750000,Accidental Claim
+27 Years,Male,Rawalpindi,Prince Pearl,2016,725000,Theft Claim
+55 Years,Male,Rawalpindi,S.Alto,2019,1395000,Fraud Claim
+45 Years,Female ,Islamabad,S.Wagon-R,2017,886140,Fraud Claim
+36 Years ,Male,Mardan,T.Aqua,2017,2600000,Accidental Claim
+24 Years,Female ,Islamabad,S.Alto,2017,1110600,Theft Claim
+48 Years,Male,Islamabad,T.Altis,2018,2541150,Fraud Claim
+30 Years,Female ,Islamabad,H.Civic,2017,2500000,Accidental Claim
+46 Years,Female ,Peshawar,T.Aqua,2015,2000000,Theft Claim
+63 Years,Male,Peshawar,H.Civic,2018,2427244,Fraud Claim
+39 Yerars,Female ,Mardan,S.Alto,2018,1433000,Fraud Claim
+46 Years,Female ,Rawalpindi,H.Civic,2018,3179500,Accidental Claim
+39 Yerars,Male,Islamabad,H.Civic,2019,3765000,Theft Claim
+49 Years,Male,Rawalpindi,H.Civic,2019,3550000,Fraud Claim
+40 Years,Female ,Taxila,T.Aqua,2019,2607500,Fraud Claim
+29 Years,Female ,Mardan,S.Swift,2017,1074836,Accidental Claim
+40 Years,Male,Jhelum,S.Mehran,2017,550000,Theft Claim
+25 Years,Female ,Rawalpindi,H.Civic,2019,3907000,Fraud Claim
+39 Years,Male,Rawalpindi,cultus,2014,988200,Fraud Claim
+25 Years,Female ,Islamabad,H.Civic,2018,2600000,Accidental Claim
+36 years ,Female ,Islamabad,T.GLI,2014,1772000,Theft Claim
+24 Years,Male,Islamabad,S.Wagon-R,214,908650,Fraud Claim
+46 years,Female ,Rawalpindi,S.Alto,2018,1295000,Fraud Claim
+60 years,Male,Jhelum,H.Civic,2019,3907000,Accidental Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2017,601003,Theft Claim
+42 Years,Male,chakwal,S.Alto,2018,1518000,Fraud Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2015,516132,Fraud Claim
+27 Years,Male,chakwal,S.Mehran,2014,502239,Accidental Claim
+45 Years,Male,Rawalpindi,S.Alto,2017,1057515,Theft Claim
+38 Years,Male,Rawalpindi,H.City,2016,1225000,Fraud Claim
+49 Years,Male,Rawalpindi,H.Civic,2014,2000000,Fraud Claim
+40 Years,Male,Rawalpindi,S.Swift,2018,1225000,Accidental Claim
+70 Years,Male,Rawalpindi,H.City,2016,1700000,Theft Claim
+30 Years,Female ,Islamabad,S.Wagon-R,2019,1029600,Fraud Claim
+65 Years,Female ,Islamabad,T.Altis,2015,1500000,Fraud Claim
+49 Years,Male,Taxila,S.Cultus,2019,1251909,Accidental Claim
+73 Years,Male,Rawalpindi,T.GLI,2016,1772000,Theft Claim
+55 Years,Male,Rawalpindi,T.GLI,2017,2200000,Fraud Claim
+35 Years,Female ,Rawalpindi,H.City,2020,2267500,Fraud Claim
+36 Years ,Female ,Islamabad,S.Wagon-R,2018,935370,Accidental Claim
+49 Years,Female ,Islamabad,S.Wagon-R,2017,1047600,Theft Claim
+35 Years,Female ,Islamabad,H.City,2018,1500000,Fraud Claim
+49 Years,Female ,Islamabad,H.City,2018,1600000,Fraud Claim
+34 Years,Female ,Islamabad,S.Hustler,2019,725300,Accidental Claim
+55 Years,Female ,Jhelum,T.Aqua,2019,3265000,Theft Claim
+43 Years,Female ,Mardan,T.GLI,2018,2064606,Fraud Claim
+35 Years,Female ,Rawalpindi,S.Hustler,2014,1012500,Fraud Claim
+22 Years,Male,Islamabad,H.Civic,2017,1835000,Accidental Claim
+39 Years,Female ,Islamabad,S.Hustler,2019,750000,Theft Claim
+27 Years,Male,Rawalpindi,S.Mehran,2016,725000,Fraud Claim
+55 Years,Female ,Rawalpindi,S.Alto,2020,1395000,Fraud Claim
+45 Years,Male,Islamabad,S.Wagon-R,2017,886140,Accidental Claim
+36 Years ,Male,Peshawar,T.Aqua,2017,2600000,Theft Claim
+24 Years,Female ,Islamabad,S.Wagon-R,2018,1110600,Fraud Claim
+48 Years,Female ,Islamabad,T.Altis,2018,2541150,Fraud Claim
+30 Years,Male,Islamabad,H.Civic,2017,2500000,Accidental Claim
+46 Years,Male,Peshawar,T.Aqua,2016,2000000,Theft Claim
+63 Years,Male,Peshawar,H.Civic,2017,2427244,Fraud Claim
+39 Yerars,Male,Mardan,S.Alto,2020,1433000,Fraud Claim
+46 Years,Female ,Rawalpindi,H.Civic,2018,3179500,Accidental Claim
+39 Yerars,Male,Jhelum,H.Civic,2018,3765000,Theft Claim
+49 Years,Male,Islamabad,H.Civic,2018,3550000,Fraud Claim
+40 Years,Female ,Islamabad,T.Aqua,2018,2607500,Fraud Claim
+29 Years,Female ,Rawalpindi,S.Swift,2018,1074836,Accidental Claim
+40 Years,Male,Rawalpindi,S.Mehran,2018,550000,Theft Claim
+25 Years,Male,Rawalpindi,H.Civic,2018,3907000,Fraud Claim
+39 Years,Male,Rawalpindi,S.Wagon-R,2015,988200,Fraud Claim
+25 Years,Female ,Islamabad,H.Civic,2015,2600000,Fraud Claim
+36 years ,Female ,Islamabad,T.GLI,2016,1772000,Fraud Claim
+35 Years,Male,Islamabad,H.City,2018,1500000,Fraud Claim
+49 Years,Male,Islamabad,H.City,2018,1600000,Fraud Claim
+34 Years,Male,Islamabad,S.Hustler,2019,725300,Fraud Claim
+55 Years,Male,Jhelum,T.Aqua,2019,3265000,Fraud Claim
+43 Years,Male,Mardan,T.GLI,2018,2064606,Fraud Claim
+35 Years,Male,Rawalpindi,S.Hustler,2014,1012500,Fraud Claim
+22 Years,Male,Islamabad,H.Civic,2017,1835000,Fraud Claim
+39 Years,Male,Islamabad,S.Hustler,2019,750000,Fraud Claim
+27 Years,Male,Rawalpindi,S.Mehran,2016,725000,Fraud Claim
+60 Years,Female,Mardan,S.Alto,2020,1395000,Fraud Claim
+45 Years,Female,Mardan,S.Alto,2016,1057515,Fraud Claim
+38 Years,Female,Mardan,H.City,2016,1225000,Accidental Claim
+49 Years,Female,Mardan,H.Civic,2013,2000000,Theft Claim
+40 Years,Female,Mardan,S.Swift,2017,1225000,Fraud Claim
+70 Years,Female,Mardan,H.City,2015,1700000,Fraud Claim
+30 Years,FeFemale ,Harripur,S.Wagon-R,2020,1029600,Accidental Claim
+65 Years,FeFemale ,Harripur,T.Altis,2014,1500000,Theft Claim
+49 Years,Female,Taxila,S.Cultus,2020,1251909,Fraud Claim
+73 Years,Female,Mardan,H.Civic,2015,1772000,Fraud Claim
+60 Years,Female,Mardan,H.Civic,2020,2200000,Accidental Claim
+35 Years,FeFemale ,Mardan,H.City,2019,2267500,Theft Claim
+36 Years ,FeFemale ,Harripur,S.Wagon-R,2017,935370,Fraud Claim
+49 Years,FeFemale ,Harripur,S.Wagon-R,2020,1047600,Fraud Claim
+35 Years,Female,Harripur,H.City,2020,1500000,Accidental Claim
+49 Years,Female,Harripur,H.City,2020,1600000,Theft Claim
+34 Years,Female,Harripur,S.Hustler,2019,725300,Fraud Claim
+60 Years,Female,Jhelum,T.Aqua,2019,3265000,Fraud Claim
+43 Years,Female,Mardan,H.Civic,2020,2064606,Accidental Claim
+35 Years,Female,Mardan,S.Hustler,2014,1012500,Theft Claim
+22 Years,Female,Harripur,H.Civic,2017,1835000,Fraud Claim
+39 Years,Female,Harripur,S.Hustler,2019,750000,Fraud Claim
+27 Years,Female,Mardan,S.Mehran,2016,725000,Accidental Claim
+60 Years,Female,Mardan,S.Alto,2020,1395000,Theft Claim
+45 Years,Female,Harripur,S.Wagon-R,2017,886140,Fraud Claim
+36 Years ,Female,Peshawar,T.Aqua,2017,2600000,Accidental Claim
+24 Years,FeFemale ,Harripur,S.Wagon-R,2020,1110600,Theft Claim
+48 Years,FeFemale ,Harripur,T.Altis,2020,2541150,Fraud Claim
+30 Years,Female,Harripur,H.Civic,2017,2500000,Fraud Claim
+46 Years,Female,Peshawar,T.Aqua,2016,2000000,Accidental Claim
+63 Years,Female,Peshawar,H.Civic,2020,2427244,Theft Claim
+39 Yerars,Female,Mardan,S.Alto,2019,1433000,Fraud Claim
+46 Years,FeFemale ,Rawalpindi,H.Civic,2019,3179500,Fraud Claim
+39 Yerars,Female,Jhelum,H.Civic,2019,3765000,Accidental Claim
+49 Years,Female,Harripur,H.Civic,2019,3550000,Theft Claim
+40 Years,FeFemale ,Harripur,T.Aqua,2019,2607500,Fraud Claim
+29 Years,FeFemale ,Rawalpindi,S.Swift,2017,1074836,Fraud Claim
+40 Years,Female,Rawalpindi,S.Mehran,2017,550000,Accidental Claim
+25 Years,Female,Rawalpindi,H.Civic,2019,3907000,Theft Claim
+39 Years,Female,Rawalpindi,S.Wagon-R,2014,988200,Fraud Claim
+25 Years,FeFemale ,Harripur,H.Civic,2016,2600000,Fraud Claim
+36 years ,FeFemale ,Harripur,H.Civic,2015,1772000,Accidental Claim
+24 Years,Female,Harripur,S.Wagon-R,2017,908650,Theft Claim
+46 years,FeFemale ,Rawalpindi,S.Alto,2019,1295000,Fraud Claim
+60 Years years,Female,Jhelum,H.Civic,2020,3907000,Fraud Claim
+47 years ,FeFemale ,Muzaffarabad,S.Mehran,2020,601003,Accidental Claim
+42 Years,Female,chakwal,S.Alto,2020,1518000,Theft Claim
+36 Years,Female,Muzaffarabad,S.Mehran,2016,516132,Fraud Claim
+27 Years,Female,chakwal,S.Mehran,2015,502239,Fraud Claim
+25 Years,Female,Rawalpindi,S.Mehran,2017,601800,Accidental Claim
+60 Years Years,Female,Rawalpindi,S.Mehran,2020,607500,Theft Claim
+30 Years,Female,Rawalpindi,Honda  City,2020,1304910,Fraud Claim
+37 Years ,Female,Rawalpindi,Suzuki  Bolan,2020,607500,Fraud Claim
+40 Years,Female,Mir Pur AJK,Honda  CIVIC VTI ORIEL P/T,2020,2134755,Accidental Claim
+21 Years ,Female,Rawalpindi,Suzuki  Bolan,2016,528525,Theft Claim
+40 Years ,Female,Rawalpindi,Honda  Civic Oriel,2020,2635500,Fraud Claim
+25 Years,Female,Chakwal,Suzuki  Mehran,2017,625860,Fraud Claim
+35 Years,Female,Rawalpindi,Kia  Sportage AWD,2019,5399000,Accidental Claim
+60 Years Years,Female,Rawalpindi,Suzuki  Wagon R,2017,886146,Theft Claim
+45 Years,Female,Rawalpindi,Suzuki Wagon R,2016,1057515,Fraud Claim
+40 years,Female,Rawalpindi,Toyata Vitz,2016,1225000,Fraud Claim
+49 Years,Female,Rawalpindi,H.Civic,2013,2000000,Accidental Claim
+40 Years,Female,Harripur,Honda city,2017,1225000,Theft Claim
+70 Years,Female,Peshawar,H.City,2015,1700000,Fraud Claim
+30 Years,Female,Harripur,S.Wagon-R,2020,1029600,Fraud Claim
+45 Years,FeFemale ,Harripur,T.Altis,2014,1500000,Accidental Claim
+49 Years,Female,Taxila,S.Cultus,2020,1251909,Theft Claim
+73 Years,Female,Jhelum,H.Civic,2015,1772000,Fraud Claim
+60 Years,Female,Taxila,H.Civic,2020,2200000,Fraud Claim
+35 Years,Female,Rawalpindi,Suzuki Clutus,2019,2267500,Accidental Claim
+36 Years ,FeFemale ,Harripur,S.Wagon-R,2015,935370,Theft Claim
+49 Years,Female,Rawalpindi,S.Wagon-R,2016,1047600,Fraud Claim
+35 Years,FeFemale ,Harripur,H.City,2020,1500000,Fraud Claim
+49 Years,Female,Taxila,H.City,2020,1600000,Accidental Claim
+34 Years,FeFemale ,Harripur,S.Hustler,2019,725300,Theft Claim
+60 Years,Female,Jhelum,T.Aqua,2020,3265000,Fraud Claim
+43 Years,FeFemale ,Mardan,H.Civic,2020,2064606,Fraud Claim
+35 Years,Female,Rawalpindi,S.Hustler,2016,1012500,Accidental Claim
+22 Years,Female,Taxila,H.Civic,2017,1835000,Theft Claim
+39 Years,FeFemale ,Harripur,S.Hustler,2019,750000,Fraud Claim
+27 Years,Female,Rawalpindi,Prince Pearl,2016,725000,Fraud Claim
+60 Years,Female,Rawalpindi,S.Alto,2019,1395000,Accidental Claim
+45 Years,FeFemale ,Harripur,S.Wagon-R,2017,886140,Theft Claim
+36 Years ,Female,Mardan,T.Aqua,2017,2600000,Fraud Claim
+24 Years,FeFemale ,Harripur,S.Alto,2017,1110600,Fraud Claim
+48 Years,Female,Harripur,T.Altis,2020,2541150,Fraud Claim
+30 Years,FeFemale ,Harripur,H.Civic,2017,2500000,Fraud Claim
+46 Years,FeFemale ,Peshawar,T.Aqua,2015,2000000,Fraud Claim
+63 Years,Female,Peshawar,H.Civic,2020,2427244,Fraud Claim
+39 Yerars,FeFemale ,Mardan,S.Alto,2020,1433000,Fraud Claim
+46 Years,FeFemale ,Rawalpindi,H.Civic,2020,3179500,Fraud Claim
+39 Yerars,Female,Harripur,H.Civic,2019,3765000,Fraud Claim
+49 Years,Female,Rawalpindi,H.Civic,2019,3550000,Fraud Claim
+40 Years,FeFemale ,Taxila,T.Aqua,2019,2607500,Fraud Claim
+29 Years,FeFemale ,Mardan,S.Swift,2017,1074836,Fraud Claim
+40 Years,Female,Jhelum,S.Mehran,2017,550000,Fraud Claim
+25 Years,FeFemale ,Rawalpindi,H.Civic,2019,3907000,Fraud Claim
+39 Years,Female,Rawalpindi,cultus,2014,988200,Fraud Claim
+25 Years,FeFemale ,Harripur,H.Civic,2020,2600000,Accidental Claim
+36 years ,FeFemale ,Harripur,H.Civic,2014,1772000,Theft Claim
+24 Years,Male,Islamabad,S.Wagon-R,214,908650,Fraud Claim
+46 years,Female ,Attock,S.Mehran,2018,1295000,Fraud Claim
+60 years,Male,Jhelum,H.Civic,2019,3907000,Accidental Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2017,601003,Theft Claim
+42 Years,Male,chakwal,S.Mehran,2018,1518000,Fraud Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2015,516132,Fraud Claim
+27 Years,Male,chakwal,S.Mehran,2014,502239,Accidental Claim
+45 Years,Male,Attock,S.Mehran,2017,1057515,Theft Claim
+38 Years,Male,Attock,H.City,2018,1225000,Fraud Claim
+49 Years,Male,Attock,H.Civic,2014,2000000,Fraud Claim
+40 Years,Male,Attock,S.Swift,2018,1225000,Accidental Claim
+70 Years,Male,Attock,H.City,2018,1700000,Theft Claim
+30 Years,Female ,Islamabad,S.Wagon-R,2019,1029600,Fraud Claim
+65 Years,Female ,Islamabad,T.Altis,2015,1500000,Fraud Claim
+49 Years,Male,Taxila,S.Cultus,2019,1251909,Accidental Claim
+73 Years,Male,Attock,T.GLI,2018,1772000,Theft Claim
+55 Years,Male,Attock,T.GLI,2017,2200000,Fraud Claim
+35 Years,Female ,Attock,H.City,2020,2267500,Fraud Claim
+36 Years ,Female ,Islamabad,S.Wagon-R,2018,935370,Accidental Claim
+49 Years,Female ,Islamabad,S.Wagon-R,2017,1047600,Theft Claim
+35 Years,Female ,Islamabad,H.City,2018,1500000,Fraud Claim
+49 Years,Female ,Islamabad,H.City,2018,1600000,Fraud Claim
+34 Years,Female ,Islamabad,S.Hustler,2019,725300,Fraud Claim
+55 Years,Female ,Jhelum,T.Aqua,2019,3265000,Fraud Claim
+43 Years,Female ,Mardan,T.GLI,2018,2064606,Fraud Claim
+35 Years,Female ,Attock,S.Hustler,2014,1012500,Fraud Claim
+22 Years,Male,Islamabad,H.Civic,2017,1835000,Fraud Claim
+39 Years,Female ,Islamabad,S.Hustler,2019,750000,Fraud Claim
+27 Years,Male,Attock,S.Mehran,2018,725000,Fraud Claim
+55 Years,Female ,Attock,S.Mehran,2020,1395000,Fraud Claim
+45 Years,Male,Islamabad,S.Wagon-R,2017,886140,Fraud Claim
+36 Years ,Male,Peshawar,T.Aqua,2017,2600000,Fraud Claim
+24 Years,Female ,Islamabad,S.Wagon-R,2018,1110600,Fraud Claim
+48 Years,Female ,Islamabad,T.Altis,2018,2541150,Fraud Claim
+30 Years,Male,Islamabad,H.Civic,2017,2500000,Fraud Claim
+46 Years,Male,Peshawar,T.Aqua,2018,2000000,Fraud Claim
+63 Years,Male,Peshawar,H.Civic,2017,2427244,Fraud Claim
+39 Yerars,Male,Mardan,S.Mehran,2020,1433000,Fraud Claim
+46 Years,Female ,Attock,H.Civic,2018,3179500,Fraud Claim
+39 Yerars,Male,Jhelum,H.Civic,2018,3765000,Fraud Claim
+49 Years,Male,Islamabad,H.Civic,2018,3550000,Fraud Claim
+40 Years,Female ,Islamabad,T.Aqua,2018,2607500,Fraud Claim
+29 Years,Female ,Attock,S.Swift,2018,1074836,Fraud Claim
+40 Years,Male,Attock,S.Mehran,2018,550000,Fraud Claim
+25 Years,Male,Attock,H.Civic,2018,3907000,Fraud Claim
+39 Years,Male,Attock,S.Wagon-R,2015,988200,Fraud Claim
+25 Years,Female ,Islamabad,H.Civic,2015,2600000,Fraud Claim
+36 years ,Female ,Islamabad,T.GLI,2018,1772000,Fraud Claim
+24 Years,Male,Islamabad,S.Wagon-R,2018,908650,Fraud Claim
+46 years,Female ,Attock,S.Mehran,2020,1295000,Fraud Claim
+60 years,Male,Jhelum,H.Civic,2019,3907000,Fraud Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2020,601003,Fraud Claim
+42 Years,Male,Jhelum,S.Mehran,2020,1518000,Fraud Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2018,516132,Fraud Claim
+27 Years,Male,Jhelum,S.Mehran,2015,502239,Fraud Claim
+45 Years,Male,Attock,S.Mehran,2018,1057515,Fraud Claim
+38 Years,Male,Jhelum,H.City,2018,1225000,Fraud Claim
+49 Years,Male,Mardan,H.Civic,2013,2000000,Fraud Claim
+40 Years,Female ,Attock,S.Swift,2017,1225000,Fraud Claim
+70 Years,Female ,Attock,H.City,2015,1700000,Fraud Claim
+30 Years,Female ,Jhelum,S.Wagon-R,2018,1029600,Fraud Claim
+65 Years,Female ,Attock,T.Altis,2014,1500000,Fraud Claim
+49 Years,Male,Mardan,S.Cultus,2018,1251909,Fraud Claim
+73 Years,Male,Islamabad,T.GLI,2015,1772000,Accidental Claim
+55 Years,Male,Islamabad,T.GLI,2018,2200000,Theft Claim
+35 Years,Female ,Islamabad,H.City,2019,2267500,Fraud Claim
+36 Years ,Female ,Jhelum,S.Wagon-R,2017,935370,Fraud Claim
+49 Years,Female ,Attock,S.Wagon-R,2018,1047600,Accidental Claim
+35 Years,Male,Attock,H.City,2018,1500000,Theft Claim
+49 Years,Male,Attock,H.City,2018,1600000,Fraud Claim
+34 Years,Male,Attock,S.Hustler,2019,725300,Fraud Claim
+55 Years,Male,chakwal,T.Aqua,2019,3265000,Accidental Claim
+43 Years,Male,chakwal,T.GLI,2018,2064606,Theft Claim
+35 Years,Male,Islamabad,S.Hustler,2014,1012500,Fraud Claim
+22 Years,Male,Attock,H.Civic,2017,1835000,Fraud Claim
+39 Years,Male,Attock,S.Hustler,2019,750000,Accidental Claim
+27 Years,Male,Islamabad,S.Mehran,2018,725000,Theft Claim
+55 Years,Male,Islamabad,S.Mehran,2020,1395000,Fraud Claim
+45 Years,Male,chakwal,S.Wagon-R,2017,886140,Fraud Claim
+36 Years ,Male,chakwal,T.Aqua,2017,2600000,Accidental Claim
+24 Years,Female ,Peshawar,S.Wagon-R,2018,1110600,Theft Claim
+48 Years,Female ,chakwal,T.Altis,2018,2541150,Fraud Claim
+30 Years,Male,Peshawar,H.Civic,2017,2500000,Fraud Claim
+46 Years,Female ,Peshawar,T.Aqua,2018,2000000,Accidental Claim
+63 Years,Male,Islamabad,H.Civic,2018,2427244,Theft Claim
+39 Yerars,Female ,Mardan,S.Mehran,2019,1433000,Fraud Claim
+46 Years,Male,Attock,H.Civic,2019,3179500,Fraud Claim
+39 Yerars,Male,chakwal,H.Civic,2019,3765000,Accidental Claim
+49 Years,Male,chakwal,H.Civic,2019,3550000,Theft Claim
+40 Years,Female ,Attock,T.Aqua,2019,2607500,Fraud Claim
+29 Years,Female ,Islamabad,S.Swift,2017,1074836,Fraud Claim
+40 Years,Male,Islamabad,S.Mehran,2017,550000,Accidental Claim
+25 Years,Male,Jhelum,H.Civic,2019,3907000,Theft Claim
+39 Years,Male,Jhelum,S.Wagon-R,2014,988200,Fraud Claim
+25 Years,Male,Islamabad,H.Civic,2018,2600000,Fraud Claim
+36 years ,Female ,Attock,T.GLI,2015,1772000,Accidental Claim
+24 Years,Male,chakwal,S.Wagon-R,2017,908650,Theft Claim
+46 years,Female ,Jhelum,S.Mehran,2019,1295000,Fraud Claim
+60 years,Male,chakwal,H.Civic,2020,3907000,Fraud Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2019,601003,Accidental Claim
+42 Years,Female ,chakwal,S.Mehran,2020,1518000,Theft Claim
+36 Years,Female ,Muzaffarabad,S.Mehran,2016,516132,Fraud Claim
+27 Years,Male,Jhelum,S.Mehran,2015,502239,Fraud Claim
+45 Years,Male,Jhelum,S.Mehran,2016,1057515,Accidental Claim
+38 Years,Male,Jhelum,H.City,2016,1225000,Theft Claim
+49 Years,Male,Jhelum,H.Civic,2013,2000000,Fraud Claim
+40 Years,Male,Jhelum,S.Swift,2017,1225000,Fraud Claim
+70 Years,Male,Jhelum,H.City,2015,1700000,Accidental Claim
+30 Years,Male,Jhelum,S.Alto,2018,1029600,Theft Claim
+65 Years,Female ,Jhelum,T.Altis,2015,1500000,Fraud Claim
+49 Years,Male,Taxila,S.Cultus,2019,1251909,Fraud Claim
+73 Years,Male,Islamabad,H.City,2016,1772000,Accidental Claim
+57 Years,Male,Islamabad,H.City,2020,2200000,Theft Claim
+35 Years,Female ,Islamabad,H.City,2018,2267500,Fraud Claim
+36 Years ,Female ,Jhelum,S.Alto,2016,935370,Fraud Claim
+49 Years,Female ,Jhelum,S.Alto,2019,1047600,Accidental Claim
+35 Years,Male,Jhelum,H.City,2014,1500000,Theft Claim
+49 Years,Male,Jhelum,H.City,2017,1600000,Fraud Claim
+34 Years,Male,Jhelum,S.Hustler,2019,725300,Fraud Claim
+57 Years,Male,Jhelum,T.Aqua,2020,3265000,Accidental Claim
+43 Years,Male,Mardan,H.City,2017,2064606,Theft Claim
+35 Years,Male,Islamabad,S.Hustler,2015,1012500,Fraud Claim
+22 Years,Male,Jhelum,H.Civic,2018,1835000,Fraud Claim
+39 Years,Male,Jhelum,S.Hustler,2020,750000,Fraud Claim
+27 Years,Male,Islamabad,S.Mehran,2017,725000,Fraud Claim
+57 Years,Male,Islamabad,S.Mehran,2019,1395000,Fraud Claim
+45 Years,Male,Jhelum,S.Alto,2018,886140,Fraud Claim
+36 Years ,Male,Peshawar,T.Aqua,2018,2600000,Fraud Claim
+24 Years,Female ,Jhelum,S.Alto,2019,1110600,Fraud Claim
+48 Years,Female ,Jhelum,T.Altis,2020,2541150,Fraud Claim
+30 Years,Male,Jhelum,H.Civic,2018,2500000,Fraud Claim
+46 Years,Male,Peshawar,T.Aqua,2017,2000000,Fraud Claim
+63 Years,Male,Peshawar,H.Civic,2019,2427244,Fraud Claim
+39 Yerars,Male,Mardan,S.Mehran,2020,1433000,Fraud Claim
+46 Years,Female ,Islamabad,H.Civic,2020,3179500,Fraud Claim
+39 Yerars,Male,Jhelum,H.Civic,2020,3765000,Fraud Claim
+49 Years,Male,Jhelum,H.Civic,2020,3550000,Accidental Claim
+40 Years,Female ,Jhelum,T.Aqua,2020,2607500,Theft Claim
+29 Years,Female ,Islamabad,S.Swift,2018,1074836,Fraud Claim
+40 Years,Male,Islamabad,S.Mehran,2018,550000,Fraud Claim
+25 Years,Male,Islamabad,H.Civic,2018,3907000,Accidental Claim
+39 Years,Male,Islamabad,S.Alto,2015,988200,Theft Claim
+25 Years,Female ,Jhelum,H.Civic,2017,2600000,Fraud Claim
+36 years ,Female ,Jhelum,H.City,2016,1772000,Fraud Claim
+24 Years,Male,Jhelum,S.Alto,2018,908650,Accidental Claim
+46 years,Female ,Islamabad,S.Mehran,2020,1295000,Theft Claim
+60 years,Male,Jhelum,H.Civic,2019,3907000,Fraud Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2019,601003,Fraud Claim
+42 Years,Male,chakwal,S.Mehran,2019,1518000,Accidental Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2017,516132,Theft Claim
+27 Years,Female ,chakwal,S.Mehran,2015,502239,Fraud Claim
+45 Years,Female ,Islamabad,S.Mehran,2016,1057515,Fraud Claim
+38 Years,Female ,Islamabad,H.City,2016,1225000,Accidental Claim
+49 Years,Male,Jhelum,H.Civic,2013,2000000,Theft Claim
+40 Years,Male,Jhelum,S.Swift,2017,1225000,Fraud Claim
+70 Years,Male,Jhelum,H.City,2015,1700000,Fraud Claim
+30 Years,Female ,Peshawar,S.Alto,2018,1029600,Accidental Claim
+65 Years,Female ,Peshawar,T.Altis,2014,1500000,Theft Claim
+49 Years,Female ,Taxila,S.Cultus,2018,1251909,Fraud Claim
+73 Years,Male,Jhelum,H.City,2015,1772000,Fraud Claim
+57 Years,Male,Jhelum,H.City,2018,2200000,Accidental Claim
+35 Years,Female ,Jhelum,H.City,2019,2267500,Theft Claim
+36 Years ,Female ,Peshawar,S.Alto,2017,935370,Fraud Claim
+49 Years,Female ,Jhelum,S.Alto,2018,1047600,Fraud Claim
+35 Years,Male,Taxila,H.City,2018,1500000,Accidental Claim
+49 Years,Male,Taxila,H.City,2018,1600000,Theft Claim
+34 Years,Male,Islamabad,S.Hustler,2019,725300,Fraud Claim
+57 Years,Male,Taxila,T.Aqua,2019,3265000,Fraud Claim
+43 Years,Male,Peshawar,H.City,2018,2064606,Accidental Claim
+35 Years,Male,Peshawar,S.Hustler,2014,1012500,Theft Claim
+22 Years,Female ,Jhelum,H.Civic,2017,1835000,Fraud Claim
+39 Years,Female ,Jhelum,S.Hustler,2019,750000,Fraud Claim
+27 Years,Female ,Islamabad,S.Mehran,2016,725000,Accidental Claim
+57 Years,Male,Jhelum,S.Mehran,2020,1395000,Theft Claim
+45 Years,Male,Jhelum,S.Alto,2017,886140,Fraud Claim
+36 Years ,Male,Jhelum,T.Aqua,2017,2600000,Fraud Claim
+24 Years,Female ,Jhelum,S.Alto,2018,1110600,Accidental Claim
+48 Years,Male,Jhelum,T.Altis,2018,2541150,Theft Claim
+30 Years,Female ,Jhelum,H.Civic,2017,2500000,Fraud Claim
+46 Years,Male,Jhelum,T.Aqua,2016,2000000,Fraud Claim
+63 Years,Male,Peshawar,H.Civic,2019,2427244,Accidental Claim
+39 Yerars,Male,Peshawar,S.Mehran,2019,1433000,Theft Claim
+46 Years,Female ,Jhelum,H.Civic,2019,3179500,Fraud Claim
+39 Yerars,Male,chakwal,H.Civic,2019,3765000,Fraud Claim
+49 Years,Male,chakwal,H.Civic,2019,3550000,Accidental Claim
+40 Years,Female ,Islamabad,T.Aqua,2019,2607500,Theft Claim
+29 Years,Female ,Jhelum,S.Swift,2017,1074836,Fraud Claim
+40 Years,Male,Jhelum,S.Mehran,2017,550000,Fraud Claim
+25 Years,Male,Jhelum,H.Civic,2019,3907000,Accidental Claim
+39 Years,Male,Mardan,S.Alto,2014,988200,Theft Claim
+25 Years,Female ,Jhelum,H.Civic,2017,2600000,Fraud Claim
+36 years ,Female ,Jhelum,H.City,2018,1772000,Fraud Claim
+24 Years,Male,Jhelum,S.Alto,2018,908650,Accidental Claim
+46 years,Female ,Islamabad,S.Mehran,2019,1295000,Theft Claim
+60 years,Male,Jhelum,H.Civic,2019,3907000,No Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2019,601003,No Claim
+42 Years,Male,chakwal,S.Mehran,2019,1518000,No Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2017,516132,No Claim
+27 Years,Male,chakwal,S.Mehran,2016,502239,No Claim
+45 Years,Male,Jhelum,S.Mehran,2016,1057515,No Claim
+38 Years,Male,Jhelum,H.City,2016,1225000,No Claim
+49 Years,Male,Jhelum,H.Civic,2013,2000000,No Claim
+40 Years,Male,Jhelum,S.Swift,2017,1225000,No Claim
+70 Years,Male,Jhelum,H.City,2015,1700000,No Claim
+30 Years,Male,Jhelum,S.Alto,2018,1029600,No Claim
+65 Years,Female ,Jhelum,T.Altis,2015,1500000,No Claim
+49 Years,Male,Taxila,S.Cultus,2019,1251909,No Claim
+73 Years,Male,Islamabad,H.City,2016,1772000,No Claim
+57 Years,Male,Islamabad,H.City,2020,2200000,No Claim
+35 Years,Female ,Islamabad,H.City,2018,2267500,Accidental Claim
+36 Years ,Female ,Jhelum,S.Alto,2016,935370,Theft Claim
+49 Years,Female ,Jhelum,S.Alto,2019,1047600,No Claim
+35 Years,Male,Jhelum,H.City,2014,1500000,No Claim
+49 Years,Male,Jhelum,H.City,2017,1600000,Accidental Claim
+34 Years,Male,Jhelum,S.Hustler,2019,725300,Theft Claim
+57 Years,Male,Jhelum,T.Aqua,2020,3265000,No Claim
+43 Years,Male,Mardan,H.City,2017,2064606,No Claim
+35 Years,Male,Islamabad,S.Hustler,2015,1012500,Accidental Claim
+22 Years,Male,Jhelum,H.Civic,2018,1835000,Theft Claim
+39 Years,Male,Jhelum,S.Hustler,2020,750000,No Claim
+27 Years,Male,Islamabad,S.Mehran,2017,725000,No Claim
+57 Years,Male,Islamabad,S.Mehran,2019,1395000,Accidental Claim
+45 Years,Male,Jhelum,S.Alto,2018,886140,Theft Claim
+36 Years ,Male,Peshawar,T.Aqua,2018,2600000,No Claim
+24 Years,Female ,Jhelum,S.Alto,2019,1110600,No Claim
+48 Years,Female ,Jhelum,T.Altis,2020,2541150,Accidental Claim
+30 Years,Male,Jhelum,H.Civic,2018,2500000,Theft Claim
+46 Years,Male,Peshawar,T.Aqua,2017,2000000,No Claim
+63 Years,Male,Peshawar,H.Civic,2019,2427244,No Claim
+39 Yerars,Male,Mardan,S.Mehran,2020,1433000,Accidental Claim
+46 Years,Female ,Islamabad,H.Civic,2020,3179500,Theft Claim
+39 Yerars,Male,Jhelum,H.Civic,2020,3765000,No Claim
+49 Years,Male,Jhelum,H.Civic,2020,3550000,No Claim
+40 Years,Female ,Jhelum,T.Aqua,2020,2607500,Accidental Claim
+29 Years,Female ,Islamabad,S.Swift,2018,1074836,Theft Claim
+40 Years,Male,Islamabad,S.Mehran,2018,550000,No Claim
+25 Years,Male,Islamabad,H.Civic,2018,3907000,No Claim
+39 Years,Male,Islamabad,S.Alto,2015,988200,Accidental Claim
+25 Years,Female ,Jhelum,H.Civic,2017,2600000,Theft Claim
+36 years ,Female ,Jhelum,H.City,2016,1772000,No Claim
+24 Years,Male,Jhelum,S.Alto,2018,908650,No Claim
+46 years,Female ,Islamabad,S.Mehran,2020,1295000,Accidental Claim
+60 years,Male,Jhelum,H.Civic,2019,3907000,Theft Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2019,601003,No Claim
+42 Years,Male,chakwal,S.Mehran,2019,1518000,No Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2017,516132,Accidental Claim
+27 Years,Female ,chakwal,S.Mehran,2015,502239,Theft Claim
+45 Years,Female ,Islamabad,S.Mehran,2016,1057515,No Claim
+38 Years,Female ,Islamabad,H.City,2016,1225000,No Claim
+49 Years,Male,Jhelum,H.Civic,2013,2000000,Accidental Claim
+40 Years,Male,Jhelum,S.Swift,2017,1225000,Theft Claim
+70 Years,Male,Jhelum,H.City,2015,1700000,No Claim
+30 Years,Female ,Peshawar,S.Alto,2018,1029600,No Claim
+65 Years,Female ,Peshawar,T.Altis,2014,1500000,Accidental Claim
+49 Years,Female ,Taxila,S.Cultus,2018,1251909,Theft Claim
+73 Years,Male,Jhelum,H.City,2015,1772000,No Claim
+57 Years,Male,Jhelum,H.City,2018,2200000,No Claim
+35 Years,Female ,Jhelum,H.City,2019,2267500,Accidental Claim
+36 Years ,Female ,Peshawar,S.Alto,2017,935370,Theft Claim
+49 Years,Female ,Jhelum,S.Alto,2018,1047600,No Claim
+35 Years,Male,Taxila,H.City,2018,1500000,No Claim
+49 Years,Male,Taxila,H.City,2018,1600000,Accidental Claim
+34 Years,Male,Islamabad,S.Hustler,2019,725300,Theft Claim
+57 Years,Male,Taxila,T.Aqua,2019,3265000,No Claim
+43 Years,Male,Peshawar,H.City,2018,2064606,No Claim
+35 Years,Male,Peshawar,S.Hustler,2014,1012500,Accidental Claim
+22 Years,Female ,Jhelum,H.Civic,2017,1835000,Theft Claim
+39 Years,Female ,Jhelum,S.Hustler,2019,750000,No Claim
+27 Years,Female ,Islamabad,S.Mehran,2016,725000,No Claim
+57 Years,Male,Jhelum,S.Mehran,2020,1395000,No Claim
+45 Years,Male,Jhelum,S.Alto,2017,886140,No Claim
+36 Years ,Male,Jhelum,T.Aqua,2017,2600000,No Claim
+24 Years,Female ,Jhelum,S.Alto,2018,1110600,No Claim
+48 Years,Male,Jhelum,T.Altis,2018,2541150,No Claim
+30 Years,Female ,Jhelum,H.Civic,2017,2500000,No Claim
+46 Years,Male,Jhelum,T.Aqua,2016,2000000,No Claim
+63 Years,Male,Peshawar,H.Civic,2019,2427244,No Claim
+39 Yerars,Male,Peshawar,S.Mehran,2019,1433000,No Claim
+46 Years,Female ,Jhelum,H.Civic,2019,3179500,No Claim
+39 Yerars,Male,chakwal,H.Civic,2019,3765000,Fraud Claim
+49 Years,Male,chakwal,H.Civic,2019,3550000,Fraud Claim
+40 Years,Female ,Islamabad,T.Aqua,2019,2607500,Fraud Claim
+29 Years,Female ,Jhelum,S.Swift,2017,1074836,Accidental Claim
+40 Years,Male,Jhelum,S.Mehran,2017,550000,Theft Claim
+25 Years,Male,Jhelum,H.Civic,2019,3907000,Accidental Claim
+39 Years,Male,Mardan,S.Alto,2014,988200,Theft Claim
+25 Years,Female ,Jhelum,H.Civic,2017,2600000,Accidental Claim
+36 years ,Female ,Jhelum,H.City,2018,1772000,Theft Claim
+24 Years,Male,Jhelum,S.Alto,2018,908650,Accidental Claim
+46 years,Female ,Islamabad,S.Mehran,2019,1295000,Theft Claim
+60 years,Male,Jhelum,H.Civic,2019,3907000,Accidental Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2019,601003,Theft Claim
+42 Years,Male,chakwal,S.Mehran,2019,1518000,Accidental Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2017,516132,Theft Claim
+27 Years,Male,chakwal,S.Mehran,2016,502239,Accidental Claim
+70 Years,Male,Peshawar,H.City,2015,1700000,Theft Claim
+30 Years,Male,Jhelum,S.Alto,2018,1029600,Accidental Claim
+45 Years,Female ,Jhelum,T.Altis,2014,1500000,Theft Claim
+49 Years,Male,Taxila,S.Cultus,2018,1251909,Accidental Claim
+73 Years,Male,Jhelum,H.City,2015,1772000,Theft Claim
+57 Years,Male,Taxila,H.City,2018,2200000,Accidental Claim
+35 Years,Male,Islamabad,Suzuki Clutus,2019,2267500,Theft Claim
+36 Years ,Female ,Jhelum,S.Alto,2015,935370,Accidental Claim
+49 Years,Male,Islamabad,S.Alto,2016,1047600,Theft Claim
+35 Years,Female ,Jhelum,H.City,2018,1500000,Accidental Claim
+49 Years,Male,Taxila,H.City,2018,1600000,Theft Claim
+34 Years,Female ,Jhelum,S.Hustler,2019,725300,Accidental Claim
+57 Years,Male,Jhelum,T.Aqua,2018,3265000,Theft Claim
+43 Years,Female ,Mardan,H.City,2018,2064606,Accidental Claim
+35 Years,Male,Islamabad,S.Hustler,2016,1012500,Theft Claim
+22 Years,Male,Taxila,H.Civic,2017,1835000,Accidental Claim
+39 Years,Female ,Jhelum,S.Hustler,2019,750000,Theft Claim
+27 Years,Male,Islamabad,Prince Pearl,2016,725000,Accidental Claim
+57 Years,Male,Islamabad,S.Mehran,2019,1395000,Theft Claim
+45 Years,Female ,Jhelum,S.Alto,2017,886140,Accidental Claim
+36 Years ,Male,Mardan,T.Aqua,2017,2600000,Theft Claim
+24 Years,Female ,Jhelum,S.Mehran,2017,1110600,Accidental Claim
+48 Years,Male,Jhelum,T.Altis,2018,2541150,Theft Claim
+30 Years,Female ,Jhelum,H.Civic,2017,2500000,Accidental Claim
+46 Years,Female ,Peshawar,T.Aqua,2015,2000000,Theft Claim
+63 Years,Male,Peshawar,H.Civic,2018,2427244,Accidental Claim
+39 Yerars,Female ,Mardan,S.Mehran,2018,1433000,Theft Claim
+46 Years,Female ,Islamabad,H.Civic,2018,3179500,Accidental Claim
+39 Yerars,Male,Jhelum,H.Civic,2019,3765000,Theft Claim
+49 Years,Male,Islamabad,H.Civic,2019,3550000,Accidental Claim
+40 Years,Female ,Taxila,T.Aqua,2019,2607500,Theft Claim
+29 Years,Female ,Mardan,S.Swift,2017,1074836,Accidental Claim
+40 Years,Male,Jhelum,S.Mehran,2017,550000,Theft Claim
+25 Years,Female ,Islamabad,H.Civic,2019,3907000,Accidental Claim
+39 Years,Male,Islamabad,cultus,2014,988200,Theft Claim
+25 Years,Female ,Jhelum,H.Civic,2018,2600000,Accidental Claim
+36 years ,Female ,Jhelum,H.City,2014,1772000,Theft Claim
+24 Years,Male,Jhelum,S.Alto,214,908650,Fraud Claim
+46 years,Female ,Islamabad,S.Mehran,2018,1295000,Fraud Claim
+60 years,Male,Jhelum,H.Civic,2019,3907000,Fraud Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2017,601003,Fraud Claim
+42 Years,Male,chakwal,S.Mehran,2018,1518000,Fraud Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2015,516132,Fraud Claim
+27 Years,Male,chakwal,S.Mehran,2014,502239,Fraud Claim
+45 Years,Male,Islamabad,S.Mehran,2017,1057515,Fraud Claim
+38 Years,Male,Islamabad,H.City,2016,1225000,Fraud Claim
+49 Years,Male,Islamabad,H.Civic,2014,2000000,Fraud Claim
+40 Years,Male,Islamabad,S.Swift,2018,1225000,Fraud Claim
+70 Years,Male,Islamabad,H.City,2016,1700000,Fraud Claim
+30 Years,Female ,Jhelum,S.Alto,2019,1029600,Fraud Claim
+65 Years,Female ,Jhelum,T.Altis,2015,1500000,Fraud Claim
+49 Years,Male,Taxila,S.Cultus,2019,1251909,Fraud Claim
+73 Years,Male,Islamabad,H.City,2016,1772000,Fraud Claim
+57 Years,Male,Islamabad,H.City,2017,2200000,Fraud Claim
+35 Years,Female ,Islamabad,H.City,2020,2267500,Fraud Claim
+36 Years ,Female ,Jhelum,S.Alto,2018,935370,Fraud Claim
+49 Years,Female ,Jhelum,S.Alto,2017,1047600,Fraud Claim
+35 Years,Female ,Jhelum,H.City,2018,1500000,Fraud Claim
+49 Years,Female ,Jhelum,H.City,2018,1600000,Fraud Claim
+34 Years,Female ,Jhelum,S.Hustler,2019,725300,Fraud Claim
+57 Years,Female ,Jhelum,T.Aqua,2019,3265000,Fraud Claim
+43 Years,Female ,Mardan,H.City,2018,2064606,Fraud Claim
+35 Years,Female ,Islamabad,S.Hustler,2014,1012500,Fraud Claim
+22 Years,Male,Jhelum,H.Civic,2017,1835000,Fraud Claim
+39 Years,Female ,Jhelum,S.Hustler,2019,750000,Fraud Claim
+27 Years,Male,Islamabad,S.Mehran,2016,725000,Fraud Claim
+57 Years,Female ,Islamabad,S.Mehran,2020,1395000,Fraud Claim
+45 Years,Male,Jhelum,S.Alto,2017,886140,Fraud Claim
+36 Years ,Male,Peshawar,T.Aqua,2017,2600000,Fraud Claim
+24 Years,Female ,Jhelum,S.Alto,2018,1110600,Fraud Claim
+48 Years,Female ,Jhelum,T.Altis,2018,2541150,Fraud Claim
+30 Years,Male,Jhelum,H.Civic,2017,2500000,Fraud Claim
+46 Years,Male,Peshawar,T.Aqua,2016,2000000,Fraud Claim
+63 Years,Male,Peshawar,H.Civic,2017,2427244,Fraud Claim
+39 Yerars,Male,Mardan,S.Mehran,2020,1433000,Fraud Claim
+46 Years,Female ,Islamabad,H.Civic,2018,3179500,Fraud Claim
+39 Yerars,Male,Jhelum,H.Civic,2018,3765000,Fraud Claim
+49 Years,Male,Jhelum,H.Civic,2018,3550000,Fraud Claim
+40 Years,Female ,Jhelum,T.Aqua,2018,2607500,Fraud Claim
+29 Years,Female ,Islamabad,S.Swift,2018,1074836,Fraud Claim
+40 Years,Male,Islamabad,S.Mehran,2018,550000,Fraud Claim
+25 Years,Male,Islamabad,H.Civic,2018,3907000,Fraud Claim
+39 Years,Male,Islamabad,S.Alto,2015,988200,Fraud Claim
+25 Years,Female ,Jhelum,H.Civic,2015,2600000,Fraud Claim
+36 years ,Female ,Jhelum,H.City,2016,1772000,Fraud Claim
+35 Years,Male,Jhelum,H.City,2018,1500000,Fraud Claim
+49 Years,Male,Jhelum,H.City,2018,1600000,Fraud Claim
+34 Years,Male,Jhelum,S.Hustler,2019,725300,Fraud Claim
+57 Years,Male,Jhelum,T.Aqua,2019,3265000,Fraud Claim
+43 Years,Male,Mardan,H.City,2018,2064606,Accidental Claim
+35 Years,Male,Islamabad,S.Hustler,2014,1012500,Theft Claim
+22 Years,Male,Jhelum,H.Civic,2017,1835000,Fraud Claim
+39 Years,Male,Jhelum,S.Hustler,2019,750000,Fraud Claim
+27 Years,Male,Islamabad,S.Mehran,2016,725000,Accidental Claim
+57 Years,Male,Islamabad,S.Mehran,2020,1395000,Theft Claim
+45 Years,Male,Islamabad,S.Mehran,2016,1057515,Accidental Claim
+38 Years,Male,Islamabad,H.City,2016,1225000,Theft Claim
+49 Years,Male,Islamabad,H.Civic,2013,2000000,Accidental Claim
+40 Years,Male,Islamabad,S.Swift,2017,1225000,Theft Claim
+70 Years,Male,Islamabad,H.City,2015,1700000,Accidental Claim
+30 Years,Female ,Jhelum,S.Alto,2018,1029600,Theft Claim
+65 Years,Female ,Jhelum,T.Altis,2014,1500000,Accidental Claim
+49 Years,Male,Taxila,S.Cultus,2018,1251909,Theft Claim
+73 Years,Male,Islamabad,H.City,2015,1772000,Accidental Claim
+57 Years,Male,Islamabad,H.City,2018,2200000,Theft Claim
+35 Years,Female ,chakwal,H.City,2020,2267500,Accidental Claim
+36 Years ,Female ,Jhelum,S.Alto,2018,935370,Theft Claim
+42  Years,Female ,Jhelum,S.Alto,2018,1047600,Accidental Claim
+35 Years,Male,Jhelum,H.City,2018,1500000,Theft Claim
+42  Years,Male,Jhelum,H.City,2018,1600000,Accidental Claim
+34 Years,Male,Jhelum,S.Bolan,2020,725300,Theft Claim
+56 Years,Male,Jhelum,H.BRV,2020,3265000,Accidental Claim
+43 Years,Male,Mardan,H.City,2018,2064606,Theft Claim
+35 Years,Male,chakwal,S.Hustler,2014,1012500,Accidental Claim
+22 Years,Male,Jhelum,H.Civic,2018,1835000,Theft Claim
+39 Years,Male,Jhelum,S.Bolan,2020,750000,Accidental Claim
+27 Years,Male,chakwal,S.Mehran,2016,725000,Theft Claim
+56 Years,Male,chakwal,S.Mehran,2020,1395000,Fraud Claim
+45 Years,Male,Jhelum,S.Alto,2018,886140,Accidental Claim
+36 Years ,Male,Peshawar,T.Aqua,2018,2600000,Accidental Claim
+24 Years,Female ,Jhelum,S.Alto,2018,1110600,Theft Claim
+48 Years,Female ,Jhelum,T.Altis,2018,2541150,Accidental Claim
+30 Years,Male,Jhelum,H.Civic,2018,2500000,Theft Claim
+46 Years,Male,Peshawar,T.Aqua,2016,2000000,Accidental Claim
+63 Years,Male,Peshawar,H.Civic,2018,2427244,Theft Claim
+39 Yerars,Male,Mardan,S.Mehran,2020,1433000,Accidental Claim
+46 Years,Female ,chakwal,H.Civic,2020,3179500,Theft Claim
+39 Yerars,Male,Jhelum,H.Civic,2020,3765000,Accidental Claim
+42  Years,Male,Jhelum,H.Civic,2020,3550000,Theft Claim
+40 Years,Female ,Jhelum,H.BRV,2020,2607500,Accidental Claim
+29 Years,Female ,chakwal,S.Swift,2018,1074836,Theft Claim
+40 Years,Male,chakwal,S.Mehran,2018,550000,Accidental Claim
+25 Years,Male,chakwal,H.Civic,2020,3907000,Theft Claim
+39 Years,Male,chakwal,S.Alto,2014,988200,Accidental Claim
+25 Years,Female ,Jhelum,H.Civic,2016,2600000,Theft Claim
+36 years ,Female ,Jhelum,H.City,2015,1772000,Accidental Claim
+24 Years,Male,Jhelum,S.Alto,2018,908650,Theft Claim
+46 years,Female ,chakwal,S.Mehran,2020,1295000,Accidental Claim
+60 years,Male,Jhelum,H.Civic,2020,3907000,Theft Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2018,601003,Accidental Claim
+42 Years,Male,chakwal,S.Mehran,2020,1518000,Theft Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2016,516132,Accidental Claim
+27 Years,Male,chakwal,S.Mehran,2015,502239,Theft Claim
+25 Years,Male,chakwal,S.Mehran,2018,601800,Fraud Claim
+60 Years,Male,chakwal,S.Mehran,2018,607500,Accidental Claim
+30 Years,Male,chakwal,Honda  City,2018,1304910,Accidental Claim
+37 Years ,Male,chakwal,Suzuki  Bolan,2018,607500,Theft Claim
+40 Years,Male,Mir Pur AJK,Honda  CIVIC VTI ORIEL P/T,2018,2134755,Accidental Claim
+21 Years ,Male,chakwal,Suzuki  Bolan,2016,528525,Theft Claim
+40 Years ,Male,chakwal,Honda  Civic Oriel,2018,2635500,Accidental Claim
+25 Years,Male,Chakwal,Suzuki  Mehran,2018,625860,Theft Claim
+35 Years,Male,chakwal,Kia  Sportage AWD,2020,5399000,Accidental Claim
+60 Years,Male,chakwal,Suzuki  Wagon R,2018,886146,Theft Claim
+45 Years,Male,chakwal,Suzuki Wagon R,2016,1057515,Accidental Claim
+40 years,Male,chakwal,Toyata Vitz,2016,1225000,Theft Claim
+42  Years,Male,chakwal,H.Civic,2013,2000000,No Claim
+40 Years,Male,Jhelum,Honda city,2018,1225000,Theft Claim
+70 Years,Male,Peshawar,H.City,2015,1700000,No Claim
+30 Years,Male,Jhelum,S.Alto,2018,1029600,Theft Claim
+45 Years,Female ,Jhelum,T.Altis,2014,1500000,No Claim
+42  Years,Male,Taxila,S.Cultus,2018,1251909,Theft Claim
+73 Years,Male,Jhelum,H.City,2015,1772000,No Claim
+56 Years,Male,Taxila,H.City,2018,2200000,Theft Claim
+35 Years,Male,chakwal,Suzuki Clutus,2020,2267500,No Claim
+36 Years ,Female ,Jhelum,S.Alto,2015,935370,Theft Claim
+42  Years,Male,chakwal,S.Alto,2016,1047600,No Claim
+35 Years,Female ,Jhelum,H.City,2018,1500000,Theft Claim
+42  Years,Male,Taxila,H.City,2018,1600000,No Claim
+34 Years,Female ,Jhelum,S.Bolan,2020,725300,No Claim
+56 Years,Male,Jhelum,H.BRV,2018,3265000,No Claim
+43 Years,Female ,Mardan,H.City,2018,2064606,No Claim
+35 Years,Male,chakwal,S.Hustler,2016,1012500,No Claim
+22 Years,Male,Taxila,H.Civic,2018,1835000,No Claim
+39 Years,Female ,Jhelum,S.Bolan,2020,750000,No Claim
+27 Years,Male,chakwal,Prince Pearl,2016,725000,No Claim
+56 Years,Male,chakwal,S.Mehran,2020,1395000,No Claim
+45 Years,Female ,Jhelum,S.Alto,2018,886140,No Claim
+36 Years ,Male,Mardan,T.Aqua,2018,2600000,No Claim
+24 Years,Female ,Jhelum,S.Mehran,2018,1110600,No Claim
+48 Years,Male,Jhelum,T.Altis,2018,2541150,No Claim
+30 Years,Female ,Jhelum,H.Civic,2018,2500000,No Claim
+46 Years,Female ,Peshawar,T.Aqua,2015,2000000,No Claim
+63 Years,Male,Peshawar,H.Civic,2018,2427244,No Claim
+39 Yerars,Female ,Mardan,S.Mehran,2018,1433000,No Claim
+46 Years,Female ,chakwal,H.Civic,2018,3179500,No Claim
+39 Yerars,Male,Jhelum,H.Civic,2020,3765000,No Claim
+42  Years,Male,chakwal,H.Civic,2020,3550000,No Claim
+40 Years,Female ,Taxila,H.BRV,2020,2607500,No Claim
+29 Years,Female ,Mardan,S.Swift,2018,1074836,No Claim
+40 Years,Male,Jhelum,S.Mehran,2018,550000,No Claim
+25 Years,Female ,chakwal,H.Civic,2020,3907000,No Claim
+39 Years,Male,chakwal,cultus,2014,988200,No Claim
+25 Years,Female ,Jhelum,H.Civic,2018,2600000,No Claim
+36 years ,Female ,Jhelum,H.City,2014,1772000,No Claim
+24 Years,Male,Jhelum,S.Alto,214,908650,No Claim
+46 years,Female ,chakwal,S.Mehran,2018,1295000,No Claim
+60 years,Male,Jhelum,H.Civic,2020,3907000,No Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2018,601003,No Claim
+42 Years,Male,chakwal,S.Mehran,2018,1518000,No Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2015,516132,No Claim
+27 Years,Male,chakwal,S.Mehran,2014,502239,No Claim
+45 Years,Male,chakwal,S.Mehran,2018,1057515,Accidental Claim
+38 Years,Male,chakwal,H.City,2016,1225000,Accidental Claim
+42  Years,Male,chakwal,H.Civic,2014,2000000,Theft Claim
+40 Years,Male,chakwal,S.Swift,2018,1225000,Fraud Claim
+70 Years,Male,chakwal,H.City,2016,1700000,Accidental Claim
+30 Years,Female ,Jhelum,S.Alto,2020,1029600,Accidental Claim
+65 Years,Female ,Jhelum,T.Altis,2015,1500000,No Claim
+42  Years,Male,Taxila,S.Cultus,2020,1251909,Accidental Claim
+73 Years,Male,chakwal,H.City,2016,1772000,No Claim
+56 Years,Male,chakwal,H.City,2018,2200000,Accidental Claim
+35 Years,Female ,chakwal,H.City,2020,2267500,No Claim
+36 Years ,Female ,Jhelum,S.Alto,2018,935370,Accidental Claim
+42  Years,Female ,Jhelum,S.Alto,2018,1047600,No Claim
+35 Years,Female ,Jhelum,H.City,2018,1500000,Accidental Claim
+42  Years,Female ,Jhelum,H.City,2018,1600000,No Claim
+34 Years,Female ,Jhelum,S.Bolan,2020,725300,Accidental Claim
+56 Years,Female ,Jhelum,H.BRV,2020,3265000,No Claim
+43 Years,Female ,Mardan,H.City,2018,2064606,Accidental Claim
+35 Years,Female ,chakwal,S.Hustler,2014,1012500,No Claim
+22 Years,Male,Jhelum,H.Civic,2018,1835000,Accidental Claim
+39 Years,Female ,Jhelum,S.Bolan,2020,750000,No Claim
+27 Years,Male,chakwal,S.Mehran,2016,725000,Accidental Claim
+56 Years,Female ,chakwal,S.Mehran,2020,1395000,No Claim
+45 Years,Male,Jhelum,S.Alto,2018,886140,Accidental Claim
+36 Years ,Male,Peshawar,T.Aqua,2018,2600000,No Claim
+24 Years,Female ,Jhelum,S.Alto,2018,1110600,Accidental Claim
+48 Years,Female ,Jhelum,T.Altis,2018,2541150,No Claim
+30 Years,Male,Jhelum,H.Civic,2018,2500000,Accidental Claim
+46 Years,Male,Peshawar,T.Aqua,2016,2000000,No Claim
+63 Years,Male,Peshawar,H.Civic,2018,2427244,Fraud Claim
+39 Yerars,Male,Mardan,S.Mehran,2020,1433000,Accidental Claim
+46 Years,Female ,chakwal,H.Civic,2018,3179500,Accidental Claim
+39 Yerars,Male,Jhelum,H.Civic,2018,3765000,No Claim
+42  Years,Male,Jhelum,H.Civic,2018,3550000,Accidental Claim
+40 Years,Female ,Jhelum,H.BRV,2018,2607500,No Claim
+29 Years,Female ,chakwal,S.Swift,2018,1074836,Accidental Claim
+40 Years,Male,chakwal,S.Mehran,2018,550000,No Claim
+25 Years,Male,chakwal,H.Civic,2018,3907000,Accidental Claim
+39 Years,Male,chakwal,S.Alto,2015,988200,No Claim
+25 Years,Female ,Jhelum,H.Civic,2015,2600000,Accidental Claim
+36 years ,Female ,Jhelum,H.City,2016,1772000,No Claim
+24 Years,Male,Jhelum,S.Alto,2018,908650,Accidental Claim
+46 years,Female ,chakwal,S.Mehran,2020,1295000,No Claim
+60 years,Male,Jhelum,H.Civic,2020,3907000,Accidental Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2020,601003,No Claim
+42 Years,Male,Jhelum,S.Mehran,2020,1518000,Accidental Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2016,516132,No Claim
+27 Years,Male,Jhelum,S.Mehran,2015,502239,Accidental Claim
+45 Years,Male,chakwal,S.Mehran,2016,1057515,No Claim
+38 Years,Male,Jhelum,H.City,2016,1225000,Accidental Claim
+42  Years,Male,Mardan,H.Civic,2013,2000000,No Claim
+40 Years,Female ,chakwal,S.Swift,2018,1225000,Accidental Claim
+70 Years,Female ,chakwal,H.City,2015,1700000,No Claim
+30 Years,Female ,Jhelum,S.Alto,2018,1029600,Accidental Claim
+65 Years,Female ,chakwal,T.Altis,2014,1500000,No Claim
+42  Years,Male,Mardan,S.Cultus,2018,1251909,Fraud Claim
+73 Years,Male,Jhelum,H.City,2015,1772000,Accidental Claim
+56 Years,Male,Jhelum,H.City,2018,2200000,Accidental Claim
+35 Years,Female ,Jhelum,H.City,2020,2267500,No Claim
+36 Years ,Female ,Jhelum,S.Alto,2018,935370,Accidental Claim
+42  Years,Female ,chakwal,S.Alto,2018,1047600,No Claim
+35 Years,Male,chakwal,H.City,2018,1500000,Accidental Claim
+42  Years,Male,chakwal,H.City,2018,1600000,No Claim
+34 Years,Male,chakwal,S.Bolan,2020,725300,Accidental Claim
+56 Years,Male,chakwal,H.BRV,2020,3265000,No Claim
+43 Years,Male,chakwal,H.City,2018,2064606,Accidental Claim
+35 Years,Male,Jhelum,S.Hustler,2014,1012500,Fraud Claim
+22 Years,Male,chakwal,H.Civic,2018,1835000,Fraud Claim
+39 Years,Male,chakwal,S.Bolan,2020,750000,Accidental Claim
+27 Years,Male,Jhelum,S.Mehran,2016,725000,Accidental Claim
+56 Years,Male,Jhelum,S.Mehran,2020,1395000,Accidental Claim
+45 Years,Male,chakwal,S.Alto,2018,886140,Accidental Claim
+36 Years ,Male,chakwal,T.Aqua,2018,2600000,Accidental Claim
+24 Years,Female ,Peshawar,S.Alto,2018,1110600,No Claim
+48 Years,Female ,chakwal,T.Altis,2018,2541150,Fraud Claim
+30 Years,Male,Peshawar,H.Civic,2018,2500000,Accidental Claim
+46 Years,Female ,Peshawar,T.Aqua,2016,2000000,Accidental Claim
+63 Years,Male,Jhelum,H.Civic,2018,2427244,Accidental Claim
+39 Yerars,Female ,Mardan,S.Mehran,2020,1433000,Accidental Claim
+46 Years,Male,chakwal,H.Civic,2020,3179500,Accidental Claim
+39 Yerars,Male,chakwal,H.Civic,2020,3765000,Accidental Claim
+42  Years,Male,chakwal,H.Civic,2020,3550000,Accidental Claim
+40 Years,Female ,chakwal,H.BRV,2020,2607500,No Claim
+29 Years,Female ,Jhelum,S.Swift,2018,1074836,Fraud Claim
+40 Years,Male,Jhelum,S.Mehran,2018,550000,Accidental Claim
+25 Years,Male,Jhelum,H.Civic,2020,3907000,Accidental Claim
+39 Years,Male,Jhelum,S.Alto,2014,988200,Accidental Claim
+25 Years,Male,Jhelum,H.Civic,2016,2600000,Accidental Claim
+36 years ,Female ,chakwal,H.City,2015,1772000,Accidental Claim
+24 Years,Male,chakwal,S.Alto,2018,908650,Accidental Claim
+46 years,Female ,Jhelum,S.Mehran,2020,1295000,Accidental Claim
+60 years,Male,chakwal,H.Civic,2020,3907000,No Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2020,601003,Fraud Claim
+42 Years,Female ,chakwal,S.Mehran,2020,1518000,Accidental Claim
+36 Years,Female ,Muzaffarabad,S.Mehran,2016,516132,Accidental Claim
+27 Years,Male,Jhelum,S.Mehran,2015,502239,Accidental Claim
+45 Years,Male,Jhelum,S.Mehran,2016,1057515,Accidental Claim
+38 Years,Male,Jhelum,H.City,2016,1225000,Accidental Claim
+42  Years,Male,Jhelum,H.Civic,2013,2000000,Accidental Claim
+40 Years,Male,Jhelum,S.Swift,2018,1225000,Accidental Claim
+70 Years,Male,Jhelum,H.City,2015,1700000,No Claim
+30 Years,Male,Jhelum,S.Alto,2018,1029600,Fraud Claim
+65 Years,Female ,Jhelum,T.Altis,2015,1500000,Accidental Claim
+42  Years,Male,Taxila,S.Cultus,2020,1251909,Accidental Claim
+73 Years,Male,chakwal,H.City,2016,1772000,Accidental Claim
+56 Years,Male,chakwal,H.City,2020,2200000,Accidental Claim
+35 Years,Female ,chakwal,H.City,2018,2267500,Accidental Claim
+36 Years ,Female ,Jhelum,S.Alto,2016,935370,Accidental Claim
+42  Years,Female ,Jhelum,S.Alto,2020,1047600,Accidental Claim
+35 Years,Male,Jhelum,H.City,2014,1500000,Theft Claim
+42  Years,Male,Jhelum,H.City,2018,1600000,Fraud Claim
+34 Years,Male,Jhelum,S.Bolan,2020,725300,Accidental Claim
+56 Years,Male,Jhelum,H.BRV,2020,3265000,Accidental Claim
+43 Years,Male,Mardan,H.City,2018,2064606,Accidental Claim
+35 Years,Male,chakwal,S.Hustler,2015,1012500,Theft Claim
+22 Years,Male,Jhelum,H.Civic,2018,1835000,Accidental Claim
+39 Years,Male,Jhelum,S.Bolan,2020,750000,Theft Claim
+27 Years,Male,chakwal,S.Mehran,2018,725000,Accidental Claim
+56 Years,Male,chakwal,S.Mehran,2020,1395000,Theft Claim
+45 Years,Male,Jhelum,S.Alto,2018,886140,Accidental Claim
+36 Years ,Male,Peshawar,T.Aqua,2018,2600000,Theft Claim
+24 Years,Female ,Jhelum,S.Alto,2020,1110600,Accidental Claim
+48 Years,Female ,Jhelum,T.Altis,2020,2541150,Accidental Claim
+30 Years,Male,Jhelum,H.Civic,2018,2500000,Accidental Claim
+46 Years,Male,Peshawar,T.Aqua,2018,2000000,Accidental Claim
+63 Years,Male,Peshawar,H.Civic,2020,2427244,Accidental Claim
+39 Yerars,Male,Mardan,S.Mehran,2020,1433000,Accidental Claim
+46 Years,Female ,chakwal,H.Civic,2020,3179500,Accidental Claim
+39 Yerars,Male,Jhelum,H.Civic,2020,3765000,Accidental Claim
+42  Years,Male,Jhelum,H.Civic,2020,3550000,Accidental Claim
+40 Years,Female ,Jhelum,H.BRV,2020,2607500,Accidental Claim
+29 Years,Female ,chakwal,S.Swift,2018,1074836,Theft Claim
+40 Years,Male,chakwal,S.Mehran,2018,550000,Accidental Claim
+25 Years,Male,chakwal,H.Civic,2018,3907000,Theft Claim
+39 Years,Male,chakwal,S.Alto,2015,988200,Accidental Claim
+25 Years,Female ,Jhelum,H.Civic,2018,2600000,Theft Claim
+36 years ,Female ,Jhelum,H.City,2016,1772000,Accidental Claim
+24 Years,Male,Jhelum,S.Alto,2018,908650,Theft Claim
+46 years,Female ,chakwal,S.Mehran,2020,1295000,Accidental Claim
+60 years,Male,Jhelum,H.Civic,2020,3907000,Accidental Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2020,601003,Accidental Claim
+42 Years,Male,chakwal,S.Mehran,2020,1518000,Accidental Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2018,516132,Accidental Claim
+27 Years,Female ,chakwal,S.Mehran,2015,502239,Accidental Claim
+45 Years,Female ,chakwal,S.Mehran,2016,1057515,Accidental Claim
+38 Years,Female ,chakwal,H.City,2016,1225000,Accidental Claim
+42  Years,Male,Jhelum,H.Civic,2013,2000000,Accidental Claim
+40 Years,Male,Jhelum,S.Swift,2018,1225000,Accidental Claim
+70 Years,Male,Jhelum,H.City,2015,1700000,Theft Claim
+30 Years,Female ,Peshawar,S.Alto,2018,1029600,Accidental Claim
+65 Years,Female ,Peshawar,T.Altis,2014,1500000,Theft Claim
+42  Years,Female ,Taxila,S.Cultus,2018,1251909,Accidental Claim
+73 Years,Male,Jhelum,H.City,2015,1772000,Theft Claim
+56 Years,Male,Jhelum,H.City,2018,2200000,Accidental Claim
+35 Years,Female ,Jhelum,H.City,2020,2267500,Theft Claim
+36 Years ,Female ,Peshawar,S.Alto,2018,935370,Accidental Claim
+42  Years,Female ,Jhelum,S.Alto,2018,1047600,Accidental Claim
+35 Years,Male,Taxila,H.City,2018,1500000,Accidental Claim
+42  Years,Male,Taxila,H.City,2018,1600000,Accidental Claim
+34 Years,Male,chakwal,S.Bolan,2020,725300,Accidental Claim
+56 Years,Male,Taxila,H.BRV,2020,3265000,Accidental Claim
+43 Years,Male,Peshawar,H.City,2018,2064606,Accidental Claim
+35 Years,Male,Peshawar,S.Hustler,2014,1012500,Accidental Claim
+22 Years,Female ,Jhelum,H.Civic,2018,1835000,Accidental Claim
+39 Years,Female ,Jhelum,S.Bolan,2020,750000,Accidental Claim
+27 Years,Female ,chakwal,S.Mehran,2016,725000,Accidental Claim
+56 Years,Male,Jhelum,S.Mehran,2020,1395000,Accidental Claim
+45 Years,Male,Jhelum,S.Alto,2018,886140,Theft Claim
+36 Years ,Male,Jhelum,T.Aqua,2018,2600000,Fraud Claim
+24 Years,Female ,Jhelum,S.Alto,2018,1110600,Accidental Claim
+48 Years,Male,Jhelum,T.Altis,2018,2541150,Accidental Claim
+30 Years,Female ,Jhelum,H.Civic,2018,2500000,Accidental Claim
+46 Years,Male,Jhelum,T.Aqua,2016,2000000,Accidental Claim
+63 Years,Male,Peshawar,H.Civic,2020,2427244,Theft Claim
+39 Yerars,Male,Peshawar,S.Mehran,2020,1433000,Accidental Claim
+46 Years,Female ,Jhelum,H.Civic,2020,3179500,Theft Claim
+39 Yerars,Male,chakwal,H.Civic,2020,3765000,Accidental Claim
+42  Years,Male,chakwal,H.Civic,2020,3550000,Accidental Claim
+40 Years,Female ,chakwal,H.BRV,2020,2607500,Accidental Claim
+29 Years,Female ,Jhelum,S.Swift,2018,1074836,Accidental Claim
+40 Years,Male,Jhelum,S.Mehran,2018,550000,Accidental Claim
+25 Years,Male,Jhelum,H.Civic,2020,3907000,Theft Claim
+39 Years,Male,Mardan,S.Alto,2014,988200,Accidental Claim
+25 Years,Female ,Jhelum,H.Civic,2018,2600000,Accidental Claim
+36 years ,Female ,Jhelum,H.City,2018,1772000,Accidental Claim
+24 Years,Male,Jhelum,S.Alto,2018,908650,Accidental Claim
+46 years,Female ,chakwal,S.Mehran,2020,1295000,Accidental Claim
+60 years,Male,Jhelum,H.Civic,2020,3907000,Accidental Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2020,601003,Accidental Claim
+42 Years,Male,chakwal,S.Mehran,2020,1518000,Accidental Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2018,516132,Accidental Claim
+27 Years,Male,chakwal,S.Mehran,2016,502239,Theft Claim
+45 Years,Male,Jhelum,S.Mehran,2016,1057515,Fraud Claim
+38 Years,Male,Jhelum,H.City,2016,1225000,Accidental Claim
+42  Years,Male,Jhelum,H.Civic,2013,2000000,Accidental Claim
+40 Years,Male,Jhelum,S.Swift,2018,1225000,Accidental Claim
+70 Years,Male,Jhelum,H.City,2015,1700000,Accidental Claim
+30 Years,Male,Jhelum,S.Alto,2018,1029600,Accidental Claim
+65 Years,Female ,Jhelum,T.Altis,2015,1500000,Accidental Claim
+42  Years,Male,Taxila,S.Cultus,2020,1251909,Accidental Claim
+73 Years,Male,chakwal,H.City,2016,1772000,Theft Claim
+56 Years,Male,chakwal,H.City,2020,2200000,Fraud Claim
+35 Years,Female ,chakwal,H.City,2018,2267500,Accidental Claim
+36 Years ,Female ,Jhelum,S.Alto,2016,935370,Theft Claim
+42  Years,Female ,Jhelum,S.Alto,2020,1047600,Accidental Claim
+35 Years,Male,Jhelum,H.City,2014,1500000,Theft Claim
+42  Years,Male,Jhelum,H.City,2018,1600000,Accidental Claim
+34 Years,Male,Jhelum,S.Bolan,2020,725300,Theft Claim
+56 Years,Male,Jhelum,H.BRV,2020,3265000,Accidental Claim
+43 Years,Male,Mardan,H.City,2018,2064606,Theft Claim
+35 Years,Male,chakwal,S.Hustler,2015,1012500,Accidental Claim
+22 Years,Male,Jhelum,H.Civic,2018,1835000,Theft Claim
+39 Years,Male,Jhelum,S.Bolan,2020,750000,Accidental Claim
+27 Years,Male,chakwal,S.Mehran,2018,725000,Theft Claim
+56 Years,Male,chakwal,S.Mehran,2020,1395000,Accidental Claim
+45 Years,Male,Jhelum,S.Alto,2018,886140,Theft Claim
+36 Years ,Male,Peshawar,T.Aqua,2018,2600000,Accidental Claim
+24 Years,Female ,Jhelum,S.Alto,2020,1110600,Theft Claim
+48 Years,Female ,Jhelum,T.Altis,2020,2541150,Accidental Claim
+30 Years,Male,Jhelum,H.Civic,2018,2500000,Theft Claim
+46 Years,Male,Peshawar,T.Aqua,2018,2000000,Accidental Claim
+63 Years,Male,Peshawar,H.Civic,2020,2427244,Theft Claim
+39 Yerars,Male,Mardan,S.Mehran,2020,1433000,Accidental Claim
+46 Years,Female ,chakwal,H.Civic,2020,3179500,Theft Claim
+39 Yerars,Male,Jhelum,H.Civic,2020,3765000,No Claim
+42  Years,Male,Jhelum,H.Civic,2020,3550000,No Claim
+40 Years,Female ,Jhelum,H.BRV,2020,2607500,No Claim
+29 Years,Female ,chakwal,S.Swift,2018,1074836,No Claim
+40 Years,Male,chakwal,S.Mehran,2018,550000,No Claim
+25 Years,Male,chakwal,H.Civic,2018,3907000,No Claim
+39 Years,Male,chakwal,S.Alto,2015,988200,No Claim
+25 Years,Female ,Jhelum,H.Civic,2018,2600000,No Claim
+36 years ,Female ,Jhelum,H.City,2016,1772000,No Claim
+24 Years,Male,Jhelum,S.Alto,2018,908650,No Claim
+46 years,Female ,chakwal,S.Mehran,2020,1295000,No Claim
+60 years,Male,Jhelum,H.Civic,2020,3907000,No Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2020,601003,No Claim
+42 Years,Male,chakwal,S.Mehran,2020,1518000,No Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2018,516132,No Claim
+27 Years,Female ,chakwal,S.Mehran,2015,502239,No Claim
+45 Years,Female ,chakwal,S.Mehran,2016,1057515,No Claim
+38 Years,Female ,chakwal,H.City,2016,1225000,No Claim
+42  Years,Male,Jhelum,H.Civic,2013,2000000,No Claim
+40 Years,Male,Jhelum,S.Swift,2018,1225000,No Claim
+70 Years,Male,Jhelum,H.City,2015,1700000,No Claim
+30 Years,Female ,Peshawar,S.Alto,2018,1029600,No Claim
+65 Years,Female ,Peshawar,T.Altis,2014,1500000,No Claim
+42  Years,Female ,Taxila,S.Cultus,2018,1251909,No Claim
+73 Years,Male,Jhelum,H.City,2015,1772000,No Claim
+56 Years,Male,Jhelum,H.City,2018,2200000,No Claim
+35 Years,Female ,Jhelum,H.City,2020,2267500,No Claim
+36 Years ,Female ,Peshawar,S.Alto,2018,935370,No Claim
+42  Years,Female ,Jhelum,S.Alto,2018,1047600,No Claim
+35 Years,Male,Taxila,H.City,2018,1500000,No Claim
+42  Years,Male,Taxila,H.City,2018,1600000,No Claim
+34 Years,Male,chakwal,S.Bolan,2020,725300,No Claim
+56 Years,Male,Taxila,H.BRV,2020,3265000,No Claim
+43 Years,Male,Peshawar,H.City,2018,2064606,No Claim
+35 Years,Male,Peshawar,S.Hustler,2014,1012500,No Claim
+22 Years,Female ,Jhelum,H.Civic,2018,1835000,Accidental Claim
+39 Years,Female ,Jhelum,S.Bolan,2020,750000,Theft Claim
+27 Years,Female ,chakwal,S.Mehran,2016,725000,Fraud Claim
+56 Years,Male,Jhelum,S.Mehran,2020,1395000,No Claim
+45 Years,Male,Jhelum,S.Alto,2018,886140,Accidental Claim
+36 Years ,Male,Jhelum,T.Aqua,2018,2600000,Theft Claim
+24 Years,Female ,Jhelum,S.Alto,2018,1110600,Accidental Claim
+48 Years,Male,Jhelum,T.Altis,2018,2541150,Theft Claim
+30 Years,Female ,Jhelum,H.Civic,2018,2500000,Accidental Claim
+46 Years,Male,Jhelum,T.Aqua,2016,2000000,Theft Claim
+63 Years,Male,Peshawar,H.Civic,2020,2427244,Accidental Claim
+39 Yerars,Male,Peshawar,S.Mehran,2020,1433000,Theft Claim
+46 Years,Female ,Jhelum,H.Civic,2020,3179500,Accidental Claim
+39 Yerars,Male,chakwal,H.Civic,2020,3765000,Theft Claim
+42  Years,Male,chakwal,H.Civic,2020,3550000,Accidental Claim
+40 Years,Female ,chakwal,H.BRV,2020,2607500,Theft Claim
+29 Years,Female ,Jhelum,S.Swift,2018,1074836,Accidental Claim
+40 Years,Male,Jhelum,S.Mehran,2018,550000,Theft Claim
+25 Years,Male,Jhelum,H.Civic,2020,3907000,Accidental Claim
+39 Years,Male,Mardan,S.Alto,2014,988200,Theft Claim
+25 Years,Female ,Jhelum,H.Civic,2018,2600000,Accidental Claim
+36 years ,Female ,Jhelum,H.City,2018,1772000,Theft Claim
+24 Years,Male,Jhelum,S.Alto,2018,908650,Accidental Claim
+46 years,Female ,chakwal,S.Mehran,2020,1295000,Theft Claim
+60 years,Male,Jhelum,H.Civic,2020,3907000,Accidental Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2020,601003,Theft Claim
+42 Years,Male,chakwal,S.Mehran,2020,1518000,Accidental Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2018,516132,Theft Claim
+27 Years,Male,chakwal,S.Mehran,2016,502239,Accidental Claim
+70 Years,Male,Peshawar,H.City,2015,1700000,Theft Claim
+30 Years,Male,Jhelum,S.Alto,2018,1029600,Accidental Claim
+45 Years,Female ,Jhelum,T.Altis,2014,1500000,Theft Claim
+42  Years,Male,Taxila,S.Cultus,2018,1251909,No Claim
+73 Years,Male,Jhelum,H.City,2015,1772000,No Claim
+56 Years,Male,Taxila,H.City,2018,2200000,No Claim
+35 Years,Male,chakwal,Suzuki Clutus,2020,2267500,No Claim
+36 Years ,Female ,Jhelum,S.Alto,2015,935370,No Claim
+42  Years,Male,chakwal,S.Alto,2016,1047600,No Claim
+35 Years,Female ,Jhelum,H.City,2018,1500000,No Claim
+42  Years,Male,Taxila,H.City,2018,1600000,No Claim
+34 Years,Female ,Jhelum,S.Bolan,2020,725300,No Claim
+56 Years,Male,Jhelum,H.BRV,2018,3265000,No Claim
+43 Years,Female ,Mardan,H.City,2018,2064606,No Claim
+35 Years,Male,chakwal,S.Hustler,2016,1012500,No Claim
+22 Years,Male,Taxila,H.Civic,2018,1835000,No Claim
+39 Years,Female ,Jhelum,S.Bolan,2020,750000,No Claim
+27 Years,Male,chakwal,Prince Pearl,2016,725000,No Claim
+56 Years,Male,chakwal,S.Mehran,2020,1395000,No Claim
+45 Years,Female ,Jhelum,S.Alto,2018,886140,No Claim
+36 Years ,Male,Mardan,T.Aqua,2018,2600000,No Claim
+24 Years,Female ,Jhelum,S.Mehran,2018,1110600,No Claim
+48 Years,Male,Jhelum,T.Altis,2018,2541150,No Claim
+30 Years,Female ,Jhelum,H.Civic,2018,2500000,No Claim
+46 Years,Female ,Peshawar,T.Aqua,2015,2000000,No Claim
+63 Years,Male,Peshawar,H.Civic,2018,2427244,No Claim
+39 Yerars,Female ,Mardan,S.Mehran,2018,1433000,No Claim
+46 Years,Female ,chakwal,H.Civic,2018,3179500,No Claim
+39 Yerars,Male,Jhelum,H.Civic,2020,3765000,No Claim
+42  Years,Male,chakwal,H.Civic,2020,3550000,No Claim
+40 Years,Female ,Taxila,H.BRV,2020,2607500,No Claim
+29 Years,Female ,Mardan,S.Swift,2018,1074836,No Claim
+40 Years,Male,Jhelum,S.Mehran,2018,550000,No Claim
+25 Years,Female ,chakwal,H.Civic,2020,3907000,No Claim
+39 Years,Male,chakwal,cultus,2014,988200,No Claim
+25 Years,Female ,Jhelum,H.Civic,2018,2600000,No Claim
+36 years ,Female ,Jhelum,H.City,2014,1772000,No Claim
+24 Years,Male,Jhelum,S.Alto,214,908650,No Claim
+46 years,Female ,chakwal,S.Mehran,2018,1295000,Accidental Claim
+60 years,Male,Jhelum,H.Civic,2020,3907000,Theft Claim
+47 years ,Female ,Muzaffarabad,S.Mehran,2018,601003,Fraud Claim
+42 Years,Male,chakwal,S.Mehran,2018,1518000,No Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2015,516132,Accidental Claim
+27 Years,Male,chakwal,S.Mehran,2014,502239,Theft Claim
+45 Years,Male,chakwal,S.Mehran,2018,1057515,Accidental Claim
+38 Years,Male,chakwal,H.City,2016,1225000,Theft Claim
+42  Years,Male,chakwal,H.Civic,2014,2000000,Accidental Claim
+40 Years,Male,chakwal,S.Swift,2018,1225000,Theft Claim
+70 Years,Male,chakwal,H.City,2016,1700000,Accidental Claim
+30 Years,Female ,Jhelum,S.Alto,2020,1029600,Theft Claim
+65 Years,Female ,Jhelum,T.Altis,2015,1500000,Accidental Claim
+42  Years,Male,Taxila,S.Cultus,2020,1251909,Theft Claim
+73 Years,Male,chakwal,H.City,2016,1772000,Accidental Claim
+56 Years,Male,chakwal,H.City,2018,2200000,Theft Claim
+35 Years,Female ,chakwal,H.City,2020,2267500,Accidental Claim
+36 Years ,Female ,Jhelum,S.Alto,2018,935370,Theft Claim
+42  Years,Female ,Jhelum,S.Alto,2018,1047600,Accidental Claim
+35 Years,Female ,Jhelum,H.City,2018,1500000,Theft Claim
+42  Years,Female ,Jhelum,H.City,2018,1600000,Accidental Claim
+34 Years,Female ,Jhelum,S.Bolan,2020,725300,Theft Claim
+56 Years,Female ,Jhelum,H.BRV,2020,3265000,Accidental Claim
+43 Years,Female ,Mardan,H.City,2018,2064606,Theft Claim
+35 Years,Female ,chakwal,S.Hustler,2014,1012500,Accidental Claim
+22 Years,Male,Jhelum,H.Civic,2018,1835000,Theft Claim
+39 Years,Female ,Jhelum,S.Bolan,2020,750000,Accidental Claim
+27 Years,Male,chakwal,S.Mehran,2016,725000,Theft Claim
+56 Years,Female ,chakwal,S.Mehran,2020,1395000,Accidental Claim
+45 Years,Male,Jhelum,S.Alto,2018,886140,Theft Claim
+36 Years ,Male,Peshawar,T.Aqua,2018,2600000,Accidental Claim
+24 Years,Female ,Jhelum,S.Alto,2018,1110600,Theft Claim
+48 Years,Female ,Jhelum,T.Altis,2018,2541150,No Claim
+30 Years,Male,Jhelum,H.Civic,2018,2500000,No Claim
+46 Years,Male,Peshawar,T.Aqua,2016,2000000,No Claim
+63 Years,Male,Peshawar,H.Civic,2018,2427244,No Claim
+39 Yerars,Male,Mardan,S.Mehran,2020,1433000,No Claim
+46 Years,Female ,chakwal,H.Civic,2018,3179500,No Claim
+39 Yerars,Male,Jhelum,H.Civic,2018,3765000,No Claim
+42  Years,Male,Jhelum,H.Civic,2018,3550000,No Claim
+40 Years,Female ,Jhelum,H.BRV,2018,2607500,No Claim
+29 Years,Female ,chakwal,S.Swift,2018,1074836,No Claim
+40 Years,Male,chakwal,S.Mehran,2018,550000,No Claim
+25 Years,Male,chakwal,H.Civic,2018,3907000,No Claim
+39 Years,Male,chakwal,S.Alto,2015,988200,No Claim
+25 Years,Female ,Jhelum,H.Civic,2015,2600000,No Claim
+36 years ,Female ,Jhelum,H.City,2016,1772000,No Claim
+35 Years,Male,Jhelum,H.City,2018,1500000,No Claim
+42  Years,Male,Jhelum,H.City,2018,1600000,No Claim
+34 Years,Male,Jhelum,S.Bolan,2020,725300,No Claim
+56 Years,Male,Jhelum,H.BRV,2020,3265000,No Claim
+43 Years,Male,Mardan,H.City,2018,2064606,No Claim
+35 Years,Male,chakwal,S.Hustler,2014,1012500,No Claim
+22 Years,Male,Jhelum,H.Civic,2018,1835000,No Claim
+39 Years,Male,Jhelum,S.Bolan,2020,750000,No Claim
+27 Years,Male,chakwal,S.Mehran,2016,725000,No Claim
+56 Years,Male,chakwal,S.Mehran,2020,1395000,No Claim
+45 Years,Male,chakwal,S.Mehran,2016,1057515,No Claim
+38 Years,Male,chakwal,H.City,2016,1225000,No Claim
+42  Years,Male,chakwal,H.Civic,2013,2000000,No Claim
+40 Years,Male,chakwal,S.Swift,2018,1225000,No Claim
+70 Years,Male,chakwal,H.City,2015,1700000,No Claim
+30 Years,Female ,Jhelum,S.Alto,2018,1029600,No Claim
+65 Years,Female ,Jhelum,T.Altis,2014,1500000,No Claim
+42  Years,Male,Taxila,S.Cultus,2018,1251909,No Claim
+73 Years,Male,chakwal,H.City,2015,1772000,No Claim
+56 Years,Male,chakwal,H.City,2018,2200000,No Claim
+35 Years,Female ,chakwal,H.City,2020,2267500,Accidental Claim
+36 Years ,Female ,Jhelum,S.Alto,2018,935370,Theft Claim
+42  Years,Female ,Jhelum,S.Alto,2018,1047600,Fraud Claim
+35 Years,Male,Jhelum,H.City,2018,1500000,No Claim
+42  Years,Male,Jhelum,H.City,2018,1600000,Accidental Claim
+34 Years,Male,Jhelum,S.Bolan,2020,725300,Theft Claim
+56 Years,Male,Jhelum,H.BRV,2020,3265000,Accidental Claim
+43 Years,Male,Mardan,H.City,2018,2064606,Theft Claim
+35 Years,Male,chakwal,S.Hustler,2014,1012500,Accidental Claim
+22 Years,Male,Jhelum,H.Civic,2018,1835000,Theft Claim
+39 Years,Male,Jhelum,S.Bolan,2020,750000,Accidental Claim
+32 Years,Female,Jhelum,S.Mehran,2018,725000,Fraud Claim
+51 Years,Female,Jhelum,S.Alto,2021,1395000,No Claim
+49 Years,Female,Taxia,S.Wagon-R,2018,886140,Accidental Claim
+36 Years ,Female,Peshawar,T.Aqua,2018,2600000,Theft Claim
+24 Years,FeFemale ,Taxia,S.Wagon-R,2020,1110600,Fraud Claim
+52 Years,FeFemale ,Taxia,T.Altis,2020,2541150,No Claim
+30 Years,Female,Taxia,T.Grande,2018,2500000,Accidental Claim
+46 Years,Female,Peshawar,T.Aqua,2018,2000000,Theft Claim
+63 Years,Female,Peshawar,T.Grande,2020,2427244,Fraud Claim
+39 Yerars,Female,Mardan,S.Alto,2020,1433000,Fraud Claim
+46 Years,FeFemale ,Jhelum,T.Grande,2020,3179500,No Claim
+39 Yerars,Female,Jhelum,T.Grande,2020,3765000,No Claim
+51 Years,Female,Taxia,T.Grande,2020,3550000,No Claim
+40 Years,FeFemale ,Taxia,H.BRV,2020,2607500,No Claim
+29 Years,FeFemale ,Jhelum,S.Swift,2018,1074836,No Claim
+40 Years,Female,Jhelum,S.Mehran,2018,550000,Fraud Claim
+25 Years,Female,Jhelum,T.Grande,2020,3907000,No Claim
+39 Years,Female,Jhelum,S.Wagon-R,2014,988200,Accidental Claim
+25 Years,FeFemale ,Taxia,T.Grande,2018,2600000,Theft Claim
+36 years ,FeFemale ,Taxia,T.GLI,2015,1772000,Fraud Claim
+24 Years,Female,Taxia,S.Wagon-R,2018,908650,No Claim
+46 years,FeFemale ,Jhelum,S.Alto,2020,1295000,Accidental Claim
+60 years,Female,Jhelum,T.Grande,2021,3907000,Theft Claim
+47 years ,FeFemale ,Muzaffarabad,S.Mehran,2020,601003,Fraud Claim
+42 Years,Female,chakwal,S.Alto,2021,1518000,Fraud Claim
+36 Years,Female,Muzaffarabad,S.Mehran,2018,516132,No Claim
+32 Years,Female,chakwal,S.Mehran,2015,502239,No Claim
+25 Years,Female,Jhelum,S.Mehran,2018,601800,No Claim
+60 Years,Female,Jhelum,S.Mehran,2020,607500,No Claim
+30 Years,Female,Jhelum,Honda  City,2020,1304910,No Claim
+37 Years ,Female,Jhelum,Suzuki  Bolan,2020,607500,No Claim
+40 Years,Female,Mir Pur AJK,Honda  CIVIC VTI ORIEL P/T,2020,2134755,No Claim
+21 Years ,Female,Jhelum,Suzuki  Bolan,2018,528525,No Claim
+40 Years ,Female,Jhelum,Honda  Civic Oriel,2020,2635500,No Claim
+25 Years,Female,Chakwal,Suzuki  Mehran,2018,625860,No Claim
+35 Years,Female,Jhelum,Kia  Sportage AWD,2020,5399000,No Claim
+60 Years,Female,Jhelum,Suzuki  Wagon R,2018,886146,No Claim
+49 Years,Female,Jhelum,Suzuki Wagon R,2018,1057515,No Claim
+40 years,Female,Jhelum,Toyata Vitz,2018,1225000,No Claim
+51 Years,Female,Jhelum,T.Grande,2013,2000000,No Claim
+40 Years,Female,Taxia,Honda city,2018,1225000,No Claim
+70 Years,Female,Peshawar,H.City,2015,1700000,No Claim
+30 Years,Female,Taxia,S.Wagon-R,2020,1029600,No Claim
+49 Years,FeFemale ,Taxia,T.Altis,2014,1500000,No Claim
+51 Years,Female,Taxila,S.Cultus,2020,1251909,No Claim
+73 Years,Female,Jhelum,T.GLI,2015,1772000,No Claim
+51 Years,Female,Taxila,T.GLI,2020,2200000,No Claim
+35 Years,Female,Jhelum,Suzuki Clutus,2020,2267500,No Claim
+36 Years ,FeFemale ,Taxia,S.Wagon-R,2015,935370,No Claim
+51 Years,Female,Jhelum,S.Wagon-R,2018,1047600,No Claim
+35 Years,FeFemale ,Taxia,H.City,2020,1500000,No Claim
+51 Years,Female,Taxila,H.City,2020,1600000,No Claim
+34 Years,FeFemale ,Taxia,S.Bolan,2020,725300,No Claim
+51 Years,Female,Jhelum,H.BRV,2020,3265000,No Claim
+43 Years,FeFemale ,Mardan,T.GLI,2020,2064606,No Claim
+35 Years,Female,Jhelum,S.Hustler,2018,1012500,No Claim
+22 Years,Female,Taxila,T.Grande,2018,1835000,No Claim
+39 Years,FeFemale ,Taxia,S.Bolan,2020,750000,No Claim
+32 Years,Female,Jhelum,Prince Pearl,2018,725000,No Claim
+51 Years,Female,Jhelum,S.Alto,2020,1395000,Accidental Claim
+49 Years,FeFemale ,Taxia,S.Wagon-R,2018,886140,Theft Claim
+36 Years ,Female,Mardan,T.Aqua,2018,2600000,Fraud Claim
+24 Years,FeFemale ,Taxia,S.Alto,2018,1110600,No Claim
+52 Years,Female,Taxia,T.Altis,2020,2541150,Accidental Claim
+30 Years,FeFemale ,Taxia,T.Grande,2018,2500000,Theft Claim
+46 Years,FeFemale ,Peshawar,T.Aqua,2015,2000000,Accidental Claim
+63 Years,Female,Peshawar,T.Grande,2020,2427244,Theft Claim
+39 Yerars,FeFemale ,Mardan,S.Alto,2020,1433000,Accidental Claim
+46 Years,FeFemale ,Jhelum,T.Grande,2020,3179500,Theft Claim
+39 Yerars,Female,Taxia,T.Grande,2020,3765000,Accidental Claim
+51 Years,Female,Jhelum,T.Grande,2020,3550000,Fraud Claim
+40 Years,FeFemale ,Taxila,H.BRV,2020,2607500,No Claim
+29 Years,FeFemale ,Mardan,S.Swift,2018,1074836,Accidental Claim
+40 Years,Female,Jhelum,S.Mehran,2018,550000,Theft Claim
+25 Years,FeFemale ,Jhelum,T.Grande,2020,3907000,Fraud Claim
+39 Years,Female,Jhelum,cultus,2014,988200,No Claim
+25 Years,FeFemale ,Taxia,T.Grande,2020,2600000,Accidental Claim
+36 years ,FeFemale ,Taxia,T.GLI,2014,1772000,Theft Claim
+24 Years,Female,Taxia,S.Wagon-R,214,908650,Fraud Claim
+46 years,FeFemale ,Jhelum,S.Alto,2020,1295000,Fraud Claim
+60 years,Female,Jhelum,T.Grande,2020,3907000,No Claim
+47 years ,FeFemale ,Muzaffarabad,S.Mehran,2018,601003,No Claim
+42 Years,Female,chakwal,S.Alto,2020,1518000,No Claim
+36 Years,Female,Muzaffarabad,S.Mehran,2015,516132,No Claim
+32 Years,Female,chakwal,S.Mehran,2014,502239,No Claim
+49 Years,Female,Jhelum,S.Alto,2018,1057515,No Claim
+38 Years,Female,Jhelum,H.City,2018,1225000,No Claim
+51 Years,Female,Jhelum,T.Grande,2014,2000000,No Claim
+40 Years,Female,Jhelum,S.Swift,2020,1225000,No Claim
+70 Years,Female,Jhelum,H.City,2018,1700000,No Claim
+30 Years,FeFemale ,Taxia,S.Wagon-R,2020,1029600,No Claim
+65 Years,FeFemale ,Taxia,T.Altis,2015,1500000,No Claim
+51 Years,Female,Taxila,S.Cultus,2020,1251909,No Claim
+73 Years,Female,Jhelum,T.GLI,2018,1772000,No Claim
+51 Years,Female,Jhelum,T.GLI,2018,2200000,No Claim
+35 Years,FeFemale ,Jhelum,H.City,2021,2267500,No Claim
+36 Years ,FeFemale ,Taxia,S.Wagon-R,2020,935370,No Claim
+51 Years,FeFemale ,Taxia,S.Wagon-R,2018,1047600,No Claim
+35 Years,FeFemale ,Taxia,H.City,2020,1500000,No Claim
+51 Years,FeFemale ,Taxia,H.City,2020,1600000,No Claim
+34 Years,FeFemale ,Taxia,S.Bolan,2020,725300,No Claim
+51 Years,FeFemale ,Jhelum,H.BRV,2020,3265000,No Claim
+43 Years,FeFemale ,Mardan,T.GLI,2020,2064606,No Claim
+35 Years,FeFemale ,Jhelum,S.Hustler,2014,1012500,No Claim
+22 Years,Female,Taxia,T.Grande,2018,1835000,No Claim
+39 Years,FeFemale ,Taxia,S.Bolan,2020,750000,No Claim
+32 Years,Female,Jhelum,S.Mehran,2018,725000,No Claim
+51 Years,FeFemale ,Jhelum,S.Alto,2021,1395000,No Claim
+49 Years,Female,Taxia,S.Wagon-R,2018,886140,No Claim
+36 Years ,Female,Peshawar,T.Aqua,2018,2600000,Accidental Claim
+24 Years,FeFemale ,Taxia,S.Wagon-R,2020,1110600,Theft Claim
+52 Years,FeFemale ,Taxia,T.Altis,2020,2541150,Fraud Claim
+30 Years,Female,Taxia,T.Grande,2018,2500000,No Claim
+46 Years,Female,Peshawar,T.Aqua,2018,2000000,Accidental Claim
+63 Years,Female,Peshawar,T.Grande,2018,2427244,Theft Claim
+39 Yerars,Female,Mardan,S.Alto,2021,1433000,Accidental Claim
+46 Years,FeFemale ,Jhelum,T.Grande,2020,3179500,Theft Claim
+39 Yerars,Female,Jhelum,T.Grande,2020,3765000,Accidental Claim
+51 Years,Female,Taxia,T.Grande,2020,3550000,Theft Claim
+40 Years,FeFemale ,Taxia,H.BRV,2020,2607500,Accidental Claim
+29 Years,FeFemale ,Jhelum,S.Swift,2020,1074836,Fraud Claim
+40 Years,Female,Jhelum,S.Mehran,2020,550000,No Claim
+25 Years,Female,Jhelum,T.Grande,2020,3907000,Accidental Claim
+39 Years,Female,Jhelum,S.Wagon-R,2015,988200,Theft Claim
+25 Years,FeFemale ,Taxia,T.Grande,2015,2600000,Fraud Claim
+36 years ,FeFemale ,Taxia,T.GLI,2018,1772000,No Claim
+24 Years,Female,Taxia,S.Wagon-R,2020,908650,Accidental Claim
+46 years,FeFemale ,Jhelum,S.Alto,2021,1295000,Theft Claim
+60 years,Female,Jhelum,T.Grande,2020,3907000,Fraud Claim
+47 years ,FeFemale ,Muzaffarabad,S.Mehran,2021,601003,Fraud Claim
+42 Years,Female,Jhelum,S.Alto,2021,1518000,No Claim
+36 Years,Female,Muzaffarabad,S.Mehran,2018,516132,No Claim
+32 Years,Female,Jhelum,S.Mehran,2015,502239,No Claim
+49 Years,Female,Jhelum,S.Alto,2018,1057515,No Claim
+38 Years,Female,Jhelum,H.City,2018,1225000,No Claim
+51 Years,Female,Mardan,T.Grande,2013,2000000,No Claim
+40 Years,FeFemale ,Jhelum,S.Swift,2018,1225000,No Claim
+70 Years,FeFemale ,Jhelum,H.City,2015,1700000,No Claim
+30 Years,FeFemale ,Jhelum,S.Wagon-R,2020,1029600,No Claim
+65 Years,FeFemale ,Jhelum,T.Altis,2014,1500000,No Claim
+51 Years,Female,Mardan,S.Cultus,2020,1251909,No Claim
+73 Years,Female,Taxia,T.GLI,2015,1772000,No Claim
+51 Years,Female,Taxia,T.GLI,2020,2200000,No Claim
+35 Years,FeFemale ,Taxia,H.City,2020,2267500,No Claim
+36 Years ,FeFemale ,Jhelum,S.Wagon-R,2018,935370,No Claim
+51 Years,FeFemale ,Jhelum,S.Wagon-R,2020,1047600,No Claim
+35 Years,Female,Jhelum,H.City,2020,1500000,No Claim
+51 Years,Female,Jhelum,H.City,2020,1600000,No Claim
+34 Years,Female,Jhelum,S.Bolan,2020,725300,No Claim
+51 Years,Female,chakwal,H.BRV,2020,3265000,No Claim
+43 Years,Female,chakwal,T.GLI,2020,2064606,No Claim
+35 Years,Female,Taxia,S.Hustler,2014,1012500,No Claim
+22 Years,Female,Jhelum,T.Grande,2018,1835000,No Claim
+39 Years,Female,Jhelum,S.Bolan,2020,750000,No Claim
+32 Years,Female,Taxia,S.Mehran,2018,725000,No Claim
+51 Years,Female,Taxia,S.Alto,2021,1395000,No Claim
+49 Years,Female,chakwal,S.Wagon-R,2018,886140,No Claim
+36 Years ,Female,chakwal,T.Aqua,2018,2600000,No Claim
+24 Years,FeFemale ,Peshawar,S.Wagon-R,2020,1110600,No Claim
+52 Years,FeFemale ,chakwal,T.Altis,2020,2541150,Accidental Claim
+30 Years,Female,Peshawar,T.Grande,2018,2500000,Theft Claim
+46 Years,FeFemale ,Peshawar,T.Aqua,2018,2000000,Fraud Claim
+63 Years,Female,Taxia,T.Grande,2020,2427244,No Claim
+39 Yerars,FeFemale ,Mardan,S.Alto,2020,1433000,Accidental Claim
+46 Years,Female,Jhelum,T.Grande,2020,3179500,Theft Claim
+39 Yerars,Female,chakwal,T.Grande,2020,3765000,Accidental Claim
+51 Years,Female,chakwal,T.Grande,2020,3550000,Theft Claim
+40 Years,FeFemale ,Jhelum,H.BRV,2020,2607500,Accidental Claim
+29 Years,FeFemale ,Taxia,S.Swift,2018,1074836,Theft Claim
+40 Years,Female,Taxia,S.Mehran,2018,550000,Accidental Claim
+25 Years,Female,Jhelum,T.Grande,2020,3907000,Fraud Claim
+39 Years,Female,Jhelum,S.Wagon-R,2014,988200,No Claim
+25 Years,Female,Taxia,T.Grande,2018,2600000,Accidental Claim
+36 years ,FeFemale ,Jhelum,T.GLI,2015,1772000,Theft Claim
+24 Years,Female,chakwal,S.Wagon-R,2018,908650,Fraud Claim
+46 years,FeFemale ,Jhelum,S.Alto,2020,1295000,No Claim
+60 years,Female,chakwal,T.Grande,2021,3907000,Accidental Claim
+47 years ,FeFemale ,Muzaffarabad,S.Mehran,2020,601003,Theft Claim
+42 Years,FeFemale ,chakwal,S.Alto,2021,1518000,Fraud Claim
+36 Years,FeFemale ,Muzaffarabad,S.Mehran,2018,516132,Fraud Claim
+32 Years,Female,Taxia,S.Mehran,2015,502239,Accidental Claim
+49 Years,Female,Jhelum,S.Alto,2018,1057515,Theft Claim
+38 Years,Female,Jhelum,H.City,2018,1225000,No Claim
+51 Years,Female,Taxia,T.Grande,2013,2000000,No Claim
+40 Years,Female,Taxia,S.Swift,2018,1225000,No Claim
+70 Years,Female,Taxia,H.City,2015,1700000,No Claim
+30 Years,Female,Taxia,S.Wagon-R,2020,1029600,Accidental Claim
+65 Years,FeFemale ,Taxia,T.Altis,2015,1500000,Theft Claim
+51 Years,Female,Taxila,S.Cultus,2020,1251909,No Claim
+73 Years,Female,Jhelum,T.GLI,2018,1772000,No Claim
+51 Years,Female,Jhelum,T.GLI,2021,2200000,No Claim
+35 Years,FeFemale ,Jhelum,H.City,2020,2267500,Accidental Claim
+36 Years ,FeFemale ,Taxia,S.Wagon-R,2018,935370,No Claim
+51 Years,FeFemale ,Taxia,S.Wagon-R,2020,1047600,No Claim
+35 Years,Female,Taxia,H.City,2014,1500000,No Claim
+51 Years,Female,Taxia,H.City,2018,1600000,No Claim
+34 Years,Female,Taxia,S.Bolan,2020,725300,Accidental Claim
+51 Years,Female,Jhelum,H.BRV,2021,3265000,Theft Claim
+43 Years,Female,Mardan,T.GLI,2018,2064606,Fraud Claim
+35 Years,Female,Jhelum,S.Hustler,2015,1012500,No Claim
+22 Years,Female,Taxia,T.Grande,2020,1835000,Accidental Claim
+39 Years,Female,Taxia,S.Bolan,2021,750000,No Claim
+32 Years,Female,Jhelum,S.Mehran,2018,725000,No Claim
+51 Years,Female,Jhelum,S.Alto,2020,1395000,No Claim
+49 Years,Female,Taxia,S.Wagon-R,2020,886140,No Claim
+36 Years ,Female,Peshawar,T.Aqua,2020,2600000,Accidental Claim
+24 Years,FeFemale ,Taxia,S.Wagon-R,2020,1110600,Accidental Claim
+52 Years,FeFemale ,Taxia,T.Altis,2021,2541150,Fraud Claim
+30 Years,Female,Taxia,T.Grande,2020,2500000,No Claim
+46 Years,Female,Peshawar,T.Aqua,2018,2000000,Accidental Claim
+63 Years,Female,Peshawar,T.Grande,2020,2427244,Accidental Claim
+39 Yerars,Female,Mardan,S.Alto,2021,1433000,Accidental Claim
+46 Years,FeFemale ,Jhelum,T.Grande,2021,3179500,Accidental Claim
+39 Yerars,Female,Jhelum,T.Grande,2021,3765000,Accidental Claim
+51 Years,Female,Taxia,T.Grande,2021,3550000,Accidental Claim
+40 Years,FeFemale ,Taxia,H.BRV,2021,2607500,Accidental Claim
+29 Years,FeFemale ,Jhelum,S.Swift,2020,1074836,No Claim
+40 Years,Female,Jhelum,S.Mehran,2020,550000,No Claim
+25 Years,Female,Jhelum,T.Grande,2020,3907000,No Claim
+39 Years,Female,Jhelum,S.Wagon-R,2015,988200,No Claim
+25 Years,FeFemale ,Taxia,T.Grande,2018,2600000,Accidental Claim
+36 years ,FeFemale ,Taxia,T.GLI,2018,1772000,Accidental Claim
+24 Years,Female,Taxia,S.Wagon-R,2020,908650,No Claim
+46 years,FeFemale ,Jhelum,S.Alto,2021,1295000,No Claim
+60 years,Female,Jhelum,T.Grande,2020,3907000,No Claim
+47 years ,FeFemale ,Muzaffarabad,S.Mehran,2020,601003,Accidental Claim
+42 Years,Female,chakwal,S.Alto,2020,1518000,No Claim
+36 Years,Female,Muzaffarabad,S.Mehran,2018,516132,No Claim
+32 Years,FeFemale ,chakwal,S.Mehran,2015,502239,No Claim
+49 Years,FeFemale ,Jhelum,S.Alto,2018,1057515,No Claim
+38 Years,FeFemale ,Jhelum,H.City,2018,1225000,Accidental Claim
+51 Years,Female,Taxia,T.Grande,2013,2000000,Accidental Claim
+40 Years,Female,Taxia,S.Swift,2018,1225000,Fraud Claim
+70 Years,Female,Jhelum,H.City,2015,1700000,No Claim
+30 Years,FeFemale ,Peshawar,S.Wagon-R,2020,1029600,Accidental Claim
+65 Years,FeFemale ,Peshawar,T.Altis,2014,1500000,No Claim
+51 Years,FeFemale ,Taxila,S.Cultus,2020,1251909,No Claim
+73 Years,Female,Jhelum,T.GLI,2015,1772000,No Claim
+51 Years,Female,Jhelum,T.GLI,2020,2200000,No Claim
+35 Years,FeFemale ,Jhelum,H.City,2020,2267500,Accidental Claim
+36 Years ,FeFemale ,Peshawar,S.Wagon-R,2018,935370,Accidental Claim
+51 Years,FeFemale ,Jhelum,S.Wagon-R,2020,1047600,Fraud Claim
+35 Years,Female,Taxila,H.City,2020,1500000,No Claim
+51 Years,Female,Taxila,H.City,2020,1600000,Accidental Claim
+34 Years,Female,Jhelum,S.Bolan,2020,725300,Accidental Claim
+51 Years,Female,Taxila,H.BRV,2020,3265000,Accidental Claim
+43 Years,Female,Peshawar,T.GLI,2020,2064606,Accidental Claim
+35 Years,Female,Peshawar,S.Hustler,2014,1012500,Accidental Claim
+22 Years,FeFemale ,Taxia,T.Grande,2018,1835000,Accidental Claim
+39 Years,FeFemale ,Taxia,S.Bolan,2020,750000,Accidental Claim
+32 Years,FeFemale ,Jhelum,S.Mehran,2018,725000,Accidental Claim
+51 Years,Female,Taxia,S.Alto,2021,1395000,Accidental Claim
+49 Years,Female,Jhelum,S.Wagon-R,2018,886140,Fraud Claim
+36 Years ,Female,Jhelum,T.Aqua,2018,2600000,No Claim
+24 Years,FeFemale ,Taxia,S.Wagon-R,2020,1110600,Accidental Claim
+52 Years,Female,Taxia,T.Altis,2020,2541150,Accidental Claim
+30 Years,FeFemale ,Taxia,T.Grande,2018,2500000,Accidental Claim
+46 Years,Female,Taxia,T.Aqua,2018,2000000,Accidental Claim
+63 Years,Female,Peshawar,T.Grande,2020,2427244,Accidental Claim
+39 Yerars,Female,Peshawar,S.Alto,2020,1433000,Accidental Claim
+46 Years,FeFemale ,Taxia,T.Grande,2020,3179500,Accidental Claim
+39 Yerars,Female,chakwal,T.Grande,2020,3765000,Accidental Claim
+51 Years,Female,chakwal,T.Grande,2020,3550000,Accidental Claim
+40 Years,FeFemale ,Jhelum,H.BRV,2020,2607500,Accidental Claim
+29 Years,FeFemale ,Taxia,S.Swift,2018,1074836,Accidental Claim
+40 Years,Female,Taxia,S.Mehran,2018,550000,Accidental Claim
+25 Years,Female,Jhelum,T.Grande,2020,3907000,Accidental Claim
+39 Years,Female,Mardan,S.Wagon-R,2014,988200,Accidental Claim
+25 Years,FeFemale ,Taxia,T.Grande,2018,2600000,Accidental Claim
+36 years ,FeFemale ,Taxia,T.GLI,2020,1772000,Accidental Claim
+24 Years,Female,Taxia,S.Wagon-R,2020,908650,Accidental Claim
+46 years,FeFemale ,Jhelum,S.Alto,2020,1295000,Accidental Claim
+60 years,Female,Jhelum,T.Grande,2020,3907000,Accidental Claim
+47 years ,FeFemale ,Muzaffarabad,S.Mehran,2020,601003,Accidental Claim
+42 Years,Female,chakwal,S.Alto,2020,1518000,Accidental Claim
+36 Years,Female,Muzaffarabad,S.Mehran,2018,516132,Accidental Claim
+32 Years,Female,chakwal,S.Mehran,2018,502239,No Claim
+49 Years,Female,Jhelum,S.Alto,2018,1057515,No Claim
+38 Years,Female,Jhelum,H.City,2018,1225000,No Claim
+51 Years,Female,Taxia,T.Grande,2013,2000000,Accidental Claim
+40 Years,Female,Taxia,S.Swift,2018,1225000,Accidental Claim
+70 Years,Female,Taxia,H.City,2015,1700000,Accidental Claim
+30 Years,Female,Taxia,S.Wagon-R,2020,1029600,Accidental Claim
+65 Years,FeFemale ,Taxia,T.Altis,2015,1500000,Fraud Claim
+51 Years,Female,Taxila,S.Cultus,2020,1251909,No Claim
+73 Years,Female,Jhelum,T.GLI,2018,1772000,Accidental Claim
+51 Years,Female,Jhelum,T.GLI,2021,2200000,Accidental Claim
+35 Years,FeFemale ,Jhelum,H.City,2020,2267500,Accidental Claim
+36 Years ,FeFemale ,Taxia,S.Wagon-R,2018,935370,Accidental Claim
+51 Years,FeFemale ,Taxia,S.Wagon-R,2020,1047600,Accidental Claim
+35 Years,Female,Taxia,H.City,2014,1500000,Accidental Claim
+51 Years,Female,Taxia,H.City,2018,1600000,Accidental Claim
+34 Years,Female,Taxia,S.Bolan,2020,725300,Accidental Claim
+51 Years,Female,Jhelum,H.BRV,2021,3265000,Accidental Claim
+43 Years,Female,Mardan,T.GLI,2018,2064606,Accidental Claim
+35 Years,Female,Jhelum,S.Hustler,2015,1012500,Accidental Claim
+22 Years,Female,Taxia,T.Grande,2020,1835000,Accidental Claim
+39 Years,Female,Taxia,S.Bolan,2021,750000,Accidental Claim
+32 Years,Female,Jhelum,S.Mehran,2018,725000,Accidental Claim
+51 Years,Female,Jhelum,S.Alto,2020,1395000,Accidental Claim
+49 Years,Female,Taxia,S.Wagon-R,2020,886140,Accidental Claim
+36 Years ,Female,Peshawar,T.Aqua,2020,2600000,Accidental Claim
+24 Years,FeFemale ,Taxia,S.Wagon-R,2020,1110600,Accidental Claim
+52 Years,FeFemale ,Taxia,T.Altis,2021,2541150,Accidental Claim
+30 Years,Female,Taxia,T.Grande,2020,2500000,Accidental Claim
+46 Years,Female,Peshawar,T.Aqua,2018,2000000,Accidental Claim
+63 Years,Female,Peshawar,T.Grande,2020,2427244,Accidental Claim
+39 Yerars,Female,Mardan,S.Alto,2021,1433000,No Claim
+46 Years,FeFemale ,Jhelum,T.Grande,2021,3179500,No Claim
+39 Yerars,Female,Jhelum,T.Grande,2021,3765000,No Claim
+51 Years,Female,Taxia,T.Grande,2021,3550000,No Claim
+40 Years,FeFemale ,Taxia,H.BRV,2021,2607500,No Claim
+29 Years,FeFemale ,Jhelum,S.Swift,2020,1074836,No Claim
+40 Years,Female,Jhelum,S.Mehran,2020,550000,No Claim
+25 Years,Female,Jhelum,T.Grande,2020,3907000,No Claim
+39 Years,Female,Jhelum,S.Wagon-R,2015,988200,No Claim
+25 Years,FeFemale ,Taxia,T.Grande,2018,2600000,No Claim
+36 years ,FeFemale ,Taxia,T.GLI,2018,1772000,No Claim
+24 Years,Female,Taxia,S.Wagon-R,2020,908650,No Claim
+46 years,FeFemale ,Jhelum,S.Alto,2021,1295000,No Claim
+60 years,Female,Jhelum,T.Grande,2020,3907000,No Claim
+47 years ,FeFemale ,Muzaffarabad,S.Mehran,2020,601003,No Claim
+42 Years,Female,chakwal,S.Alto,2020,1518000,No Claim
+36 Years,Female,Muzaffarabad,S.Mehran,2018,516132,No Claim
+32 Years,FeFemale ,chakwal,S.Mehran,2015,502239,No Claim
+49 Years,FeFemale ,Jhelum,S.Alto,2018,1057515,No Claim
+38 Years,FeFemale ,Jhelum,H.City,2018,1225000,No Claim
+51 Years,Female,Taxia,T.Grande,2013,2000000,No Claim
+40 Years,Female,Taxia,S.Swift,2018,1225000,No Claim
+70 Years,Female,Jhelum,H.City,2015,1700000,No Claim
+30 Years,FeFemale ,Peshawar,S.Wagon-R,2020,1029600,No Claim
+65 Years,FeFemale ,Peshawar,T.Altis,2014,1500000,No Claim
+51 Years,FeFemale ,Taxila,S.Cultus,2020,1251909,No Claim
+73 Years,Female,Jhelum,T.GLI,2015,1772000,No Claim
+51 Years,Female,Jhelum,T.GLI,2020,2200000,No Claim
+35 Years,FeFemale ,Jhelum,H.City,2020,2267500,No Claim
+36 Years ,FeFemale ,Peshawar,S.Wagon-R,2018,935370,No Claim
+51 Years,FeFemale ,Jhelum,S.Wagon-R,2020,1047600,No Claim
+35 Years,Female,Taxila,H.City,2020,1500000,No Claim
+51 Years,Female,Taxila,H.City,2020,1600000,No Claim
+34 Years,Female,Jhelum,S.Bolan,2020,725300,No Claim
+51 Years,Female,Taxila,H.BRV,2020,3265000,No Claim
+43 Years,Female,Peshawar,T.GLI,2020,2064606,No Claim
+35 Years,Female,Peshawar,S.Hustler,2014,1012500,No Claim
+22 Years,FeFemale ,Taxia,T.Grande,2018,1835000,No Claim
+39 Years,FeFemale ,Taxia,S.Bolan,2020,750000,No Claim
+32 Years,FeFemale ,Jhelum,S.Mehran,2018,725000,No Claim
+51 Years,Female,Taxia,S.Alto,2021,1395000,No Claim
+49 Years,Female,Jhelum,S.Wagon-R,2018,886140,No Claim
+36 Years ,Female,Jhelum,T.Aqua,2018,2600000,No Claim
+24 Years,FeFemale ,Taxia,S.Wagon-R,2020,1110600,No Claim
+52 Years,Female,Taxia,T.Altis,2020,2541150,No Claim
+30 Years,FeFemale ,Taxia,T.Grande,2018,2500000,Accidental Claim
+46 Years,Female,Taxia,T.Aqua,2018,2000000,Theft Claim
+63 Years,Female,Peshawar,T.Grande,2020,2427244,Fraud Claim
+39 Yerars,Female,Peshawar,S.Alto,2020,1433000,No Claim
+46 Years,FeFemale ,Taxia,T.Grande,2020,3179500,Accidental Claim
+39 Yerars,Female,chakwal,T.Grande,2020,3765000,Theft Claim
+51 Years,Female,chakwal,T.Grande,2020,3550000,Fraud Claim
+40 Years,FeFemale ,Jhelum,H.BRV,2020,2607500,No Claim
+29 Years,FeFemale ,Taxia,S.Swift,2018,1074836,Accidental Claim
+40 Years,Female,Taxia,S.Mehran,2018,550000,Theft Claim
+25 Years,Female,Jhelum,T.Grande,2020,3907000,Fraud Claim
+39 Years,Female,Mardan,S.Wagon-R,2014,988200,No Claim
+25 Years,FeFemale ,Taxia,T.Grande,2018,2600000,Accidental Claim
+36 years ,FeFemale ,Taxia,T.GLI,2020,1772000,Theft Claim
+24 Years,Female,Taxia,S.Wagon-R,2020,908650,Fraud Claim
+46 years,FeFemale ,Jhelum,S.Alto,2020,1295000,No Claim
+60 years,Female,Jhelum,T.Grande,2020,3907000,Accidental Claim
+47 years ,FeFemale ,Muzaffarabad,S.Mehran,2020,601003,Theft Claim
+42 Years,Female,chakwal,S.Alto,2020,1518000,Fraud Claim
+36 Years,Female,Muzaffarabad,S.Mehran,2018,516132,No Claim
+32 Years,Female,chakwal,S.Mehran,2018,502239,Accidental Claim
+70 Years,Female,Peshawar,H.City,2015,1700000,Theft Claim
+30 Years,Female,Taxia,S.Wagon-R,2020,1029600,Fraud Claim
+49 Years,FeFemale ,Taxia,T.Altis,2014,1500000,No Claim
+51 Years,Female,Taxila,S.Cultus,2020,1251909,No Claim
+73 Years,Female,Jhelum,T.GLI,2015,1772000,No Claim
+51 Years,Female,Taxila,T.GLI,2020,2200000,No Claim
+35 Years,Female,Jhelum,Suzuki Clutus,2020,2267500,No Claim
+36 Years ,FeFemale ,Taxia,S.Wagon-R,2015,935370,No Claim
+51 Years,Female,Jhelum,S.Wagon-R,2018,1047600,No Claim
+35 Years,FeFemale ,Taxia,H.City,2020,1500000,No Claim
+51 Years,Female,Taxila,H.City,2020,1600000,No Claim
+34 Years,FeFemale ,Taxia,S.Bolan,2020,725300,No Claim
+51 Years,Female,Jhelum,H.BRV,2020,3265000,No Claim
+43 Years,FeFemale ,Mardan,T.GLI,2020,2064606,No Claim
+35 Years,Female,Jhelum,S.Hustler,2018,1012500,No Claim
+22 Years,Female,Taxila,T.Grande,2018,1835000,No Claim
+39 Years,FeFemale ,Taxia,S.Bolan,2020,750000,No Claim
+32 Years,Female,Jhelum,Prince Pearl,2018,725000,No Claim
+51 Years,Female,Jhelum,S.Alto,2020,1395000,No Claim
+49 Years,FeFemale ,Taxia,S.Wagon-R,2018,886140,No Claim
+36 Years ,Female,Mardan,T.Aqua,2018,2600000,No Claim
+24 Years,FeFemale ,Taxia,S.Alto,2018,1110600,No Claim
+52 Years,Female,Taxia,T.Altis,2020,2541150,No Claim
+30 Years,FeFemale ,Taxia,T.Grande,2018,2500000,No Claim
+46 Years,FeFemale ,Peshawar,T.Aqua,2015,2000000,No Claim
+63 Years,Female,Peshawar,T.Grande,2020,2427244,No Claim
+39 Yerars,FeFemale ,Mardan,S.Alto,2020,1433000,No Claim
+46 Years,FeMale ,chakwal,T.Grande,2018,3179500,No Claim
+39 Yerars,Male,chakwal,T.Grande,2020,3765000,No Claim
+42  Years,Male,chakwal,T.Grande,2020,3550000,No Claim
+40 Years,FeMale ,Peshawar,H.BRV,2020,2607500,No Claim
+29 Years,FeMale ,Mardan,S.Swift,2018,1074836,No Claim
+40 Years,Male,Peshawar,S.Mehran,2018,550000,No Claim
+25 Years,FeMale ,chakwal,T.Grande,2020,3907000,No Claim
+39 Years,Male,chakwal,cultus,2014,988200,No Claim
+25 Years,FeMale ,chakwal,T.Grande,2018,2600000,No Claim
+36 years ,FeMale ,chakwal,T.GLI,2014,1772000,No Claim
+24 Years,Male,chakwal,S.Wagon-R,214,908650,No Claim
+46 years,FeMale ,chakwal,S.Wagon,2018,1295000,No Claim
+60 years,Male,Peshawar,T.Grande,2020,3907000,No Claim
+47 years ,FeMale ,Muzaffarabad,S.Mehran,2018,601003,No Claim
+42 Years,Male,chakwal,S.Wagon,2018,1518000,No Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2016,516132,No Claim
+27 Years,Male,chakwal,S.Mehran,2014,502239,No Claim
+45 Years,Male,chakwal,S.Wagon,2018,1057515,No Claim
+38 Years,Male,chakwal,H.City,2016,1225000,Accidental Claim
+42  Years,Male,chakwal,T.Grande,2014,2000000,Theft Claim
+40 Years,Male,chakwal,S.Swift,2018,1225000,Fraud Claim
+70 Years,Male,chakwal,H.City,2016,1700000,No Claim
+30 Years,FeMale ,chakwal,S.Wagon-R,2020,1029600,Accidental Claim
+65 Years,FeMale ,chakwal,T.Altis,2016,1500000,Theft Claim
+42  Years,Male,Peshawar,S.Cultus,2020,1251909,Fraud Claim
+73 Years,Male,chakwal,T.GLI,2016,1772000,No Claim
+55 Years,Male,chakwal,T.GLI,2018,2200000,Accidental Claim
+35 Years,FeMale ,chakwal,H.City,2020,2267500,Theft Claim
+36 Years ,FeMale ,chakwal,S.Wagon-R,2018,935370,Fraud Claim
+42  Years,FeMale ,chakwal,S.Wagon-R,2018,1047600,No Claim
+35 Years,FeMale ,chakwal,H.City,2018,1500000,Accidental Claim
+42  Years,FeMale ,chakwal,H.City,2018,1600000,Theft Claim
+34 Years,FeMale ,chakwal,S.Swift,2020,725300,Fraud Claim
+55 Years,FeMale ,Peshawar,H.BRV,2020,3265000,No Claim
+43 Years,FeMale ,Mardan,T.GLI,2018,2064606,Accidental Claim
+35 Years,FeMale ,chakwal,S.Hustler,2014,1012500,Theft Claim
+22 Years,Male,chakwal,T.Grande,2018,1835000,Fraud Claim
+39 Years,FeMale ,chakwal,S.Swift,2020,750000,No Claim
+27 Years,Male,chakwal,S.Mehran,2016,725000,Accidental Claim
+55 Years,FeMale ,chakwal,S.Wagon,2020,1395000,Theft Claim
+45 Years,Male,chakwal,S.Wagon-R,2018,886140,Fraud Claim
+36 Years ,Male,Peshawar,T.Aqua,2018,2600000,No Claim
+24 Years,FeMale ,chakwal,S.Wagon-R,2018,1110600,No Claim
+48 Years,FeMale ,chakwal,T.Altis,2018,2541150,No Claim
+30 Years,Male,chakwal,T.Grande,2018,2500000,No Claim
+46 Years,Male,Peshawar,T.Aqua,2016,2000000,No Claim
+63 Years,Male,Peshawar,T.Grande,2018,2427244,No Claim
+39 Yerars,Male,Mardan,S.Wagon,2020,1433000,No Claim
+46 Years,FeMale ,chakwal,T.Grande,2018,3179500,No Claim
+39 Yerars,Male,Peshawar,T.Grande,2018,3765000,No Claim
+42  Years,Male,chakwal,T.Grande,2018,3550000,No Claim
+40 Years,FeMale ,chakwal,H.BRV,2018,2607500,No Claim
+29 Years,FeMale ,chakwal,S.Swift,2018,1074836,No Claim
+40 Years,Male,chakwal,S.Mehran,2018,550000,No Claim
+25 Years,Male,chakwal,T.Grande,2018,3907000,No Claim
+39 Years,Male,chakwal,S.Wagon-R,2016,988200,No Claim
+25 Years,FeMale ,chakwal,T.Grande,2016,2600000,No Claim
+36 years ,FeMale ,chakwal,T.GLI,2016,1772000,No Claim
+35 Years,Male,chakwal,H.City,2018,1500000,No Claim
+42  Years,Male,chakwal,H.City,2018,1600000,No Claim
+34 Years,Male,chakwal,S.Swift,2020,725300,No Claim
+55 Years,Male,Peshawar,H.BRV,2020,3265000,No Claim
+43 Years,Male,Mardan,T.GLI,2018,2064606,No Claim
+35 Years,Male,chakwal,S.Hustler,2014,1012500,No Claim
+22 Years,Male,chakwal,T.Grande,2018,1835000,No Claim
+39 Years,Male,chakwal,S.Swift,2020,750000,No Claim
+27 Years,Male,chakwal,S.Mehran,2016,725000,No Claim
+55 Years,Male,chakwal,S.Wagon,2020,1395000,No Claim
+35 Years,Male,chakwal,Suzuki Clutus,2020,2267500,No Claim
+36 Years ,FeMale ,chakwal,S.Wagon-R,2016,935370,No Claim
+42  Years,Male,chakwal,S.Wagon-R,2016,1047600,No Claim
+35 Years,FeMale ,chakwal,H.City,2018,1500000,No Claim
+42  Years,Male,Peshawar,H.City,2018,1600000,No Claim
+34 Years,FeMale ,chakwal,S.Swift,2020,725300,No Claim
+55 Years,Male,Peshawar,H.BRV,2018,3265000,No Claim
+43 Years,FeMale ,Mardan,T.GLI,2018,2064606,No Claim
+35 Years,Male,chakwal,S.Hustler,2016,1012500,No Claim
+22 Years,Male,Peshawar,T.Grande,2018,1835000,No Claim
+39 Years,FeMale ,chakwal,S.Swift,2020,750000,No Claim
+27 Years,Male,chakwal,Prince Pearl,2016,725000,No Claim
+55 Years,Male,chakwal,S.Wagon,2020,1395000,No Claim
+45 Years,FeMale ,chakwal,S.Wagon-R,2018,886140,No Claim
+36 Years ,Male,Mardan,T.Aqua,2018,2600000,No Claim
+24 Years,FeMale ,chakwal,S.Wagon,2018,1110600,No Claim
+48 Years,Male,chakwal,T.Altis,2018,2541150,Accidental Claim
+30 Years,FeMale ,chakwal,T.Grande,2018,2500000,Theft Claim
+46 Years,FeMale ,Peshawar,T.Aqua,2016,2000000,Fraud Claim
+63 Years,Male,Peshawar,T.Grande,2018,2427244,No Claim
+39 Yerars,FeMale ,Mardan,S.Wagon,2018,1433000,Accidental Claim
+46 Years,FeMale ,chakwal,T.Grande,2018,3179500,Theft Claim
+39 Yerars,Male,chakwal,T.Grande,2020,3765000,Fraud Claim
+42  Years,Male,chakwal,T.Grande,2020,3550000,No Claim
+40 Years,FeMale ,Peshawar,H.BRV,2020,2607500,Accidental Claim
+29 Years,FeMale ,Mardan,S.Swift,2018,1074836,Theft Claim
+40 Years,Male,Peshawar,S.Mehran,2018,550000,Fraud Claim
+25 Years,FeMale ,chakwal,T.Grande,2020,3907000,No Claim
+39 Years,Male,chakwal,cultus,2014,988200,Accidental Claim
+25 Years,FeMale ,chakwal,T.Grande,2018,2600000,Theft Claim
+36 years ,FeMale ,chakwal,T.GLI,2014,1772000,Fraud Claim
+24 Years,Male,chakwal,S.Wagon-R,214,908650,No Claim
+46 years,FeMale ,Islamabad,S.Wagon,2018,1295000,Accidental Claim
+60 years,Male,Peshawar,T.Grande,2020,3907000,Theft Claim
+47 years ,FeMale ,Muzaffarabad,S.Mehran,2018,601003,Fraud Claim
+42 Years,Male,chakwal,S.Wagon,2018,1518000,No Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2016,516132,Accidental Claim
+27 Years,Male,chakwal,S.Mehran,2014,502239,Theft Claim
+45 Years,Male,Islamabad,S.Wagon,2018,1057515,Fraud Claim
+38 Years,Male,Islamabad,H.City,2016,1225000,No Claim
+50 Years,Male,Islamabad,T.Grande,2014,2000000,No Claim
+40 Years,Male,Islamabad,S.Swift,2018,1225000,No Claim
+70 Years,Male,Islamabad,H.City,2016,1700000,No Claim
+30 Years,FeMale ,Islamabad,S.Wagon-R,2020,1029600,No Claim
+65 Years,FeMale ,Islamabad,T.Altis,2016,1500000,No Claim
+50 Years,Male,Peshawar,S.Cultus,2020,1251909,No Claim
+73 Years,Male,Islamabad,T.GLI,2016,1772000,No Claim
+55 Years,Male,Islamabad,T.GLI,2018,2200000,No Claim
+35 Years,FeMale ,Islamabad,H.City,2020,2267500,No Claim
+36 Years ,FeMale ,Islamabad,S.Wagon-R,2018,935370,No Claim
+50 Years,FeMale ,Islamabad,S.Wagon-R,2018,1047600,No Claim
+35 Years,FeMale ,Islamabad,H.City,2018,1500000,No Claim
+50 Years,FeMale ,Islamabad,H.City,2018,1600000,No Claim
+34 Years,FeMale ,Islamabad,S.Swift,2020,725300,No Claim
+55 Years,FeMale ,Peshawar,H.BRV,2020,3265000,No Claim
+43 Years,FeMale ,Mardan,T.GLI,2018,2064606,No Claim
+35 Years,FeMale ,Islamabad,S.Hustler,2014,1012500,No Claim
+22 Years,Male,Islamabad,T.Grande,2018,1835000,No Claim
+39 Years,FeMale ,Islamabad,S.Swift,2020,750000,No Claim
+27 Years,Male,Islamabad,S.Mehran,2016,725000,No Claim
+55 Years,FeMale ,Islamabad,S.Wagon,2020,1395000,No Claim
+45 Years,Male,Islamabad,S.Wagon-R,2018,886140,No Claim
+36 Years ,Male,Peshawar,T.Aqua,2018,2600000,No Claim
+24 Years,FeMale ,Islamabad,S.Wagon-R,2018,1110600,No Claim
+48 Years,FeMale ,Islamabad,T.Altis,2018,2541150,No Claim
+30 Years,Male,Islamabad,T.Grande,2018,2500000,No Claim
+46 Years,Male,Peshawar,T.Aqua,2016,2000000,No Claim
+63 Years,Male,Peshawar,T.Grande,2018,2427244,No Claim
+39 Yerars,Male,Mardan,S.Wagon,2020,1433000,No Claim
+46 Years,FeMale ,Islamabad,T.Grande,2018,3179500,No Claim
+39 Yerars,Male,Peshawar,T.Grande,2018,3765000,No Claim
+50 Years,Male,Islamabad,T.Grande,2018,3550000,No Claim
+40 Years,FeMale ,Islamabad,H.BRV,2018,2607500,No Claim
+29 Years,FeMale ,Islamabad,S.Swift,2018,1074836,No Claim
+40 Years,Male,Islamabad,S.Mehran,2018,550000,No Claim
+25 Years,Male,Islamabad,T.Grande,2018,3907000,No Claim
+39 Years,Male,Islamabad,S.Wagon-R,2016,988200,No Claim
+25 Years,FeMale ,Islamabad,T.Grande,2016,2600000,No Claim
+36 years ,FeMale ,Islamabad,T.GLI,2016,1772000,No Claim
+35 Years,Male,Islamabad,H.City,2018,1500000,No Claim
+50 Years,Male,Islamabad,H.City,2018,1600000,No Claim
+34 Years,Male,Islamabad,S.Swift,2020,725300,No Claim
+55 Years,Male,Peshawar,H.BRV,2020,3265000,Accidental Claim
+43 Years,Male,Mardan,T.GLI,2018,2064606,Theft Claim
+35 Years,Male,Islamabad,S.Hustler,2014,1012500,Fraud Claim
+22 Years,Male,Islamabad,T.Grande,2018,1835000,No Claim
+39 Years,Male,Islamabad,S.Swift,2020,750000,Accidental Claim
+27 Years,Male,Islamabad,S.Mehran,2016,725000,Theft Claim
+55 Years,Male,Islamabad,S.Wagon,2020,1395000,Fraud Claim
+45 Years,Male,Islamabad,S.Wagon,2016,1057515,No Claim
+38 Years,Male,Islamabad,H.City,2016,1225000,Accidental Claim
+50 Years,Male,Islamabad,T.Grande,2013,2000000,Theft Claim
+40 Years,Male,Islamabad,S.Swift,2018,1225000,Fraud Claim
+70 Years,Male,Islamabad,H.City,2016,1700000,No Claim
+30 Years,FeMale ,Islamabad,S.Wagon-R,2018,1029600,Accidental Claim
+65 Years,FeMale ,Islamabad,T.Altis,2014,1500000,Theft Claim
+50 Years,Male,Peshawar,S.Cultus,2018,1251909,Fraud Claim
+73 Years,Male,Islamabad,T.GLI,2016,1772000,No Claim
+55 Years,Male,Islamabad,T.GLI,2018,2200000,Accidental Claim
+35 Years,FeMale ,Islamabad,H.City,2020,2267500,Theft Claim
+36 Years ,FeMale ,Islamabad,S.Wagon-R,2018,935370,Fraud Claim
+50 Years,FeMale ,Islamabad,S.Wagon-R,2018,1047600,No Claim
+35 Years,Male,Islamabad,H.City,2018,1500000,Accidental Claim
+50 Years,Male,Islamabad,H.City,2018,1600000,Theft Claim
+34 Years,Male,Islamabad,S.Swift,2020,725300,Fraud Claim
+55 Years,Male,Peshawar,H.BRV,2020,3265000,No Claim
+43 Years,Male,Mardan,T.GLI,2018,2064606,No Claim
+35 Years,Male,Islamabad,S.Hustler,2014,1012500,Accidental Claim
+22 Years,Male,Islamabad,T.Grande,2018,1835000,Theft Claim
+39 Years,Male,Islamabad,S.Swift,2020,750000,Fraud Claim
+27 Years,Male,Islamabad,S.Mehran,2016,725000,No Claim
+55 Years,Male,Islamabad,S.Wagon,2020,1395000,Accidental Claim
+45 Years,Male,Islamabad,S.Wagon-R,2018,886140,Theft Claim
+36 Years ,Male,Peshawar,T.Aqua,2018,2600000,Fraud Claim
+24 Years,FeMale ,Islamabad,S.Wagon-R,2018,1110600,No Claim
+48 Years,FeMale ,Islamabad,T.Altis,2018,2541150,Accidental Claim
+30 Years,Male,Islamabad,T.Grande,2018,2500000,Theft Claim
+46 Years,Male,Peshawar,T.Aqua,2016,2000000,Fraud Claim
+63 Years,Male,Peshawar,T.Grande,2018,2427244,No Claim
+39 Yerars,Male,Mardan,S.Wagon,2020,1433000,Accidental Claim
+46 Years,FeMale ,Islamabad,T.Grande,2020,3179500,Theft Claim
+39 Yerars,Male,Peshawar,T.Grande,2020,3765000,Fraud Claim
+50 Years,Male,Islamabad,T.Grande,2020,3550000,No Claim
+40 Years,FeMale ,Islamabad,H.BRV,2020,2607500,Accidental Claim
+29 Years,FeMale ,Islamabad,S.Swift,2018,1074836,Theft Claim
+40 Years,Male,Islamabad,S.Mehran,2018,550000,Fraud Claim
+25 Years,Male,Islamabad,T.Grande,2020,3907000,No Claim
+39 Years,Male,Islamabad,S.Wagon-R,2014,988200,Accidental Claim
+25 Years,FeMale ,Islamabad,T.Grande,2016,2600000,Theft Claim
+36 years ,FeMale ,Islamabad,T.GLI,2016,1772000,Fraud Claim
+24 Years,Male,Islamabad,S.Wagon-R,2018,908650,No Claim
+46 years,FeMale ,Islamabad,S.Wagon,2020,1295000,Theft Claim
+60 years,Male,Peshawar,T.Grande,2020,3907000,Theft Claim
+47 years ,FeMale ,Muzaffarabad,S.Mehran,2018,601003,Theft Claim
+42 Years,Male,chakwal,S.Wagon,2020,1518000,Theft Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2016,516132,Theft Claim
+27 Years,Male,chakwal,S.Mehran,2016,502239,Theft Claim
+25 Years,Male,Islamabad,S.Mehran,2018,601800,Theft Claim
+60 Years,Male,Islamabad,S.Mehran,2018,607500,Theft Claim
+30 Years,Male,Islamabad,Honda  City,2018,1304910,Theft Claim
+37 Years ,Male,Islamabad,Suzuki  Bolan,2018,607500,Theft Claim
+40 Years,Male,Mir Pur AJK,Honda  CIVIC VTI ORIEL P/T,2018,2134755,Theft Claim
+21 Years ,Male,Islamabad,Suzuki  Bolan,2016,528525,Theft Claim
+40 Years ,Male,Islamabad,Honda  Civic Oriel,2018,2635500,Theft Claim
+25 Years,Male,Chakwal,Suzuki  Mehran,2018,625860,Theft Claim
+35 Years,Male,Islamabad,Kia  Sportage AWD,2020,5399000,Theft Claim
+60 Years,Male,Islamabad,Suzuki  Wagon R,2018,886146,Theft Claim
+45 Years,Male,Islamabad,Suzuki Wagon R,2016,1057515,Theft Claim
+40 years,Male,Islamabad,Toyata Vitz,2016,1225000,Theft Claim
+50 Years,Male,Islamabad,T.Grande,2013,2000000,Theft Claim
+40 Years,Male,Islamabad,Honda city,2018,1225000,Theft Claim
+70 Years,Male,Peshawar,H.City,2016,1700000,Theft Claim
+30 Years,Male,Islamabad,S.Wagon-R,2018,1029600,Theft Claim
+45 Years,FeMale ,Islamabad,T.Altis,2014,1500000,Theft Claim
+50 Years,Male,Peshawar,S.Cultus,2018,1251909,Theft Claim
+73 Years,Male,Peshawar,T.GLI,2016,1772000,Theft Claim
+55 Years,Male,Peshawar,T.GLI,2018,2200000,Theft Claim
+35 Years,Male,Islamabad,Suzuki Clutus,2020,2267500,Theft Claim
+36 Years ,FeMale ,Islamabad,S.Wagon-R,2016,935370,Theft Claim
+50 Years,Male,Islamabad,S.Wagon-R,2016,1047600,Theft Claim
+35 Years,FeMale ,Islamabad,H.City,2018,1500000,Theft Claim
+50 Years,Male,Peshawar,H.City,2018,1600000,Theft Claim
+34 Years,FeMale ,Islamabad,S.Swift,2020,725300,Theft Claim
+55 Years,Male,Peshawar,H.BRV,2018,3265000,Theft Claim
+43 Years,FeMale ,Mardan,T.GLI,2018,2064606,Theft Claim
+35 Years,Male,Islamabad,S.Hustler,2016,1012500,Theft Claim
+22 Years,Male,Peshawar,T.Grande,2018,1835000,Theft Claim
+39 Years,FeMale ,Islamabad,S.Swift,2020,750000,Theft Claim
+27 Years,Male,Islamabad,Prince Pearl,2016,725000,Theft Claim
+55 Years,Male,Islamabad,S.Wagon,2020,1395000,Theft Claim
+45 Years,FeMale ,Islamabad,S.Wagon-R,2018,886140,Theft Claim
+36 Years ,Male,Mardan,T.Aqua,2018,2600000,Theft Claim
+24 Years,FeMale ,Islamabad,S.Wagon,2018,1110600,Theft Claim
+48 Years,Male,Islamabad,T.Altis,2018,2541150,Accidental Claim
+30 Years,FeMale ,Islamabad,T.Grande,2018,2500000,Theft Claim
+46 Years,FeMale ,Peshawar,T.Aqua,2016,2000000,Fraud Claim
+63 Years,Male,Peshawar,T.Grande,2018,2427244,Theft Claim
+39 Yerars,FeMale ,Mardan,S.Wagon,2018,1433000,Accidental Claim
+46 Years,FeMale ,Islamabad,T.Grande,2018,3179500,Theft Claim
+39 Yerars,Male,Islamabad,T.Grande,2020,3765000,Fraud Claim
+50 Years,Male,Islamabad,T.Grande,2020,3550000,Theft Claim
+40 Years,FeMale ,Peshawar,H.BRV,2020,2607500,Accidental Claim
+29 Years,FeMale ,Mardan,S.Swift,2018,1074836,Theft Claim
+40 Years,Male,Peshawar,S.Mehran,2018,550000,Fraud Claim
+25 Years,FeMale ,Islamabad,T.Grande,2020,3907000,Theft Claim
+39 Years,Male,Islamabad,cultus,2014,988200,Accidental Claim
+25 Years,FeMale ,Islamabad,T.Grande,2018,2600000,Theft Claim
+36 years ,FeMale ,Islamabad,T.GLI,2014,1772000,Fraud Claim
+24 Years,Male,Islamabad,S.Wagon-R,214,908650,Theft Claim
+46 years,FeMale ,Islamabad,S.Wagon,2018,1295000,Accidental Claim
+60 years,Male,Peshawar,T.Grande,2020,3907000,Theft Claim
+47 years ,FeMale ,Muzaffarabad,S.Mehran,2018,601003,Fraud Claim
+42 Years,Male,chakwal,S.Wagon,2018,1518000,Theft Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2016,516132,Accidental Claim
+27 Years,Male,chakwal,S.Mehran,2014,502239,Theft Claim
+45 Years,Male,Islamabad,S.Wagon,2018,1057515,Fraud Claim
+38 Years,Male,Islamabad,H.City,2016,1225000,Theft Claim
+50 Years,Male,Islamabad,T.Grande,2014,2000000,Theft Claim
+40 Years,Male,Islamabad,S.Swift,2018,1225000,Theft Claim
+70 Years,Male,Islamabad,H.City,2016,1700000,Theft Claim
+30 Years,FeMale ,Islamabad,S.Wagon-R,2020,1029600,Theft Claim
+65 Years,FeMale ,Islamabad,T.Altis,2016,1500000,Theft Claim
+50 Years,Male,Peshawar,S.Cultus,2020,1251909,Theft Claim
+73 Years,Male,Islamabad,T.GLI,2016,1772000,Theft Claim
+55 Years,Male,Islamabad,T.GLI,2018,2200000,Theft Claim
+35 Years,FeMale ,Islamabad,H.City,2020,2267500,Theft Claim
+36 Years ,FeMale ,Islamabad,S.Wagon-R,2018,935370,Theft Claim
+50 Years,FeMale ,Islamabad,S.Wagon-R,2018,1047600,Theft Claim
+35 Years,FeMale ,Islamabad,H.City,2018,1500000,Theft Claim
+50 Years,FeMale ,Islamabad,H.City,2018,1600000,Theft Claim
+34 Years,FeMale ,Islamabad,S.Swift,2020,725300,Theft Claim
+55 Years,FeMale ,Peshawar,H.BRV,2020,3265000,Theft Claim
+43 Years,FeMale ,Mardan,T.GLI,2018,2064606,Theft Claim
+35 Years,FeMale ,Islamabad,S.Hustler,2014,1012500,Theft Claim
+22 Years,Male,Islamabad,T.Grande,2018,1835000,Theft Claim
+39 Years,FeMale ,Islamabad,S.Swift,2020,750000,Theft Claim
+27 Years,Male,Islamabad,S.Mehran,2016,725000,Theft Claim
+55 Years,FeMale ,Islamabad,S.Wagon,2020,1395000,Theft Claim
+45 Years,Male,Islamabad,S.Wagon-R,2018,886140,Theft Claim
+36 Years ,Male,Peshawar,T.Aqua,2018,2600000,Accidental Claim
+24 Years,FeMale ,Islamabad,S.Wagon-R,2018,1110600,Theft Claim
+48 Years,FeMale ,Islamabad,T.Altis,2018,2541150,Fraud Claim
+30 Years,Male,Islamabad,T.Grande,2018,2500000,Theft Claim
+46 Years,Male,Peshawar,T.Aqua,2016,2000000,Accidental Claim
+63 Years,Male,Peshawar,T.Grande,2018,2427244,Theft Claim
+39 Yerars,Male,Mardan,S.Wagon,2020,1433000,Fraud Claim
+46 Years,FeMale ,Islamabad,T.Grande,2018,3179500,Theft Claim
+39 Yerars,Male,Peshawar,T.Grande,2018,3765000,Accidental Claim
+50 Years,Male,Islamabad,T.Grande,2018,3550000,Theft Claim
+40 Years,FeMale ,Islamabad,H.BRV,2018,2607500,Fraud Claim
+29 Years,FeMale ,Islamabad,S.Swift,2018,1074836,Theft Claim
+40 Years,Male,Islamabad,S.Mehran,2018,550000,Accidental Claim
+25 Years,Male,Islamabad,T.Grande,2018,3907000,Theft Claim
+39 Years,Male,Islamabad,S.Wagon-R,2016,988200,Fraud Claim
+25 Years,FeMale ,Islamabad,T.Grande,2016,2600000,Theft Claim
+36 years ,FeMale ,Islamabad,T.GLI,2016,1772000,Accidental Claim
+24 Years,Male,Islamabad,S.Wagon-R,2018,908650,Theft Claim
+46 years,FeMale ,Islamabad,S.Wagon,2020,1295000,Fraud Claim
+60 years,Male,Peshawar,T.Grande,2020,3907000,Theft Claim
+47 years ,FeMale ,Muzaffarabad,S.Mehran,2020,601003,Accidental Claim
+42 Years,Male,Peshawar,S.Wagon,2020,1518000,Theft Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2016,516132,Fraud Claim
+27 Years,Male,Peshawar,S.Mehran,2016,502239,Theft Claim
+45 Years,Male,Islamabad,S.Wagon,2016,1057515,Theft Claim
+38 Years,Male,Peshawar,H.City,2016,1225000,Theft Claim
+50 Years,Male,Mardan,T.Grande,2013,2000000,Theft Claim
+40 Years,FeMale ,Islamabad,S.Swift,2018,1225000,Theft Claim
+70 Years,FeMale ,Islamabad,H.City,2016,1700000,Theft Claim
+30 Years,FeMale ,Peshawar,S.Wagon-R,2018,1029600,Theft Claim
+65 Years,FeMale ,Islamabad,T.Altis,2014,1500000,Theft Claim
+50 Years,Male,Mardan,S.Cultus,2018,1251909,Theft Claim
+73 Years,Male,Islamabad,T.GLI,2016,1772000,Theft Claim
+55 Years,Male,Islamabad,T.GLI,2018,2200000,Theft Claim
+35 Years,FeMale ,Islamabad,H.City,2020,2267500,Theft Claim
+36 Years ,FeMale ,Peshawar,S.Wagon-R,2018,935370,Theft Claim
+50 Years,FeMale ,Islamabad,S.Wagon-R,2018,1047600,Theft Claim
+35 Years,Male,Islamabad,H.City,2018,1500000,Theft Claim
+50 Years,Male,Islamabad,H.City,2018,1600000,Theft Claim
+34 Years,Male,Islamabad,S.Swift,2020,725300,Theft Claim
+55 Years,Male,chakwal,H.BRV,2020,3265000,Theft Claim
+43 Years,Male,chakwal,T.GLI,2018,2064606,Theft Claim
+35 Years,Male,Islamabad,S.Hustler,2014,1012500,Theft Claim
+22 Years,Male,Islamabad,T.Grande,2018,1835000,Theft Claim
+39 Years,Male,Islamabad,S.Swift,2020,750000,Theft Claim
+27 Years,Male,Islamabad,S.Mehran,2016,725000,Theft Claim
+55 Years,Male,Islamabad,S.Wagon,2020,1395000,Theft Claim
+45 Years,Male,chakwal,S.Wagon-R,2018,886140,Theft Claim
+36 Years ,Male,chakwal,T.Aqua,2018,2600000,Theft Claim
+24 Years,FeMale ,Peshawar,S.Wagon-R,2018,1110600,Theft Claim
+48 Years,FeMale ,chakwal,T.Altis,2018,2541150,Theft Claim
+30 Years,Male,Peshawar,T.Grande,2018,2500000,Theft Claim
+46 Years,FeMale ,Peshawar,T.Aqua,2016,2000000,Theft Claim
+63 Years,Male,Islamabad,T.Grande,2018,2427244,Theft Claim
+39 Yerars,FeMale ,Mardan,S.Wagon,2020,1433000,Theft Claim
+46 Years,Male,Islamabad,T.Grande,2020,3179500,Theft Claim
+39 Yerars,Male,chakwal,T.Grande,2020,3765000,Theft Claim
+50 Years,Male,chakwal,T.Grande,2020,3550000,Theft Claim
+40 Years,FeMale ,Islamabad,H.BRV,2020,2607500,Theft Claim
+29 Years,FeMale ,Islamabad,S.Swift,2018,1074836,Theft Claim
+40 Years,Male,Islamabad,S.Mehran,2018,550000,Theft Claim
+25 Years,Male,Peshawar,T.Grande,2020,3907000,Theft Claim
+39 Years,Male,Peshawar,S.Wagon-R,2014,988200,Theft Claim
+25 Years,Male,Islamabad,T.Grande,2016,2600000,Theft Claim
+36 years ,FeMale ,Islamabad,T.GLI,2016,1772000,Theft Claim
+24 Years,Male,chakwal,S.Wagon-R,2018,908650,Theft Claim
+46 years,FeMale ,Peshawar,S.Wagon,2020,1295000,Accidental Claim
+60 years,Male,chakwal,T.Grande,2020,3907000,Theft Claim
+47 years ,FeMale ,Muzaffarabad,S.Mehran,2020,601003,Fraud Claim
+42 Years,FeMale ,chakwal,S.Wagon,2020,1518000,Theft Claim
+36 Years,FeMale ,Muzaffarabad,S.Mehran,2016,516132,Accidental Claim
+27 Years,Male,Islamabad,S.Mehran,2016,502239,Theft Claim
+45 Years,Male,Peshawar,S.Wagon,2016,1057515,Fraud Claim
+38 Years,Male,Peshawar,H.City,2016,1225000,Theft Claim
+50 Years,Male,Islamabad,T.Grande,2013,2000000,Accidental Claim
+40 Years,Male,Islamabad,S.Swift,2018,1225000,Theft Claim
+70 Years,Male,Islamabad,H.City,2016,1700000,Fraud Claim
+30 Years,Male,Islamabad,S.Wagon-R,2018,1029600,Theft Claim
+65 Years,FeMale ,Islamabad,T.Altis,2016,1500000,Accidental Claim
+50 Years,Male,Peshawar,S.Cultus,2020,1251909,Theft Claim
+73 Years,Male,Islamabad,T.GLI,2016,1772000,Fraud Claim
+55 Years,Male,Islamabad,T.GLI,2020,2200000,Theft Claim
+35 Years,FeMale ,Islamabad,H.City,2018,2267500,Accidental Claim
+36 Years ,FeMale ,Islamabad,S.Wagon-R,2016,935370,Theft Claim
+50 Years,FeMale ,Islamabad,S.Wagon-R,2020,1047600,Fraud Claim
+35 Years,Male,Islamabad,H.City,2014,1500000,Theft Claim
+50 Years,Male,Islamabad,H.City,2018,1600000,Accidental Claim
+34 Years,Male,Islamabad,S.Swift,2020,725300,Theft Claim
+55 Years,Male,Peshawar,H.BRV,2020,3265000,Fraud Claim
+43 Years,Male,Mardan,T.GLI,2018,2064606,Theft Claim
+35 Years,Male,Islamabad,S.Hustler,2016,1012500,Theft Claim
+22 Years,Male,Islamabad,T.Grande,2018,1835000,Theft Claim
+39 Years,Male,Islamabad,S.Swift,2020,750000,Theft Claim
+27 Years,Male,Islamabad,S.Mehran,2018,725000,Theft Claim
+55 Years,Male,Islamabad,S.Wagon,2020,1395000,Theft Claim
+45 Years,Male,Islamabad,S.Wagon-R,2018,886140,Theft Claim
+36 Years ,Male,Peshawar,T.Aqua,2018,2600000,Theft Claim
+24 Years,FeMale ,Islamabad,S.Wagon-R,2020,1110600,Theft Claim
+48 Years,FeMale ,Islamabad,T.Altis,2020,2541150,Theft Claim
+30 Years,Male,Islamabad,T.Grande,2018,2500000,Theft Claim
+46 Years,Male,Peshawar,T.Aqua,2018,2000000,Theft Claim
+63 Years,Male,Peshawar,T.Grande,2020,2427244,Theft Claim
+39 Yerars,Male,Mardan,S.Wagon,2020,1433000,Theft Claim
+46 Years,FeMale ,Islamabad,T.Grande,2020,3179500,Theft Claim
+39 Yerars,Male,Peshawar,T.Grande,2020,3765000,Theft Claim
+50 Years,Male,Islamabad,T.Grande,2020,3550000,Theft Claim
+40 Years,FeMale ,Islamabad,H.BRV,2020,2607500,Theft Claim
+29 Years,FeMale ,Islamabad,S.Swift,2018,1074836,Theft Claim
+40 Years,Male,Islamabad,S.Mehran,2018,550000,Theft Claim
+25 Years,Male,Islamabad,T.Grande,2018,3907000,Theft Claim
+39 Years,Male,Islamabad,S.Wagon-R,2016,988200,Theft Claim
+25 Years,FeMale ,Islamabad,T.Grande,2018,2600000,Theft Claim
+36 years ,FeMale ,Islamabad,T.GLI,2016,1772000,Accidental Claim
+24 Years,Male,Islamabad,S.Wagon-R,2018,908650,Theft Claim
+46 years,FeMale ,Islamabad,S.Wagon,2020,1295000,Fraud Claim
+60 years,Male,Peshawar,T.Grande,2020,3907000,Theft Claim
+47 years ,FeMale ,Muzaffarabad,S.Mehran,2020,601003,Accidental Claim
+42 Years,Male,chakwal,S.Wagon,2020,1518000,Theft Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2018,516132,Fraud Claim
+27 Years,FeMale ,chakwal,S.Mehran,2016,502239,Theft Claim
+45 Years,FeMale ,Islamabad,S.Wagon,2016,1057515,Accidental Claim
+38 Years,FeMale ,Islamabad,H.City,2016,1225000,Theft Claim
+50 Years,Male,Islamabad,T.Grande,2013,2000000,Fraud Claim
+40 Years,Male,Islamabad,S.Swift,2018,1225000,Theft Claim
+70 Years,Male,Peshawar,H.City,2016,1700000,Accidental Claim
+30 Years,FeMale ,Peshawar,S.Wagon-R,2018,1029600,Theft Claim
+65 Years,FeMale ,Peshawar,T.Altis,2014,1500000,Fraud Claim
+50 Years,FeMale ,Peshawar,S.Cultus,2018,1251909,Theft Claim
+73 Years,Male,Peshawar,T.GLI,2016,1772000,Accidental Claim
+55 Years,Male,Peshawar,T.GLI,2018,2200000,Theft Claim
+35 Years,FeMale ,Peshawar,H.City,2020,2267500,Fraud Claim
+36 Years ,FeMale ,Peshawar,S.Wagon-R,2018,935370,Theft Claim
+50 Years,FeMale ,Peshawar,S.Wagon-R,2018,1047600,Accidental Claim
+35 Years,Male,Peshawar,H.City,2018,1500000,Theft Claim
+50 Years,Male,Peshawar,H.City,2018,1600000,Fraud Claim
+34 Years,Male,Islamabad,S.Swift,2020,725300,Theft Claim
+55 Years,Male,Peshawar,H.BRV,2020,3265000,Theft Claim
+43 Years,Male,Peshawar,T.GLI,2018,2064606,Theft Claim
+35 Years,Male,Peshawar,S.Hustler,2014,1012500,Theft Claim
+22 Years,FeMale ,Islamabad,T.Grande,2018,1835000,Theft Claim
+39 Years,FeMale ,Islamabad,S.Swift,2020,750000,Theft Claim
+27 Years,FeMale ,Islamabad,S.Mehran,2016,725000,Theft Claim
+55 Years,Male,Islamabad,S.Wagon,2020,1395000,Theft Claim
+45 Years,Male,Peshawar,S.Wagon-R,2018,886140,Theft Claim
+36 Years ,Male,Peshawar,T.Aqua,2018,2600000,Theft Claim
+24 Years,FeMale ,Islamabad,S.Wagon-R,2018,1110600,Theft Claim
+48 Years,Male,Islamabad,T.Altis,2018,2541150,Theft Claim
+30 Years,FeMale ,Islamabad,T.Grande,2018,2500000,Theft Claim
+46 Years,Male,Islamabad,T.Aqua,2016,2000000,Theft Claim
+63 Years,Male,Peshawar,T.Grande,2020,2427244,Theft Claim
+39 Yerars,Male,Peshawar,S.Wagon,2020,1433000,Theft Claim
+46 Years,FeMale ,Islamabad,T.Grande,2020,3179500,Theft Claim
+39 Yerars,Male,chakwal,T.Grande,2020,3765000,Theft Claim
+50 Years,Male,chakwal,T.Grande,2020,3550000,Theft Claim
+40 Years,FeMale ,Islamabad,H.BRV,2020,2607500,Theft Claim
+29 Years,FeMale ,Islamabad,S.Swift,2018,1074836,Theft Claim
+40 Years,Male,Islamabad,S.Mehran,2018,550000,Theft Claim
+25 Years,Male,Peshawar,T.Grande,2020,3907000,Theft Claim
+39 Years,Male,Mardan,S.Wagon-R,2014,988200,Theft Claim
+25 Years,FeMale ,Islamabad,T.Grande,2018,2600000,Theft Claim
+36 years ,FeMale ,Islamabad,T.GLI,2018,1772000,Theft Claim
+24 Years,Male,Islamabad,S.Wagon-R,2018,908650,Theft Claim
+46 years,FeMale ,Islamabad,S.Wagon,2020,1295000,Theft Claim
+60 years,Male,Peshawar,T.Grande,2020,3907000,Theft Claim
+47 years ,FeMale ,Muzaffarabad,S.Mehran,2020,601003,Theft Claim
+42 Years,Male,chakwal,S.Wagon,2020,1518000,Theft Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2018,516132,Theft Claim
+27 Years,Male,chakwal,S.Mehran,2016,502239,Theft Claim
+45 Years,Male,Peshawar,S.Wagon,2016,1057515,Theft Claim
+38 Years,Male,Peshawar,H.City,2016,1225000,Theft Claim
+50 Years,Male,Islamabad,T.Grande,2013,2000000,Theft Claim
+40 Years,Male,Islamabad,S.Swift,2018,1225000,Theft Claim
+70 Years,Male,Islamabad,H.City,2016,1700000,Theft Claim
+30 Years,Male,Islamabad,S.Wagon-R,2018,1029600,Theft Claim
+65 Years,FeMale ,Islamabad,T.Altis,2016,1500000,Theft Claim
+50 Years,Male,Peshawar,S.Cultus,2020,1251909,Theft Claim
+73 Years,Male,Islamabad,T.GLI,2016,1772000,Theft Claim
+55 Years,Male,Islamabad,T.GLI,2020,2200000,Theft Claim
+35 Years,FeMale ,Islamabad,H.City,2018,2267500,Accidental Claim
+36 Years ,FeMale ,Islamabad,S.Wagon-R,2016,935370,Theft Claim
+50 Years,FeMale ,Islamabad,S.Wagon-R,2020,1047600,Fraud Claim
+35 Years,Male,Islamabad,H.City,2014,1500000,Theft Claim
+50 Years,Male,Islamabad,H.City,2018,1600000,Accidental Claim
+34 Years,Male,Islamabad,S.Swift,2020,725300,Theft Claim
+55 Years,Male,Peshawar,H.BRV,2020,3265000,Fraud Claim
+43 Years,Male,Mardan,T.GLI,2018,2064606,Theft Claim
+35 Years,Male,Islamabad,S.Hustler,2016,1012500,Accidental Claim
+22 Years,Male,Islamabad,T.Grande,2018,1835000,Theft Claim
+39 Years,Male,Islamabad,S.Swift,2020,750000,Fraud Claim
+27 Years,Male,Islamabad,S.Mehran,2018,725000,Theft Claim
+55 Years,Male,Islamabad,S.Wagon,2020,1395000,Accidental Claim
+45 Years,Male,Islamabad,S.Wagon-R,2018,886140,Theft Claim
+36 Years ,Male,Peshawar,T.Aqua,2018,2600000,Fraud Claim
+24 Years,FeMale ,Islamabad,S.Wagon-R,2020,1110600,Theft Claim
+48 Years,FeMale ,Islamabad,T.Altis,2020,2541150,Accidental Claim
+30 Years,Male,Islamabad,T.Grande,2018,2500000,Theft Claim
+46 Years,Male,Peshawar,T.Aqua,2018,2000000,Fraud Claim
+63 Years,Male,Peshawar,T.Grande,2020,2427244,Theft Claim
+39 Yerars,Male,Mardan,S.Wagon,2020,1433000,Accidental Claim
+46 Years,FeMale ,Islamabad,T.Grande,2020,3179500,Theft Claim
+39 Yerars,Male,Peshawar,T.Grande,2020,3765000,Fraud Claim
+50 Years,Male,Islamabad,T.Grande,2020,3550000,Theft Claim
+40 Years,FeMale ,Islamabad,H.BRV,2020,2607500,Theft Claim
+29 Years,FeMale ,Islamabad,S.Swift,2018,1074836,Theft Claim
+40 Years,Male,Islamabad,S.Mehran,2018,550000,Theft Claim
+25 Years,Male,Islamabad,T.Grande,2018,3907000,Theft Claim
+39 Years,Male,Islamabad,S.Wagon-R,2016,988200,Theft Claim
+25 Years,FeMale ,Islamabad,T.Grande,2018,2600000,Theft Claim
+36 years ,FeMale ,Islamabad,T.GLI,2016,1772000,Theft Claim
+24 Years,Male,Islamabad,S.Wagon-R,2018,908650,Theft Claim
+46 years,FeMale ,Islamabad,S.Wagon,2020,1295000,Theft Claim
+60 years,Male,Peshawar,T.Grande,2020,3907000,Theft Claim
+47 years ,FeMale ,Muzaffarabad,S.Mehran,2020,601003,Theft Claim
+42 Years,Male,chakwal,S.Wagon,2020,1518000,Theft Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2018,516132,Theft Claim
+27 Years,FeMale ,chakwal,S.Mehran,2016,502239,Theft Claim
+45 Years,FeMale ,Islamabad,S.Wagon,2016,1057515,Theft Claim
+38 Years,FeMale ,Islamabad,H.City,2016,1225000,Theft Claim
+50 Years,Male,Islamabad,T.Grande,2013,2000000,Theft Claim
+40 Years,Male,Islamabad,S.Swift,2018,1225000,Theft Claim
+70 Years,Male,Peshawar,H.City,2016,1700000,Theft Claim
+30 Years,FeMale ,Peshawar,S.Wagon-R,2018,1029600,Theft Claim
+65 Years,FeMale ,Peshawar,T.Altis,2014,1500000,Theft Claim
+50 Years,FeMale ,Peshawar,S.Cultus,2018,1251909,Theft Claim
+73 Years,Male,Peshawar,T.GLI,2016,1772000,Accidental Claim
+55 Years,Male,Peshawar,T.GLI,2018,2200000,Theft Claim
+35 Years,FeMale ,Peshawar,H.City,2020,2267500,Fraud Claim
+36 Years ,FeMale ,Peshawar,S.Wagon-R,2018,935370,Theft Claim
+50 Years,FeMale ,Peshawar,S.Wagon-R,2018,1047600,Accidental Claim
+35 Years,Male,Peshawar,H.City,2018,1500000,Theft Claim
+50 Years,Male,Peshawar,H.City,2018,1600000,Fraud Claim
+34 Years,Male,Islamabad,S.Swift,2020,725300,Theft Claim
+55 Years,Male,Peshawar,H.BRV,2020,3265000,Accidental Claim
+43 Years,Male,Peshawar,T.GLI,2018,2064606,Theft Claim
+35 Years,Male,Peshawar,S.Hustler,2014,1012500,Fraud Claim
+22 Years,FeMale ,Islamabad,T.Grande,2018,1835000,Theft Claim
+39 Years,FeMale ,Islamabad,S.Swift,2020,750000,Accidental Claim
+27 Years,FeMale ,Islamabad,S.Mehran,2016,725000,Theft Claim
+55 Years,Male,Islamabad,S.Wagon,2020,1395000,Fraud Claim
+45 Years,Male,Peshawar,S.Wagon-R,2018,886140,Theft Claim
+36 Years ,Male,Peshawar,T.Aqua,2018,2600000,Accidental Claim
+24 Years,FeMale ,Islamabad,S.Wagon-R,2018,1110600,Theft Claim
+48 Years,Male,Islamabad,T.Altis,2018,2541150,Fraud Claim
+30 Years,FeMale ,Islamabad,T.Grande,2018,2500000,Theft Claim
+46 Years,Male,Islamabad,T.Aqua,2016,2000000,Accidental Claim
+63 Years,Male,Peshawar,T.Grande,2020,2427244,Theft Claim
+39 Yerars,Male,Peshawar,S.Wagon,2020,1433000,Fraud Claim
+46 Years,FeMale ,Islamabad,T.Grande,2020,3179500,Theft Claim
+39 Yerars,Male,chakwal,T.Grande,2020,3765000,Theft Claim
+50 Years,Male,chakwal,T.Grande,2020,3550000,Theft Claim
+40 Years,FeMale ,Islamabad,H.BRV,2020,2607500,Theft Claim
+29 Years,FeMale ,Islamabad,S.Swift,2018,1074836,Theft Claim
+40 Years,Male,Islamabad,S.Mehran,2018,550000,Theft Claim
+25 Years,Male,Peshawar,T.Grande,2020,3907000,Theft Claim
+39 Years,Male,Mardan,S.Wagon-R,2014,988200,Theft Claim
+25 Years,FeMale ,Islamabad,T.Grande,2018,2600000,Theft Claim
+36 years ,FeMale ,Islamabad,T.GLI,2018,1772000,Theft Claim
+24 Years,Male,Islamabad,S.Wagon-R,2018,908650,Theft Claim
+46 years,FeMale ,Islamabad,S.Wagon,2020,1295000,Theft Claim
+60 years,Male,Peshawar,T.Grande,2020,3907000,Theft Claim
+47 years ,FeMale ,Muzaffarabad,S.Mehran,2020,601003,Theft Claim
+42 Years,Male,chakwal,S.Wagon,2020,1518000,Theft Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2018,516132,Theft Claim
+27 Years,Male,chakwal,S.Mehran,2016,502239,Theft Claim
+70 Years,Male,Peshawar,H.City,2016,1700000,Theft Claim
+30 Years,Male,Islamabad,S.Wagon-R,2018,1029600,Theft Claim
+45 Years,FeMale ,Islamabad,T.Altis,2014,1500000,Theft Claim
+50 Years,Male,Peshawar,S.Cultus,2018,1251909,Theft Claim
+73 Years,Male,Peshawar,T.GLI,2016,1772000,Theft Claim
+55 Years,Male,Peshawar,T.GLI,2018,2200000,Theft Claim
+35 Years,Male,Islamabad,Suzuki Clutus,2020,2267500,Theft Claim
+36 Years ,FeMale ,Islamabad,S.Wagon-R,2016,935370,Theft Claim
+50 Years,Male,Islamabad,S.Wagon-R,2016,1047600,Theft Claim
+35 Years,FeMale ,Islamabad,H.City,2018,1500000,Theft Claim
+50 Years,Male,Peshawar,H.City,2018,1600000,Theft Claim
+34 Years,FeMale ,Islamabad,S.Swift,2020,725300,Theft Claim
+55 Years,Male,Peshawar,H.BRV,2018,3265000,Theft Claim
+43 Years,FeMale ,Mardan,T.GLI,2018,2064606,Theft Claim
+35 Years,Male,Islamabad,S.Hustler,2016,1012500,Theft Claim
+22 Years,Male,Peshawar,T.Grande,2018,1835000,Theft Claim
+39 Years,FeMale ,Islamabad,S.Swift,2020,750000,Theft Claim
+27 Years,Male,Islamabad,Prince Pearl,2016,725000,Theft Claim
+55 Years,Male,Islamabad,S.Wagon,2020,1395000,Theft Claim
+45 Years,FeMale ,Islamabad,S.Wagon-R,2018,886140,Theft Claim
+36 Years ,Male,Mardan,T.Aqua,2018,2600000,Theft Claim
+24 Years,FeMale ,Islamabad,S.Wagon,2018,1110600,Theft Claim
+48 Years,Male,Islamabad,T.Altis,2018,2541150,Theft Claim
+30 Years,FeMale ,Islamabad,T.Grande,2018,2500000,Theft Claim
+46 Years,FeMale ,Peshawar,T.Aqua,2016,2000000,Theft Claim
+63 Years,Male,Peshawar,T.Grande,2018,2427244,Theft Claim
+39 Yerars,FeMale ,Mardan,S.Wagon,2018,1433000,Accidental Claim
+46 Years,FeMale ,Islamabad,T.Grande,2018,3179500,Theft Claim
+39 Yerars,Male,Islamabad,T.Grande,2020,3765000,Fraud Claim
+50 Years,Male,Islamabad,T.Grande,2020,3550000,Theft Claim
+40 Years,FeMale ,Peshawar,H.BRV,2020,2607500,Accidental Claim
+29 Years,FeMale ,Mardan,S.Swift,2018,1074836,Theft Claim
+40 Years,Male,Peshawar,S.Mehran,2018,550000,Fraud Claim
+25 Years,FeMale ,Islamabad,T.Grande,2020,3907000,Theft Claim
+39 Years,Male,Islamabad,cultus,2014,988200,Accidental Claim
+25 Years,FeMale ,Islamabad,T.Grande,2018,2600000,Theft Claim
+36 years ,FeMale ,Islamabad,T.GLI,2014,1772000,Fraud Claim
+24 Years,Male,Islamabad,S.Wagon-R,214,908650,Theft Claim
+46 years,FeMale ,Islamabad,S.Wagon,2018,1295000,Accidental Claim
+60 years,Male,Peshawar,T.Grande,2020,3907000,Theft Claim
+47 years ,FeMale ,Muzaffarabad,S.Mehran,2018,601003,Fraud Claim
+42 Years,Male,chakwal,S.Wagon,2018,1518000,Theft Claim
+36 Years,Male,Muzaffarabad,S.Mehran,2016,516132,Accidental Claim
+27 Years,Male,chakwal,S.Mehran,2014,502239,Theft Claim
+45 Years,Male,Islamabad,S.Wagon,2018,1057515,Fraud Claim
+38 Years,Male,Islamabad,H.City,2016,1225000,Theft Claim
+50 Years,Male,Islamabad,T.Grande,2014,2000000,Accidental Claim
+40 Years,Male,Islamabad,S.Swift,2018,1225000,Theft Claim
+70 Years,Male,Islamabad,H.City,2016,1700000,Fraud Claim
+30 Years,FeMale ,Islamabad,S.Wagon-R,2020,1029600,Theft Claim
+65 Years,FeMale ,Islamabad,T.Altis,2016,1500000,Theft Claim
+50 Years,Male,Peshawar,S.Cultus,2020,1251909,Theft Claim
+73 Years,Male,Islamabad,T.GLI,2016,1772000,Theft Claim
+55 Years,Male,Islamabad,T.GLI,2018,2200000,Theft Claim
+35 Years,FeMale ,Islamabad,H.City,2020,2267500,Theft Claim
+36 Years ,FeMale ,Islamabad,S.Wagon-R,2018,935370,Theft Claim
+50 Years,FeMale ,Islamabad,S.Wagon-R,2018,1047600,Theft Claim
+35 Years,FeMale ,Islamabad,H.City,2018,1500000,Theft Claim
+50 Years,FeMale ,Islamabad,H.City,2018,1600000,Theft Claim
+34 Years,FeMale ,Islamabad,S.Swift,2020,725300,Theft Claim
+55 Years,FeMale ,Peshawar,H.BRV,2020,3265000,Theft Claim
+43 Years,FeMale ,Mardan,T.GLI,2018,2064606,Theft Claim
+35 Years,FeMale ,Islamabad,S.Hustler,2014,1012500,Theft Claim
+22 Years,Male,Islamabad,T.Grande,2018,1835000,Theft Claim
+39 Years,FeMale ,Islamabad,S.Swift,2020,750000,Theft Claim
+27 Years,Male,Islamabad,S.Mehran,2016,725000,Theft Claim
+55 Years,FeMale ,Islamabad,S.Wagon,2020,1395000,Theft Claim
+45 Years,Male,Islamabad,S.Wagon-R,2018,886140,Theft Claim
+36 Years ,Male,Peshawar,T.Aqua,2018,2600000,Theft Claim
+24 Years,FeMale ,Islamabad,S.Wagon-R,2018,1110600,Theft Claim
+48 Years,FeMale ,Islamabad,T.Altis,2018,2541150,Theft Claim
+30 Years,Male,Islamabad,T.Grande,2018,2500000,Theft Claim
+46 Years,Male,Peshawar,T.Aqua,2016,2000000,Accidental Claim
+63 Years,Male,Peshawar,T.Grande,2018,2427244,Theft Claim
+39 Yerars,Male,Mardan,S.Wagon,2020,1433000,Fraud Claim
+46 Years,FeMale ,Islamabad,T.Grande,2018,3179500,Theft Claim
+39 Yerars,Male,Peshawar,T.Grande,2018,3765000,Accidental Claim
+50 Years,Male,Islamabad,T.Grande,2018,3550000,Theft Claim
+40 Years,FeMale ,Islamabad,H.BRV,2018,2607500,Fraud Claim
+29 Years,FeMale ,Islamabad,S.Swift,2018,1074836,Theft Claim
+40 Years,Male,Islamabad,S.Mehran,2018,550000,Accidental Claim
+25 Years,Male,Islamabad,T.Grande,2018,3907000,Theft Claim
+39 Years,Male,Islamabad,S.Wagon-R,2016,988200,Fraud Claim
+25 Years,FeMale ,Islamabad,T.Grande,2016,2600000,Theft Claim
+36 years ,FeMale ,Islamabad,T.GLI,2016,1772000,Accidental Claim
+35 Years,Male,Islamabad,H.City,2018,1500000,Theft Claim
+50 Years,Male,Islamabad,H.City,2018,1600000,Fraud Claim
+34 Years,Male,Islamabad,S.Swift,2020,725300,Theft Claim
+55 Years,Male,Peshawar,H.BRV,2020,3265000,Accidental Claim
+43 Years,Male,Mardan,T.GLI,2018,2064606,Theft Claim
+35 Years,Male,Islamabad,S.Hustler,2014,1012500,Fraud Claim
+22 Years,Male,Islamabad,T.Grande,2018,1835000,Theft Claim
+39 Years,Male,Islamabad,S.Swift,2020,750000,Accidental Claim
+27 Years,Male,Islamabad,S.Mehran,2016,725000,Theft Claim
+55 Years,Male,Islamabad,S.Wagon,2020,1395000,Fraud Claim
